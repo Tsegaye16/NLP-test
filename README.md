@@ -134,8 +134,8 @@ Historical Documents
 1. **Clone the repository:**
 
 ```bash
-git clone <repository-url>
-cd v1
+git clone https://github.com/Tsegaye16/NLP-test.git
+cd NLP-test
 ```
 
 2. **Create a virtual environment (recommended):**
