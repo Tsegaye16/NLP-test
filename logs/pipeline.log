@@ -1,0 +1,553 @@
+2026-01-04 22:06:02 - historical_analysis - INFO - logger:setup_logging:61 - Logging system initialized
+2026-01-04 22:07:23 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: DocumentLoader initialized | Details: {"data_dir": "E:\\Fortune\\v1\\data\\raw_documents", "supported_formats": [".pdf", ".txt", ".docx", ".html", ".htm"]}
+2026-01-04 22:07:23 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Downloading NLTK resource | Details: {"resource": "wordnet"}
+2026-01-04 22:07:24 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Downloading NLTK resource | Details: {"resource": "averaged_perceptron_tagger"}
+2026-01-04 22:07:29 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: spaCy model loaded | Details: {"model": "en_core_web_lg"}
+2026-01-04 22:07:29 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Tokenizer configured | Details: {"custom_abbreviations": 19}
+2026-01-04 22:07:29 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: TextProcessor initialized
+2026-01-04 22:07:29 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: FeatureExtractor initialized
+2026-01-04 22:07:29 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: NLPPipeline initialized
+2026-01-04 22:07:41 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: HistoricalSummarizer initialized | Details: {"model": "all-MiniLM-L6-v2", "methods": ["textrank", "tfidf", "lexrank", "lsa", "kl"]}
+2026-01-04 22:07:43 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: HistoricalGazetteer initialized | Details: {"gazetteer_dir": "E:\\Fortune\\v1\\data\\gazetteers", "loaded_gazetteers": []}
+2026-01-04 22:07:43 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: HistoricalNER initialized | Details: {"spacy_model": "en_core_web_lg", "gazetteer_entities": 0}
+2026-01-04 22:07:43 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: HistoricalDateParser initialized
+2026-01-04 22:07:43 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: TimelineBuilder initialized
+2026-01-04 22:07:43 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: PoliticalIdeologyAnalyzer initialized | Details: {"dimensions": 10, "movements": 6}
+2026-01-04 22:07:43 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: SocioeconomicAnalyzer initialized | Details: {"indicators": 10, "economic_systems": 5}
+2026-01-04 22:07:43 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: GovernanceAnalyzer initialized | Details: {"indicators": 8, "governance_systems": 7}
+2026-01-04 22:07:43 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: SocialImpactAnalyzer initialized | Details: {"indicators": 8, "impact_categories": 5}
+2026-01-04 22:07:43 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: ComparativeAnalyzer initialized
+2026-01-04 22:07:43 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: TimelineVisualizer initialized
+2026-01-04 22:07:43 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Historical Analysis System initialized
+2026-01-04 22:07:43 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: DocumentLoader initialized | Details: {"data_dir": "E:\\Fortune\\v1\\data\\raw_documents", "supported_formats": [".pdf", ".txt", ".docx", ".html", ".htm"]}
+2026-01-04 22:07:43 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Document discovery | Details: {"format": ".pdf", "count": 12}
+2026-01-04 22:07:43 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Document discovery | Details: {"format": ".txt", "count": 0}
+2026-01-04 22:07:43 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Document discovery | Details: {"format": ".docx", "count": 0}
+2026-01-04 22:07:43 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Document discovery | Details: {"format": ".html", "count": 0}
+2026-01-04 22:07:43 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Document discovery | Details: {"format": ".htm", "count": 0}
+2026-01-04 22:07:43 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Total documents discovered | Details: {"total": 12}
+2026-01-04 22:07:43 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Starting analysis | Details: {"documents": 12, "input_dir": "E:\\Fortune\\v1\\data\\raw_documents", "output_dir": "E:\\Fortune\\v1\\data\\outputs"}
+2026-01-04 22:07:43 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Starting full historical analysis
+2026-01-04 22:07:43 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Step 1: Running NLP Pipeline
+2026-01-04 22:07:43 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: START_full_pipeline_execution
+2026-01-04 22:07:43 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Starting pipeline: Document Loading
+2026-01-04 22:07:43 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: START_load_document | Document: 670455a18706
+2026-01-04 22:07:43 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Document loaded successfully | Document: 670455a18706 | Details: {"word_count": 1466, "page_count": 5, "period": null}
+2026-01-04 22:07:43 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: END_load_document | Document: 670455a18706 | Details: {"duration": "0.20s"}
+2026-01-04 22:07:43 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: START_load_document | Document: d3eb1393655c
+2026-01-04 22:07:43 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Document loaded successfully | Document: d3eb1393655c | Details: {"word_count": 1254, "page_count": 6, "period": "Cold War"}
+2026-01-04 22:07:43 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: END_load_document | Document: d3eb1393655c | Details: {"duration": "0.05s"}
+2026-01-04 22:07:43 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: START_load_document | Document: 031b1c80c392
+2026-01-04 22:07:43 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Document loaded successfully | Document: 031b1c80c392 | Details: {"word_count": 1403, "page_count": 5, "period": "Early Modern"}
+2026-01-04 22:07:43 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: END_load_document | Document: 031b1c80c392 | Details: {"duration": "0.05s"}
+2026-01-04 22:07:43 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: START_load_document | Document: d062e3b9d79d
+2026-01-04 22:07:44 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Document loaded successfully | Document: d062e3b9d79d | Details: {"word_count": 1252, "page_count": 6, "period": "Late 20th Century"}
+2026-01-04 22:07:44 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: END_load_document | Document: d062e3b9d79d | Details: {"duration": "0.09s"}
+2026-01-04 22:07:44 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: START_load_document | Document: f88585105666
+2026-01-04 22:07:44 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Document loaded successfully | Document: f88585105666 | Details: {"word_count": 267, "page_count": 1, "period": null}
+2026-01-04 22:07:44 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: END_load_document | Document: f88585105666 | Details: {"duration": "0.03s"}
+2026-01-04 22:07:44 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: START_load_document | Document: 1b532b8b25d6
+2026-01-04 22:07:44 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Document loaded successfully | Document: 1b532b8b25d6 | Details: {"word_count": 291, "page_count": 2, "period": "Medieval"}
+2026-01-04 22:07:44 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: END_load_document | Document: 1b532b8b25d6 | Details: {"duration": "0.17s"}
+2026-01-04 22:07:44 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: START_load_document | Document: 53d3c1ea4899
+2026-01-04 22:07:44 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Document loaded successfully | Document: 53d3c1ea4899 | Details: {"word_count": 304, "page_count": 2, "period": "Medieval"}
+2026-01-04 22:07:44 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: END_load_document | Document: 53d3c1ea4899 | Details: {"duration": "0.02s"}
+2026-01-04 22:07:44 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: START_load_document | Document: b1f3af4a4305
+2026-01-04 22:07:44 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Document loaded successfully | Document: b1f3af4a4305 | Details: {"word_count": 276, "page_count": 2, "period": "19th Century"}
+2026-01-04 22:07:44 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: END_load_document | Document: b1f3af4a4305 | Details: {"duration": "0.03s"}
+2026-01-04 22:07:44 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: START_load_document | Document: 175c7fd9abeb
+2026-01-04 22:07:44 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Document loaded successfully | Document: 175c7fd9abeb | Details: {"word_count": 1454, "page_count": 6, "period": "Interwar Period"}
+2026-01-04 22:07:44 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: END_load_document | Document: 175c7fd9abeb | Details: {"duration": "0.05s"}
+2026-01-04 22:07:44 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: START_load_document | Document: c7541cbc47ce
+2026-01-04 22:07:44 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Document loaded successfully | Document: c7541cbc47ce | Details: {"word_count": 1532, "page_count": 5, "period": "Medieval"}
+2026-01-04 22:07:44 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: END_load_document | Document: c7541cbc47ce | Details: {"duration": "0.04s"}
+2026-01-04 22:07:44 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: START_load_document | Document: 01d36482cbe7
+2026-01-04 22:07:44 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Document loaded successfully | Document: 01d36482cbe7 | Details: {"word_count": 1272, "page_count": 5, "period": "19th Century"}
+2026-01-04 22:07:44 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: END_load_document | Document: 01d36482cbe7 | Details: {"duration": "0.04s"}
+2026-01-04 22:07:44 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: START_load_document | Document: 644d813d4e62
+2026-01-04 22:07:44 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Document loaded successfully | Document: 644d813d4e62 | Details: {"word_count": 1205, "page_count": 5, "period": "21st Century"}
+2026-01-04 22:07:44 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: END_load_document | Document: 644d813d4e62 | Details: {"duration": "0.18s"}
+2026-01-04 22:07:44 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Metadata saved | Details: {"file": "E:\\Fortune\\v1\\data\\processed\\document_metadata.json", "count": 12}
+2026-01-04 22:07:44 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Processing documents
+2026-01-04 22:07:44 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Starting batch processing | Details: {"document_count": 12}
+2026-01-04 22:07:44 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Processing document 1/12 | Document: 670455a18706
+2026-01-04 22:07:44 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: START_full_text_processing | Document: 670455a18706
+2026-01-04 22:07:44 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: START_text_cleaning | Document: 670455a18706
+2026-01-04 22:07:44 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Entity placeholder not found | Details: {"placeholder": "__ENTITY_0001_DATE__", "entity": "1270"}
+2026-01-04 22:07:44 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Entity placeholder not found | Details: {"placeholder": "__ENTITY_0004_DATE__", "entity": "276 CE"}
+2026-01-04 22:07:44 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Entity placeholder not found | Details: {"placeholder": "__ENTITY_0006_ROMAN_NUMERAL__", "entity": "c"}
+2026-01-04 22:07:44 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Entity placeholder not found | Details: {"placeholder": "__ENTITY_0008_DATE__", "entity": "1000"}
+2026-01-04 22:07:44 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Entity placeholder not found | Details: {"placeholder": "__ENTITY_0021_ROMAN_NUMERAL__", "entity": "c"}
+2026-01-04 22:07:44 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Entity placeholder not found | Details: {"placeholder": "__ENTITY_0028_ROMAN_NUMERAL__", "entity": "c"}
+2026-01-04 22:07:44 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Text cleaning completed | Document: 670455a18706 | Details: {"original_length": 9670, "cleaned_length": 9657, "entities_protected": 38}
+2026-01-04 22:07:44 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: END_text_cleaning | Document: 670455a18706 | Details: {"duration": "0.06s"}
+2026-01-04 22:07:44 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: START_tokenization | Document: 670455a18706
+2026-01-04 22:07:45 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Tokenization completed | Document: 670455a18706 | Details: {"tokens": 1984, "sentences": 78, "entities": 199}
+2026-01-04 22:07:45 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: END_tokenization | Document: 670455a18706 | Details: {"duration": "0.95s"}
+2026-01-04 22:07:45 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: START_normalization | Document: 670455a18706
+2026-01-04 22:07:49 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Normalization completed | Document: 670455a18706 | Details: {"original_tokens": 1984, "normalized_tokens": 1415, "reduction": "28.7%"}
+2026-01-04 22:07:49 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: END_normalization | Document: 670455a18706 | Details: {"duration": "4.10s"}
+2026-01-04 22:07:49 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Document processing complete | Document: 670455a18706 | Details: {"sentences": 78, "tokens": 1984, "normalized_tokens": 1415}
+2026-01-04 22:07:49 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: END_full_text_processing | Document: 670455a18706 | Details: {"duration": "5.11s"}
+2026-01-04 22:07:49 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Processing document 2/12 | Document: d3eb1393655c
+2026-01-04 22:07:49 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: START_full_text_processing | Document: d3eb1393655c
+2026-01-04 22:07:49 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: START_text_cleaning | Document: d3eb1393655c
+2026-01-04 22:07:49 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Entity placeholder not found | Details: {"placeholder": "__ENTITY_0002_DATE__", "entity": "1855"}
+2026-01-04 22:07:49 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Entity placeholder not found | Details: {"placeholder": "__ENTITY_0017_DATE__", "entity": "1977"}
+2026-01-04 22:07:49 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Entity placeholder not found | Details: {"placeholder": "__ENTITY_0021_DATE__", "entity": "1984"}
+2026-01-04 22:07:49 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Entity placeholder not found | Details: {"placeholder": "__ENTITY_0025_DATE__", "entity": "1984"}
+2026-01-04 22:07:49 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Entity placeholder not found | Details: {"placeholder": "__ENTITY_0031_DATE__", "entity": "1977"}
+2026-01-04 22:07:49 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Text cleaning completed | Document: d3eb1393655c | Details: {"original_length": 8574, "cleaned_length": 8547, "entities_protected": 47}
+2026-01-04 22:07:49 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: END_text_cleaning | Document: d3eb1393655c | Details: {"duration": "0.02s"}
+2026-01-04 22:07:49 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: START_tokenization | Document: d3eb1393655c
+2026-01-04 22:07:50 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Tokenization completed | Document: d3eb1393655c | Details: {"tokens": 1719, "sentences": 70, "entities": 165}
+2026-01-04 22:07:50 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: END_tokenization | Document: d3eb1393655c | Details: {"duration": "0.51s"}
+2026-01-04 22:07:50 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: START_normalization | Document: d3eb1393655c
+2026-01-04 22:07:50 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Normalization completed | Document: d3eb1393655c | Details: {"original_tokens": 1719, "normalized_tokens": 1238, "reduction": "28.0%"}
+2026-01-04 22:07:50 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: END_normalization | Document: d3eb1393655c | Details: {"duration": "0.00s"}
+2026-01-04 22:07:50 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Document processing complete | Document: d3eb1393655c | Details: {"sentences": 70, "tokens": 1719, "normalized_tokens": 1238}
+2026-01-04 22:07:50 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: END_full_text_processing | Document: d3eb1393655c | Details: {"duration": "0.53s"}
+2026-01-04 22:07:50 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Processing document 3/12 | Document: 031b1c80c392
+2026-01-04 22:07:50 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: START_full_text_processing | Document: 031b1c80c392
+2026-01-04 22:07:50 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: START_text_cleaning | Document: 031b1c80c392
+2026-01-04 22:07:50 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Entity placeholder not found | Details: {"placeholder": "__ENTITY_0002_DATE__", "entity": "1270"}
+2026-01-04 22:07:50 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Entity placeholder not found | Details: {"placeholder": "__ENTITY_0006_DATE__", "entity": "1855"}
+2026-01-04 22:07:50 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Entity placeholder not found | Details: {"placeholder": "__ENTITY_0018_DATE__", "entity": "1769"}
+2026-01-04 22:07:50 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Entity placeholder not found | Details: {"placeholder": "__ENTITY_0024_DATE__", "entity": "1632"}
+2026-01-04 22:07:50 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Entity placeholder not found | Details: {"placeholder": "__ENTITY_0027_DATE__", "entity": "1632"}
+2026-01-04 22:07:50 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Entity placeholder not found | Details: {"placeholder": "__ENTITY_0032_DATE__", "entity": "1624"}
+2026-01-04 22:07:50 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Entity placeholder not found | Details: {"placeholder": "__ENTITY_0038_DATE__", "entity": "1607"}
+2026-01-04 22:07:50 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Entity placeholder not found | Details: {"placeholder": "__ENTITY_0043_DATE__", "entity": "1529"}
+2026-01-04 22:07:50 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Entity placeholder not found | Details: {"placeholder": "__ENTITY_0046_DATE__", "entity": "1434"}
+2026-01-04 22:07:50 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Entity placeholder not found | Details: {"placeholder": "__ENTITY_0050_DATE__", "entity": "1632"}
+2026-01-04 22:07:50 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Text cleaning completed | Document: 031b1c80c392 | Details: {"original_length": 9541, "cleaned_length": 9525, "entities_protected": 54}
+2026-01-04 22:07:50 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: END_text_cleaning | Document: 031b1c80c392 | Details: {"duration": "0.21s"}
+2026-01-04 22:07:50 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: START_tokenization | Document: 031b1c80c392
+2026-01-04 22:07:51 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Tokenization completed | Document: 031b1c80c392 | Details: {"tokens": 1920, "sentences": 67, "entities": 169}
+2026-01-04 22:07:51 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: END_tokenization | Document: 031b1c80c392 | Details: {"duration": "0.73s"}
+2026-01-04 22:07:51 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: START_normalization | Document: 031b1c80c392
+2026-01-04 22:07:51 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Normalization completed | Document: 031b1c80c392 | Details: {"original_tokens": 1920, "normalized_tokens": 1353, "reduction": "29.5%"}
+2026-01-04 22:07:51 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: END_normalization | Document: 031b1c80c392 | Details: {"duration": "0.01s"}
+2026-01-04 22:07:51 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Document processing complete | Document: 031b1c80c392 | Details: {"sentences": 67, "tokens": 1920, "normalized_tokens": 1353}
+2026-01-04 22:07:51 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: END_full_text_processing | Document: 031b1c80c392 | Details: {"duration": "0.96s"}
+2026-01-04 22:07:51 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Processing document 4/12 | Document: d062e3b9d79d
+2026-01-04 22:07:51 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: START_full_text_processing | Document: d062e3b9d79d
+2026-01-04 22:07:51 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: START_text_cleaning | Document: d062e3b9d79d
+2026-01-04 22:07:51 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Entity placeholder not found | Details: {"placeholder": "__ENTITY_0002_DATE__", "entity": "1855"}
+2026-01-04 22:07:51 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Entity placeholder not found | Details: {"placeholder": "__ENTITY_0021_DATE__", "entity": "1998"}
+2026-01-04 22:07:51 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Entity placeholder not found | Details: {"placeholder": "__ENTITY_0029_DATE__", "entity": "1991"}
+2026-01-04 22:07:51 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Entity placeholder not found | Details: {"placeholder": "__ENTITY_0036_DATE__", "entity": "1991"}
+2026-01-04 22:07:51 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Text cleaning completed | Document: d062e3b9d79d | Details: {"original_length": 8887, "cleaned_length": 8776, "entities_protected": 38}
+2026-01-04 22:07:51 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: END_text_cleaning | Document: d062e3b9d79d | Details: {"duration": "0.02s"}
+2026-01-04 22:07:51 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: START_tokenization | Document: d062e3b9d79d
+2026-01-04 22:07:51 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Tokenization completed | Document: d062e3b9d79d | Details: {"tokens": 1720, "sentences": 68, "entities": 151}
+2026-01-04 22:07:51 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: END_tokenization | Document: d062e3b9d79d | Details: {"duration": "0.37s"}
+2026-01-04 22:07:51 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: START_normalization | Document: d062e3b9d79d
+2026-01-04 22:07:51 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Normalization completed | Document: d062e3b9d79d | Details: {"original_tokens": 1720, "normalized_tokens": 1233, "reduction": "28.3%"}
+2026-01-04 22:07:51 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: END_normalization | Document: d062e3b9d79d | Details: {"duration": "0.01s"}
+2026-01-04 22:07:51 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Document processing complete | Document: d062e3b9d79d | Details: {"sentences": 68, "tokens": 1720, "normalized_tokens": 1233}
+2026-01-04 22:07:51 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: END_full_text_processing | Document: d062e3b9d79d | Details: {"duration": "0.41s"}
+2026-01-04 22:07:51 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Processing document 5/12 | Document: f88585105666
+2026-01-04 22:07:51 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: START_full_text_processing | Document: f88585105666
+2026-01-04 22:07:51 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: START_text_cleaning | Document: f88585105666
+2026-01-04 22:07:51 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Text cleaning completed | Document: f88585105666 | Details: {"original_length": 1720, "cleaned_length": 1714, "entities_protected": 7}
+2026-01-04 22:07:51 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: END_text_cleaning | Document: f88585105666 | Details: {"duration": "0.00s"}
+2026-01-04 22:07:51 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: START_tokenization | Document: f88585105666
+2026-01-04 22:07:51 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Tokenization completed | Document: f88585105666 | Details: {"tokens": 400, "sentences": 11, "entities": 44}
+2026-01-04 22:07:51 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: END_tokenization | Document: f88585105666 | Details: {"duration": "0.09s"}
+2026-01-04 22:07:51 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: START_normalization | Document: f88585105666
+2026-01-04 22:07:51 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Normalization completed | Document: f88585105666 | Details: {"original_tokens": 400, "normalized_tokens": 241, "reduction": "39.8%"}
+2026-01-04 22:07:51 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: END_normalization | Document: f88585105666 | Details: {"duration": "0.00s"}
+2026-01-04 22:07:51 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Document processing complete | Document: f88585105666 | Details: {"sentences": 11, "tokens": 400, "normalized_tokens": 241}
+2026-01-04 22:07:51 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: END_full_text_processing | Document: f88585105666 | Details: {"duration": "0.10s"}
+2026-01-04 22:07:51 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Intermediate results saved | Details: {"file": "E:\\Fortune\\v1\\data\\processed\\intermediate\\processed_batch_5.pkl", "documents_saved": 5}
+2026-01-04 22:07:51 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Processing document 6/12 | Document: 1b532b8b25d6
+2026-01-04 22:07:51 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: START_full_text_processing | Document: 1b532b8b25d6
+2026-01-04 22:07:51 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: START_text_cleaning | Document: 1b532b8b25d6
+2026-01-04 22:07:51 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Entity placeholder not found | Details: {"placeholder": "__ENTITY_0001_DATE__", "entity": "1769"}
+2026-01-04 22:07:51 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Entity placeholder not found | Details: {"placeholder": "__ENTITY_0005_DATE__", "entity": "1632"}
+2026-01-04 22:07:51 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Entity placeholder not found | Details: {"placeholder": "__ENTITY_0009_DATE__", "entity": "1607"}
+2026-01-04 22:07:51 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Entity placeholder not found | Details: {"placeholder": "__ENTITY_0012_DATE__", "entity": "1434"}
+2026-01-04 22:07:51 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Text cleaning completed | Document: 1b532b8b25d6 | Details: {"original_length": 2002, "cleaned_length": 2054, "entities_protected": 15}
+2026-01-04 22:07:51 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: END_text_cleaning | Document: 1b532b8b25d6 | Details: {"duration": "0.01s"}
+2026-01-04 22:07:51 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: START_tokenization | Document: 1b532b8b25d6
+2026-01-04 22:07:51 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Tokenization completed | Document: 1b532b8b25d6 | Details: {"tokens": 432, "sentences": 9, "entities": 32}
+2026-01-04 22:07:51 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: END_tokenization | Document: 1b532b8b25d6 | Details: {"duration": "0.10s"}
+2026-01-04 22:07:51 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: START_normalization | Document: 1b532b8b25d6
+2026-01-04 22:07:51 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Normalization completed | Document: 1b532b8b25d6 | Details: {"original_tokens": 432, "normalized_tokens": 262, "reduction": "39.4%"}
+2026-01-04 22:07:51 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: END_normalization | Document: 1b532b8b25d6 | Details: {"duration": "0.00s"}
+2026-01-04 22:07:51 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Document processing complete | Document: 1b532b8b25d6 | Details: {"sentences": 9, "tokens": 432, "normalized_tokens": 262}
+2026-01-04 22:07:51 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: END_full_text_processing | Document: 1b532b8b25d6 | Details: {"duration": "0.12s"}
+2026-01-04 22:07:51 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Processing document 7/12 | Document: 53d3c1ea4899
+2026-01-04 22:07:51 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: START_full_text_processing | Document: 53d3c1ea4899
+2026-01-04 22:07:51 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: START_text_cleaning | Document: 53d3c1ea4899
+2026-01-04 22:07:51 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Entity placeholder not found | Details: {"placeholder": "__ENTITY_0002_DATE__", "entity": "1270"}
+2026-01-04 22:07:51 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Entity placeholder not found | Details: {"placeholder": "__ENTITY_0005_DATE__", "entity": "1137"}
+2026-01-04 22:07:51 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Entity placeholder not found | Details: {"placeholder": "__ENTITY_0006_DATE__", "entity": "1137-1270"}
+2026-01-04 22:07:51 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Entity placeholder not found | Details: {"placeholder": "__ENTITY_0008_ROMAN_NUMERAL__", "entity": "c"}
+2026-01-04 22:07:51 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Text cleaning completed | Document: 53d3c1ea4899 | Details: {"original_length": 1982, "cleaned_length": 2041, "entities_protected": 9}
+2026-01-04 22:07:51 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: END_text_cleaning | Document: 53d3c1ea4899 | Details: {"duration": "0.01s"}
+2026-01-04 22:07:51 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: START_tokenization | Document: 53d3c1ea4899
+2026-01-04 22:07:52 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Tokenization completed | Document: 53d3c1ea4899 | Details: {"tokens": 440, "sentences": 16, "entities": 30}
+2026-01-04 22:07:52 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: END_tokenization | Document: 53d3c1ea4899 | Details: {"duration": "0.11s"}
+2026-01-04 22:07:52 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: START_normalization | Document: 53d3c1ea4899
+2026-01-04 22:07:52 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Normalization completed | Document: 53d3c1ea4899 | Details: {"original_tokens": 440, "normalized_tokens": 273, "reduction": "38.0%"}
+2026-01-04 22:07:52 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: END_normalization | Document: 53d3c1ea4899 | Details: {"duration": "0.01s"}
+2026-01-04 22:07:52 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Document processing complete | Document: 53d3c1ea4899 | Details: {"sentences": 16, "tokens": 440, "normalized_tokens": 273}
+2026-01-04 22:07:52 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: END_full_text_processing | Document: 53d3c1ea4899 | Details: {"duration": "0.12s"}
+2026-01-04 22:07:52 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Processing document 8/12 | Document: b1f3af4a4305
+2026-01-04 22:07:52 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: START_full_text_processing | Document: b1f3af4a4305
+2026-01-04 22:07:52 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: START_text_cleaning | Document: b1f3af4a4305
+2026-01-04 22:07:52 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Entity placeholder not found | Details: {"placeholder": "__ENTITY_0004_DATE__", "entity": "1935"}
+2026-01-04 22:07:52 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Entity placeholder not found | Details: {"placeholder": "__ENTITY_0008_DATE__", "entity": "1930"}
+2026-01-04 22:07:52 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Entity placeholder not found | Details: {"placeholder": "__ENTITY_0012_DATE__", "entity": "1916"}
+2026-01-04 22:07:52 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Entity placeholder not found | Details: {"placeholder": "__ENTITY_0017_DATE__", "entity": "1889"}
+2026-01-04 22:07:52 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Entity placeholder not found | Details: {"placeholder": "__ENTITY_0021_DATE__", "entity": "1889"}
+2026-01-04 22:07:52 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Entity placeholder not found | Details: {"placeholder": "__ENTITY_0025_DATE__", "entity": "1872"}
+2026-01-04 22:07:52 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Entity placeholder not found | Details: {"placeholder": "__ENTITY_0029_DATE__", "entity": "1855"}
+2026-01-04 22:07:52 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Entity placeholder not found | Details: {"placeholder": "__ENTITY_0033_DATE__", "entity": "1855"}
+2026-01-04 22:07:52 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Text cleaning completed | Document: b1f3af4a4305 | Details: {"original_length": 1932, "cleaned_length": 2048, "entities_protected": 37}
+2026-01-04 22:07:52 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: END_text_cleaning | Document: b1f3af4a4305 | Details: {"duration": "0.01s"}
+2026-01-04 22:07:52 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: START_tokenization | Document: b1f3af4a4305
+2026-01-04 22:07:52 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Tokenization completed | Document: b1f3af4a4305 | Details: {"tokens": 432, "sentences": 14, "entities": 52}
+2026-01-04 22:07:52 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: END_tokenization | Document: b1f3af4a4305 | Details: {"duration": "0.12s"}
+2026-01-04 22:07:52 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: START_normalization | Document: b1f3af4a4305
+2026-01-04 22:07:52 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Normalization completed | Document: b1f3af4a4305 | Details: {"original_tokens": 432, "normalized_tokens": 259, "reduction": "40.0%"}
+2026-01-04 22:07:52 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: END_normalization | Document: b1f3af4a4305 | Details: {"duration": "0.00s"}
+2026-01-04 22:07:52 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Document processing complete | Document: b1f3af4a4305 | Details: {"sentences": 14, "tokens": 432, "normalized_tokens": 259}
+2026-01-04 22:07:52 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: END_full_text_processing | Document: b1f3af4a4305 | Details: {"duration": "0.13s"}
+2026-01-04 22:07:52 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Processing document 9/12 | Document: 175c7fd9abeb
+2026-01-04 22:07:52 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: START_full_text_processing | Document: 175c7fd9abeb
+2026-01-04 22:07:52 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: START_text_cleaning | Document: 175c7fd9abeb
+2026-01-04 22:07:52 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Entity placeholder not found | Details: {"placeholder": "__ENTITY_0005_DATE__", "entity": "1855"}
+2026-01-04 22:07:52 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Entity placeholder not found | Details: {"placeholder": "__ENTITY_0012_DATE__", "entity": "1974"}
+2026-01-04 22:07:52 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Entity placeholder not found | Details: {"placeholder": "__ENTITY_0019_DATE__", "entity": "1973"}
+2026-01-04 22:07:52 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Entity placeholder not found | Details: {"placeholder": "__ENTITY_0028_DATE__", "entity": "1960"}
+2026-01-04 22:07:52 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Entity placeholder not found | Details: {"placeholder": "__ENTITY_0047_DATE__", "entity": "1935"}
+2026-01-04 22:07:52 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Entity placeholder not found | Details: {"placeholder": "__ENTITY_0056_DATE__", "entity": "1916"}
+2026-01-04 22:07:52 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Entity placeholder not found | Details: {"placeholder": "__ENTITY_0062_DATE__", "entity": "1892"}
+2026-01-04 22:07:52 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Text cleaning completed | Document: 175c7fd9abeb | Details: {"original_length": 9810, "cleaned_length": 9795, "entities_protected": 70}
+2026-01-04 22:07:52 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: END_text_cleaning | Document: 175c7fd9abeb | Details: {"duration": "0.03s"}
+2026-01-04 22:07:52 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: START_tokenization | Document: 175c7fd9abeb
+2026-01-04 22:07:52 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Tokenization completed | Document: 175c7fd9abeb | Details: {"tokens": 1931, "sentences": 82, "entities": 171}
+2026-01-04 22:07:52 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: END_tokenization | Document: 175c7fd9abeb | Details: {"duration": "0.39s"}
+2026-01-04 22:07:52 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: START_normalization | Document: 175c7fd9abeb
+2026-01-04 22:07:52 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Normalization completed | Document: 175c7fd9abeb | Details: {"original_tokens": 1931, "normalized_tokens": 1417, "reduction": "26.6%"}
+2026-01-04 22:07:52 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: END_normalization | Document: 175c7fd9abeb | Details: {"duration": "0.02s"}
+2026-01-04 22:07:52 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Document processing complete | Document: 175c7fd9abeb | Details: {"sentences": 82, "tokens": 1931, "normalized_tokens": 1417}
+2026-01-04 22:07:52 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: END_full_text_processing | Document: 175c7fd9abeb | Details: {"duration": "0.44s"}
+2026-01-04 22:07:52 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Processing document 10/12 | Document: c7541cbc47ce
+2026-01-04 22:07:52 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: START_full_text_processing | Document: c7541cbc47ce
+2026-01-04 22:07:52 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: START_text_cleaning | Document: c7541cbc47ce
+2026-01-04 22:07:52 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Entity placeholder not found | Details: {"placeholder": "__ENTITY_0001_DATE__", "entity": "1000"}
+2026-01-04 22:07:52 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Entity placeholder not found | Details: {"placeholder": "__ENTITY_0007_DATE__", "entity": "1270"}
+2026-01-04 22:07:52 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Entity placeholder not found | Details: {"placeholder": "__ENTITY_0011_DATE__", "entity": "1529"}
+2026-01-04 22:07:52 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Entity placeholder not found | Details: {"placeholder": "__ENTITY_0015_DATE__", "entity": "1434"}
+2026-01-04 22:07:52 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Entity placeholder not found | Details: {"placeholder": "__ENTITY_0019_DATE__", "entity": "1314"}
+2026-01-04 22:07:52 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Entity placeholder not found | Details: {"placeholder": "__ENTITY_0026_DATE__", "entity": "1270"}
+2026-01-04 22:07:52 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Entity placeholder not found | Details: {"placeholder": "__ENTITY_0030_DATE__", "entity": "1185"}
+2026-01-04 22:07:52 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Entity placeholder not found | Details: {"placeholder": "__ENTITY_0032_ROMAN_NUMERAL__", "entity": "c"}
+2026-01-04 22:07:52 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Entity placeholder not found | Details: {"placeholder": "__ENTITY_0034_DATE__", "entity": "1137"}
+2026-01-04 22:07:52 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Entity placeholder not found | Details: {"placeholder": "__ENTITY_0035_DATE__", "entity": "1137-1270"}
+2026-01-04 22:07:52 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Entity placeholder not found | Details: {"placeholder": "__ENTITY_0037_ROMAN_NUMERAL__", "entity": "c"}
+2026-01-04 22:07:52 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Entity placeholder not found | Details: {"placeholder": "__ENTITY_0041_DATE__", "entity": "1270"}
+2026-01-04 22:07:52 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Entity placeholder not found | Details: {"placeholder": "__ENTITY_0044_DATE__", "entity": "1137"}
+2026-01-04 22:07:52 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Entity placeholder not found | Details: {"placeholder": "__ENTITY_0045_DATE__", "entity": "1137-1270"}
+2026-01-04 22:07:52 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Entity placeholder not found | Details: {"placeholder": "__ENTITY_0047_ROMAN_NUMERAL__", "entity": "c"}
+2026-01-04 22:07:52 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Text cleaning completed | Document: c7541cbc47ce | Details: {"original_length": 10333, "cleaned_length": 10411, "entities_protected": 48}
+2026-01-04 22:07:52 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: END_text_cleaning | Document: c7541cbc47ce | Details: {"duration": "0.03s"}
+2026-01-04 22:07:52 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: START_tokenization | Document: c7541cbc47ce
+2026-01-04 22:07:53 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Tokenization completed | Document: c7541cbc47ce | Details: {"tokens": 2065, "sentences": 74, "entities": 182}
+2026-01-04 22:07:53 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: END_tokenization | Document: c7541cbc47ce | Details: {"duration": "0.45s"}
+2026-01-04 22:07:53 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: START_normalization | Document: c7541cbc47ce
+2026-01-04 22:07:53 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Normalization completed | Document: c7541cbc47ce | Details: {"original_tokens": 2065, "normalized_tokens": 1481, "reduction": "28.3%"}
+2026-01-04 22:07:53 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: END_normalization | Document: c7541cbc47ce | Details: {"duration": "0.02s"}
+2026-01-04 22:07:53 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Document processing complete | Document: c7541cbc47ce | Details: {"sentences": 74, "tokens": 2065, "normalized_tokens": 1481}
+2026-01-04 22:07:53 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: END_full_text_processing | Document: c7541cbc47ce | Details: {"duration": "0.50s"}
+2026-01-04 22:07:53 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Intermediate results saved | Details: {"file": "E:\\Fortune\\v1\\data\\processed\\intermediate\\processed_batch_10.pkl", "documents_saved": 10}
+2026-01-04 22:07:53 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Processing document 11/12 | Document: 01d36482cbe7
+2026-01-04 22:07:53 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: START_full_text_processing | Document: 01d36482cbe7
+2026-01-04 22:07:53 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: START_text_cleaning | Document: 01d36482cbe7
+2026-01-04 22:07:53 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Entity placeholder not found | Details: {"placeholder": "__ENTITY_0006_DATE__", "entity": "1855"}
+2026-01-04 22:07:53 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Entity placeholder not found | Details: {"placeholder": "__ENTITY_0022_DATE__", "entity": "1935"}
+2026-01-04 22:07:53 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Entity placeholder not found | Details: {"placeholder": "__ENTITY_0026_DATE__", "entity": "1930"}
+2026-01-04 22:07:53 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Entity placeholder not found | Details: {"placeholder": "__ENTITY_0031_DATE__", "entity": "1916"}
+2026-01-04 22:07:53 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Entity placeholder not found | Details: {"placeholder": "__ENTITY_0042_DATE__", "entity": "1896"}
+2026-01-04 22:07:53 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Entity placeholder not found | Details: {"placeholder": "__ENTITY_0046_DATE__", "entity": "1889"}
+2026-01-04 22:07:53 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Entity placeholder not found | Details: {"placeholder": "__ENTITY_0057_DATE__", "entity": "1872"}
+2026-01-04 22:07:53 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Entity placeholder not found | Details: {"placeholder": "__ENTITY_0063_DATE__", "entity": "1855"}
+2026-01-04 22:07:53 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Entity placeholder not found | Details: {"placeholder": "__ENTITY_0070_DATE__", "entity": "1855"}
+2026-01-04 22:07:53 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Entity placeholder not found | Details: {"placeholder": "__ENTITY_0078_DATE__", "entity": "1855"}
+2026-01-04 22:07:53 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Text cleaning completed | Document: 01d36482cbe7 | Details: {"original_length": 8428, "cleaned_length": 8472, "entities_protected": 80}
+2026-01-04 22:07:53 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: END_text_cleaning | Document: 01d36482cbe7 | Details: {"duration": "0.03s"}
+2026-01-04 22:07:53 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: START_tokenization | Document: 01d36482cbe7
+2026-01-04 22:07:53 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Tokenization completed | Document: 01d36482cbe7 | Details: {"tokens": 1746, "sentences": 65, "entities": 178}
+2026-01-04 22:07:53 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: END_tokenization | Document: 01d36482cbe7 | Details: {"duration": "0.37s"}
+2026-01-04 22:07:53 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: START_normalization | Document: 01d36482cbe7
+2026-01-04 22:07:53 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Normalization completed | Document: 01d36482cbe7 | Details: {"original_tokens": 1746, "normalized_tokens": 1233, "reduction": "29.4%"}
+2026-01-04 22:07:53 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: END_normalization | Document: 01d36482cbe7 | Details: {"duration": "0.01s"}
+2026-01-04 22:07:53 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Document processing complete | Document: 01d36482cbe7 | Details: {"sentences": 65, "tokens": 1746, "normalized_tokens": 1233}
+2026-01-04 22:07:53 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: END_full_text_processing | Document: 01d36482cbe7 | Details: {"duration": "0.41s"}
+2026-01-04 22:07:53 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Processing document 12/12 | Document: 644d813d4e62
+2026-01-04 22:07:53 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: START_full_text_processing | Document: 644d813d4e62
+2026-01-04 22:07:53 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: START_text_cleaning | Document: 644d813d4e62
+2026-01-04 22:07:53 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Entity placeholder not found | Details: {"placeholder": "__ENTITY_0005_DATE__", "entity": "2019"}
+2026-01-04 22:07:53 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Entity placeholder not found | Details: {"placeholder": "__ENTITY_0009_DATE__", "entity": "2020"}
+2026-01-04 22:07:53 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Entity placeholder not found | Details: {"placeholder": "__ENTITY_0022_DATE__", "entity": "2020"}
+2026-01-04 22:07:53 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Entity placeholder not found | Details: {"placeholder": "__ENTITY_0031_DATE__", "entity": "2018"}
+2026-01-04 22:07:53 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Text cleaning completed | Document: 644d813d4e62 | Details: {"original_length": 8569, "cleaned_length": 8246, "entities_protected": 38}
+2026-01-04 22:07:53 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: END_text_cleaning | Document: 644d813d4e62 | Details: {"duration": "0.03s"}
+2026-01-04 22:07:53 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: START_tokenization | Document: 644d813d4e62
+2026-01-04 22:07:53 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Tokenization completed | Document: 644d813d4e62 | Details: {"tokens": 1631, "sentences": 67, "entities": 130}
+2026-01-04 22:07:53 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: END_tokenization | Document: 644d813d4e62 | Details: {"duration": "0.31s"}
+2026-01-04 22:07:53 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: START_normalization | Document: 644d813d4e62
+2026-01-04 22:07:53 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Normalization completed | Document: 644d813d4e62 | Details: {"original_tokens": 1631, "normalized_tokens": 1177, "reduction": "27.8%"}
+2026-01-04 22:07:53 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: END_normalization | Document: 644d813d4e62 | Details: {"duration": "0.02s"}
+2026-01-04 22:07:53 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Document processing complete | Document: 644d813d4e62 | Details: {"sentences": 67, "tokens": 1631, "normalized_tokens": 1177}
+2026-01-04 22:07:53 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: END_full_text_processing | Document: 644d813d4e62 | Details: {"duration": "0.36s"}
+2026-01-04 22:07:53 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Batch processing complete | Details: {"successful": 12, "failed": 0}
+2026-01-04 22:07:53 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Extracting features
+2026-01-04 22:07:53 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: START_feature_extraction
+2026-01-04 22:08:24 - historical_analysis - INFO - logger:setup_logging:61 - Logging system initialized
+2026-01-04 22:09:41 - historical_analysis - INFO - logger:setup_logging:61 - Logging system initialized
+2026-01-04 22:10:30 - historical_analysis - INFO - logger:setup_logging:61 - Logging system initialized
+2026-01-04 22:11:50 - historical_analysis - INFO - logger:setup_logging:61 - Logging system initialized
+2026-01-04 22:13:12 - historical_analysis - INFO - logger:setup_logging:61 - Logging system initialized
+2026-01-04 22:14:34 - historical_analysis - INFO - logger:setup_logging:61 - Logging system initialized
+2026-01-04 22:15:47 - historical_analysis - INFO - logger:setup_logging:61 - Logging system initialized
+2026-01-04 22:17:21 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: All features extracted | Details: {"feature_types": ["basic_stats", "tfidf", "bow", "embeddings", "topics", "temporal", "readability", "sentiment"], "document_count": 12}
+2026-01-04 22:17:21 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: END_feature_extraction | Details: {"duration": "567.33s"}
+2026-01-04 22:17:21 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Saving pipeline results
+2026-01-04 22:17:21 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Pipeline results saved | Details: {"output_dir": "E:\\Fortune\\v1\\data\\processed", "documents": 12}
+2026-01-04 22:17:21 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Summary report generated | Details: {"report_file": "E:\\Fortune\\v1\\data\\outputs\\pipeline_summary_report.json"}
+2026-01-04 22:17:21 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Pipeline execution complete | Details: {"documents_processed": 12, "feature_types": 8, "output_dir": "E:\\Fortune\\v1\\data\\processed"}
+2026-01-04 22:17:21 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: END_full_pipeline_execution | Details: {"duration": "577.77s"}
+2026-01-04 22:17:21 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Step 2: Document Summarization
+2026-01-04 22:17:21 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Starting batch summarization | Details: {"document_count": 12, "method": "textrank", "compression_ratio": 0.3}
+2026-01-04 22:17:21 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Summarizing document 1/12 | Document: 670455a18706
+2026-01-04 22:17:21 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: START_document_summarization | Document: 670455a18706
+2026-01-04 22:17:23 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Document summarized | Document: 670455a18706 | Details: {"method": "textrank", "original_sentences": 78, "summary_sentences": 10, "compression_ratio": "12.82%"}
+2026-01-04 22:17:23 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: END_document_summarization | Document: 670455a18706 | Details: {"duration": "2.33s"}
+2026-01-04 22:17:23 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Summarizing document 2/12 | Document: d3eb1393655c
+2026-01-04 22:17:23 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: START_document_summarization | Document: d3eb1393655c
+2026-01-04 22:17:24 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Document summarized | Document: d3eb1393655c | Details: {"method": "textrank", "original_sentences": 70, "summary_sentences": 10, "compression_ratio": "14.29%"}
+2026-01-04 22:17:24 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: END_document_summarization | Document: d3eb1393655c | Details: {"duration": "1.21s"}
+2026-01-04 22:17:24 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Summarizing document 3/12 | Document: 031b1c80c392
+2026-01-04 22:17:24 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: START_document_summarization | Document: 031b1c80c392
+2026-01-04 22:17:26 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Document summarized | Document: 031b1c80c392 | Details: {"method": "textrank", "original_sentences": 67, "summary_sentences": 10, "compression_ratio": "14.93%"}
+2026-01-04 22:17:26 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: END_document_summarization | Document: 031b1c80c392 | Details: {"duration": "1.51s"}
+2026-01-04 22:17:26 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Summarizing document 4/12 | Document: d062e3b9d79d
+2026-01-04 22:17:26 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: START_document_summarization | Document: d062e3b9d79d
+2026-01-04 22:17:27 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Document summarized | Document: d062e3b9d79d | Details: {"method": "textrank", "original_sentences": 68, "summary_sentences": 10, "compression_ratio": "14.71%"}
+2026-01-04 22:17:27 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: END_document_summarization | Document: d062e3b9d79d | Details: {"duration": "1.04s"}
+2026-01-04 22:17:27 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Summarizing document 5/12 | Document: f88585105666
+2026-01-04 22:17:27 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: START_document_summarization | Document: f88585105666
+2026-01-04 22:17:27 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Document summarized | Document: f88585105666 | Details: {"method": "textrank", "original_sentences": 11, "summary_sentences": 3, "compression_ratio": "27.27%"}
+2026-01-04 22:17:27 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: END_document_summarization | Document: f88585105666 | Details: {"duration": "0.44s"}
+2026-01-04 22:17:27 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Intermediate summaries saved | Details: {"file": "E:\\Fortune\\v1\\data\\outputs\\summaries\\intermediate\\summaries_batch_5.json", "summaries_saved": 5}
+2026-01-04 22:17:27 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Summarizing document 6/12 | Document: 1b532b8b25d6
+2026-01-04 22:17:27 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: START_document_summarization | Document: 1b532b8b25d6
+2026-01-04 22:17:28 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Document summarized | Document: 1b532b8b25d6 | Details: {"method": "textrank", "original_sentences": 9, "summary_sentences": 3, "compression_ratio": "33.33%"}
+2026-01-04 22:17:28 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: END_document_summarization | Document: 1b532b8b25d6 | Details: {"duration": "0.73s"}
+2026-01-04 22:17:28 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Summarizing document 7/12 | Document: 53d3c1ea4899
+2026-01-04 22:17:28 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: START_document_summarization | Document: 53d3c1ea4899
+2026-01-04 22:17:29 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Document summarized | Document: 53d3c1ea4899 | Details: {"method": "textrank", "original_sentences": 16, "summary_sentences": 4, "compression_ratio": "25.00%"}
+2026-01-04 22:17:29 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: END_document_summarization | Document: 53d3c1ea4899 | Details: {"duration": "0.33s"}
+2026-01-04 22:17:29 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Summarizing document 8/12 | Document: b1f3af4a4305
+2026-01-04 22:17:29 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: START_document_summarization | Document: b1f3af4a4305
+2026-01-04 22:17:29 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Document summarized | Document: b1f3af4a4305 | Details: {"method": "textrank", "original_sentences": 14, "summary_sentences": 4, "compression_ratio": "28.57%"}
+2026-01-04 22:17:29 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: END_document_summarization | Document: b1f3af4a4305 | Details: {"duration": "0.40s"}
+2026-01-04 22:17:29 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Summarizing document 9/12 | Document: 175c7fd9abeb
+2026-01-04 22:17:29 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: START_document_summarization | Document: 175c7fd9abeb
+2026-01-04 22:17:30 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Document summarized | Document: 175c7fd9abeb | Details: {"method": "textrank", "original_sentences": 82, "summary_sentences": 10, "compression_ratio": "12.20%"}
+2026-01-04 22:17:30 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: END_document_summarization | Document: 175c7fd9abeb | Details: {"duration": "1.06s"}
+2026-01-04 22:17:30 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Summarizing document 10/12 | Document: c7541cbc47ce
+2026-01-04 22:17:30 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: START_document_summarization | Document: c7541cbc47ce
+2026-01-04 22:17:31 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Document summarized | Document: c7541cbc47ce | Details: {"method": "textrank", "original_sentences": 74, "summary_sentences": 10, "compression_ratio": "13.51%"}
+2026-01-04 22:17:31 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: END_document_summarization | Document: c7541cbc47ce | Details: {"duration": "1.23s"}
+2026-01-04 22:17:31 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Intermediate summaries saved | Details: {"file": "E:\\Fortune\\v1\\data\\outputs\\summaries\\intermediate\\summaries_batch_10.json", "summaries_saved": 10}
+2026-01-04 22:17:31 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Summarizing document 11/12 | Document: 01d36482cbe7
+2026-01-04 22:17:31 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: START_document_summarization | Document: 01d36482cbe7
+2026-01-04 22:17:32 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Document summarized | Document: 01d36482cbe7 | Details: {"method": "textrank", "original_sentences": 65, "summary_sentences": 10, "compression_ratio": "15.38%"}
+2026-01-04 22:17:32 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: END_document_summarization | Document: 01d36482cbe7 | Details: {"duration": "1.09s"}
+2026-01-04 22:17:32 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Summarizing document 12/12 | Document: 644d813d4e62
+2026-01-04 22:17:32 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: START_document_summarization | Document: 644d813d4e62
+2026-01-04 22:17:33 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Document summarized | Document: 644d813d4e62 | Details: {"method": "textrank", "original_sentences": 67, "summary_sentences": 10, "compression_ratio": "14.93%"}
+2026-01-04 22:17:33 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: END_document_summarization | Document: 644d813d4e62 | Details: {"duration": "0.87s"}
+2026-01-04 22:17:33 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Batch summarization complete | Details: {"successful": 12, "failed": 0}
+2026-01-04 22:17:33 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Summaries saved | Details: {"output_dir": "E:\\Fortune\\v1\\data\\outputs\\summaries", "summary_count": 12, "files_created": ["individual JSON", "consolidated JSON", "CSV"]}
+2026-01-04 22:17:33 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Step 3: Named Entity Recognition
+2026-01-04 22:17:33 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Starting batch entity extraction | Details: {"document_count": 12}
+2026-01-04 22:17:33 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Extracting entities from document 1/12 | Document: 670455a18706
+2026-01-04 22:17:33 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: START_entity_extraction | Document: 670455a18706
+2026-01-04 22:17:43 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Entity extraction complete | Document: 670455a18706 | Details: {"total_entities": 195, "unique_labels": 12, "entity_distribution": {"PERSON": 21, "DATE": 20, "ORG": 40, "GPE": 31, "LOC": 17, "ORDINAL": 6, "CARDINAL": 10, "NORP": 38, "FAC": 4, "LAW": 4, "QUANTITY": 3, "EVENT": 1}}
+2026-01-04 22:17:43 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: END_entity_extraction | Document: 670455a18706 | Details: {"duration": "9.91s"}
+2026-01-04 22:17:43 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Extracting entities from document 2/12 | Document: d3eb1393655c
+2026-01-04 22:17:43 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: START_entity_extraction | Document: d3eb1393655c
+2026-01-04 22:17:44 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Entity extraction complete | Document: d3eb1393655c | Details: {"total_entities": 155, "unique_labels": 12, "entity_distribution": {"PERSON": 28, "EVENT": 8, "DATE": 31, "GPE": 24, "ORG": 38, "NORP": 14, "LAW": 4, "DOCUMENT": 1, "WORK_OF_ART": 1, "CARDINAL": 3, "LOC": 2, "FAC": 1}}
+2026-01-04 22:17:44 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: END_entity_extraction | Document: d3eb1393655c | Details: {"duration": "0.61s"}
+2026-01-04 22:17:44 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Extracting entities from document 3/12 | Document: 031b1c80c392
+2026-01-04 22:17:44 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: START_entity_extraction | Document: 031b1c80c392
+2026-01-04 22:17:44 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Entity extraction complete | Document: 031b1c80c392 | Details: {"total_entities": 177, "unique_labels": 13, "entity_distribution": {"DATE": 40, "GPE": 17, "NORP": 35, "ORG": 26, "PERSON": 37, "EVENT": 4, "CARDINAL": 6, "FAC": 3, "LAW": 4, "WORK_OF_ART": 1, "ORDINAL": 1, "PRODUCT": 2, "LOC": 1}}
+2026-01-04 22:17:44 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: END_entity_extraction | Document: 031b1c80c392 | Details: {"duration": "0.68s"}
+2026-01-04 22:17:44 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Extracting entities from document 4/12 | Document: d062e3b9d79d
+2026-01-04 22:17:44 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: START_entity_extraction | Document: d062e3b9d79d
+2026-01-04 22:17:45 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Entity extraction complete | Document: d062e3b9d79d | Details: {"total_entities": 154, "unique_labels": 10, "entity_distribution": {"PERSON": 9, "DATE": 27, "ORG": 55, "GPE": 13, "EVENT": 10, "LAW": 10, "NORP": 22, "CARDINAL": 6, "PERCENT": 1, "LOC": 1}}
+2026-01-04 22:17:45 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: END_entity_extraction | Document: d062e3b9d79d | Details: {"duration": "0.51s"}
+2026-01-04 22:17:45 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Extracting entities from document 5/12 | Document: f88585105666
+2026-01-04 22:17:45 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: START_entity_extraction | Document: f88585105666
+2026-01-04 22:17:45 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Entity extraction complete | Document: f88585105666 | Details: {"total_entities": 44, "unique_labels": 10, "entity_distribution": {"PERSON": 13, "DATE": 2, "NORP": 8, "GPE": 8, "CARDINAL": 3, "ORG": 3, "LOC": 3, "ORDINAL": 2, "FAC": 1, "PRODUCT": 1}}
+2026-01-04 22:17:45 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: END_entity_extraction | Document: f88585105666 | Details: {"duration": "0.27s"}
+2026-01-04 22:17:45 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Intermediate entities saved | Details: {"file": "E:\\Fortune\\v1\\data\\outputs\\entities\\intermediate\\entities_batch_5.json", "documents_saved": 5}
+2026-01-04 22:17:45 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Extracting entities from document 6/12 | Document: 1b532b8b25d6
+2026-01-04 22:17:45 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: START_entity_extraction | Document: 1b532b8b25d6
+2026-01-04 22:17:45 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Entity extraction complete | Document: 1b532b8b25d6 | Details: {"total_entities": 36, "unique_labels": 8, "entity_distribution": {"PERSON": 8, "DATE": 9, "EVENT": 2, "NORP": 7, "GPE": 4, "ORG": 4, "PRODUCT": 1, "LAW": 1}}
+2026-01-04 22:17:46 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: END_entity_extraction | Document: 1b532b8b25d6 | Details: {"duration": "0.23s"}
+2026-01-04 22:17:46 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Extracting entities from document 7/12 | Document: 53d3c1ea4899
+2026-01-04 22:17:46 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: START_entity_extraction | Document: 53d3c1ea4899
+2026-01-04 22:17:46 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Entity extraction complete | Document: 53d3c1ea4899 | Details: {"total_entities": 32, "unique_labels": 9, "entity_distribution": {"PERSON": 11, "DATE": 2, "ORG": 5, "GPE": 3, "CARDINAL": 3, "NORP": 4, "LOC": 2, "WORK_OF_ART": 1, "LAW": 1}}
+2026-01-04 22:17:46 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: END_entity_extraction | Document: 53d3c1ea4899 | Details: {"duration": "0.13s"}
+2026-01-04 22:17:46 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Extracting entities from document 8/12 | Document: b1f3af4a4305
+2026-01-04 22:17:46 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: START_entity_extraction | Document: b1f3af4a4305
+2026-01-04 22:17:46 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Entity extraction complete | Document: b1f3af4a4305 | Details: {"total_entities": 55, "unique_labels": 9, "entity_distribution": {"PERSON": 12, "GPE": 11, "DATE": 15, "ORG": 8, "NORP": 2, "FAC": 3, "ORDINAL": 2, "LOC": 1, "LAW": 1}}
+2026-01-04 22:17:46 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: END_entity_extraction | Document: b1f3af4a4305 | Details: {"duration": "0.14s"}
+2026-01-04 22:17:46 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Extracting entities from document 9/12 | Document: 175c7fd9abeb
+2026-01-04 22:17:46 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: START_entity_extraction | Document: 175c7fd9abeb
+2026-01-04 22:17:46 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Entity extraction complete | Document: 175c7fd9abeb | Details: {"total_entities": 162, "unique_labels": 12, "entity_distribution": {"PERSON": 29, "DATE": 47, "CARDINAL": 3, "ORG": 32, "NORP": 12, "GPE": 20, "FAC": 1, "WORK_OF_ART": 2, "LAW": 5, "ORDINAL": 5, "LOC": 3, "EVENT": 3}}
+2026-01-04 22:17:46 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: END_entity_extraction | Document: 175c7fd9abeb | Details: {"duration": "0.61s"}
+2026-01-04 22:17:46 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Extracting entities from document 10/12 | Document: c7541cbc47ce
+2026-01-04 22:17:46 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: START_entity_extraction | Document: c7541cbc47ce
+2026-01-04 22:17:47 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Entity extraction complete | Document: c7541cbc47ce | Details: {"total_entities": 183, "unique_labels": 12, "entity_distribution": {"PERSON": 29, "ORG": 58, "GPE": 13, "DATE": 23, "NORP": 29, "CARDINAL": 15, "EVENT": 3, "LOC": 4, "LAW": 4, "FAC": 2, "WORK_OF_ART": 2, "PRODUCT": 1}}
+2026-01-04 22:17:47 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: END_entity_extraction | Document: c7541cbc47ce | Details: {"duration": "0.64s"}
+2026-01-04 22:17:47 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Intermediate entities saved | Details: {"file": "E:\\Fortune\\v1\\data\\outputs\\entities\\intermediate\\entities_batch_10.json", "documents_saved": 10}
+2026-01-04 22:17:47 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Extracting entities from document 11/12 | Document: 01d36482cbe7
+2026-01-04 22:17:47 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: START_entity_extraction | Document: 01d36482cbe7
+2026-01-04 22:17:48 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Entity extraction complete | Document: 01d36482cbe7 | Details: {"total_entities": 178, "unique_labels": 12, "entity_distribution": {"PERSON": 26, "ORG": 30, "DATE": 49, "LOC": 6, "GPE": 21, "NORP": 21, "CARDINAL": 4, "PRODUCT": 4, "ORDINAL": 5, "FAC": 5, "LAW": 4, "EVENT": 3}}
+2026-01-04 22:17:48 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: END_entity_extraction | Document: 01d36482cbe7 | Details: {"duration": "0.49s"}
+2026-01-04 22:17:48 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Extracting entities from document 12/12 | Document: 644d813d4e62
+2026-01-04 22:17:48 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: START_entity_extraction | Document: 644d813d4e62
+2026-01-04 22:17:48 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Entity extraction complete | Document: 644d813d4e62 | Details: {"total_entities": 131, "unique_labels": 11, "entity_distribution": {"PERSON": 9, "ORG": 38, "DATE": 30, "NORP": 10, "GPE": 14, "WORK_OF_ART": 4, "CARDINAL": 9, "EVENT": 10, "LAW": 4, "LOC": 2, "ORDINAL": 1}}
+2026-01-04 22:17:48 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: END_entity_extraction | Document: 644d813d4e62 | Details: {"duration": "0.42s"}
+2026-01-04 22:17:48 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Batch entity extraction complete | Details: {"successful": 12, "failed": 0}
+2026-01-04 22:17:48 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Entities saved in multiple formats | Details: {"output_dir": "E:\\Fortune\\v1\\data\\outputs\\entities", "formats": ["json", "csv", "txt"], "document_count": 12}
+2026-01-04 22:17:48 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Step 4: Timeline Construction
+2026-01-04 22:17:48 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: START_timeline_building
+2026-01-04 22:17:48 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Timeline built | Details: {"total_events": 178, "period_range": [50, 2023], "source_documents": 12}
+2026-01-04 22:17:48 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: END_timeline_building | Details: {"duration": "0.08s"}
+2026-01-04 22:17:49 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Events merged | Details: {"original": 164, "merged": 164, "reduction": "0.0%"}
+2026-01-04 22:17:54 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Timeline visualization saved | Details: {"file": "E:\\Fortune\\v1\\data\\outputs\\timelines\\timeline_visualization.png"}
+2026-01-04 22:17:54 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Timeline saved | Details: {"output_dir": "E:\\Fortune\\v1\\data\\outputs\\timelines", "events": 164, "formats": ["JSON", "CSV", "HTML", "Visualization"]}
+2026-01-04 22:17:54 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Step 5: Comparative Analysis
+2026-01-04 22:17:54 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: START_comparative_analysis
+2026-01-04 22:17:54 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Analyzing document 670455a18706
+2026-01-04 22:17:54 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Analyzing document d3eb1393655c
+2026-01-04 22:17:54 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Analyzing document 031b1c80c392
+2026-01-04 22:17:54 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Analyzing document d062e3b9d79d
+2026-01-04 22:17:54 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Analyzing document f88585105666
+2026-01-04 22:17:54 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Analyzing document 1b532b8b25d6
+2026-01-04 22:17:54 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Analyzing document 53d3c1ea4899
+2026-01-04 22:17:54 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Analyzing document b1f3af4a4305
+2026-01-04 22:17:54 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Analyzing document 175c7fd9abeb
+2026-01-04 22:17:54 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Analyzing document c7541cbc47ce
+2026-01-04 22:17:54 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Analyzing document 01d36482cbe7
+2026-01-04 22:17:54 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Analyzing document 644d813d4e62
+2026-01-04 22:17:54 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Comparative analysis complete | Details: {"documents_analyzed": 12, "clusters_found": 5}
+2026-01-04 22:17:54 - historical_analysis.pipeline - DEBUG - logger:log_step:86 - Step: END_comparative_analysis | Details: {"duration": "0.09s"}
+2026-01-04 22:18:04 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Comparative analysis saved | Details: {"output_dir": "E:\\Fortune\\v1\\data\\outputs\\analysis", "documents_analyzed": 12, "clusters": 5}
+2026-01-04 22:18:04 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Step 6: Creating Visualizations
+2026-01-04 22:18:04 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Interactive timeline created | Details: {"output_file": "E:\\Fortune\\v1\\data\\outputs\\visualizations\\interactive_timeline.html", "events": 164}
+2026-01-04 22:18:04 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: EntityNetworkVisualizer initialized
+2026-01-04 22:18:06 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Entity network created | Details: {"output_file": "E:\\Fortune\\v1\\data\\outputs\\visualizations\\entity_network.html", "nodes": 363, "edges": 8662}
+2026-01-04 22:18:06 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: AnalysisDashboard initialized
+2026-01-04 22:18:07 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Analysis dashboard created | Details: {"output_file": "E:\\Fortune\\v1\\data\\outputs\\visualizations\\analysis_dashboard.html"}
+2026-01-04 22:18:07 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Step 7: Generating Comparative Analytical Report
+2026-01-04 22:18:07 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: ComparativeReportGenerator initialized
+2026-01-04 22:18:07 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Comparative report saved | Details: {"output_dir": "E:\\Fortune\\v1\\data\\outputs\\reports\\comparative_analysis", "formats": ["JSON", "TXT"]}
+2026-01-04 22:18:07 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Step 8: Generating Final Report
+2026-01-04 22:18:07 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Final report generated | Details: {"report_file": "E:\\Fortune\\v1\\data\\outputs\\reports\\final_report.txt"}
+2026-01-04 22:18:07 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Historical analysis completed successfully
+2026-01-04 22:18:07 - historical_analysis.pipeline - INFO - logger:log_step:84 - Step: Full analysis completed successfully
+2026-01-04 22:18:07 - historical_analysis.performance - INFO - logger:log_performance_summary:186 - Performance Summary: {
+  "total_steps": 88,
+  "unique_steps": 11,
+  "step_breakdown": {
+    "load_document": {
+      "count": 12,
+      "avg_duration": "0.08s",
+      "min_duration": "0.02s",
+      "max_duration": "0.20s",
+      "total_duration": "0.95s"
+    },
+    "text_cleaning": {
+      "count": 12,
+      "avg_duration": "0.04s",
+      "min_duration": "0.00s",
+      "max_duration": "0.21s",
+      "total_duration": "0.47s"
+    },
+    "tokenization": {
+      "count": 12,
+      "avg_duration": "0.37s",
+      "min_duration": "0.09s",
+      "max_duration": "0.95s",
+      "total_duration": "4.49s"
+    },
+    "normalization": {
+      "count": 12,
+      "avg_duration": "0.35s",
+      "min_duration": "0.00s",
+      "max_duration": "4.10s",
+      "total_duration": "4.21s"
+    },
+    "full_text_processing": {
+      "count": 12,
+      "avg_duration": "0.77s",
+      "min_duration": "0.10s",
+      "max_duration": "5.11s",
+      "total_duration": "9.19s"
+    },
+    "feature_extraction": {
+      "count": 1,
+      "avg_duration": "567.33s",
+      "min_duration": "567.33s",
+      "max_duration": "567.33s",
+      "total_duration": "567.33s"
+    },
+    "full_pipeline_execution": {
+      "count": 1,
+      "avg_duration": "577.77s",
+      "min_duration": "577.77s",
+      "max_duration": "577.77s",
+      "total_duration": "577.77s"
+    },
+    "document_summarization": {
+      "count": 12,
+      "avg_duration": "1.02s",
+      "min_duration": "0.33s",
+      "max_duration": "2.33s",
+      "total_duration": "12.24s"
+    },
+    "entity_extraction": {
+      "count": 12,
+      "avg_duration": "1.22s",
+      "min_duration": "0.13s",
+      "max_duration": "9.91s",
+      "total_duration": "14.64s"
+    },
+    "timeline_building": {
+      "count": 1,
+      "avg_duration": "0.08s",
+      "min_duration": "0.08s",
+      "max_duration": "0.08s",
+      "total_duration": "0.08s"
+    },
+    "comparative_analysis": {
+      "count": 1,
+      "avg_duration": "0.09s",
+      "min_duration": "0.09s",
+      "max_duration": "0.09s",
+      "total_duration": "0.09s"
+    }
+  }
+}
+2026-01-04 22:18:07 - historical_analysis - INFO - logger:save_logs_to_file:213 - Logs saved to E:\Fortune\v1\logs\pipeline_logs_20260104_221807.json

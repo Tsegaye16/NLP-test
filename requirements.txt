@@ -1,0 +1,58 @@
+# Core NLP & ML
+spacy
+nltk
+stanza
+gensim
+scikit-learn
+sentence-transformers
+transformers
+bertopic
+
+# Text Processing
+PyMuPDF
+pdfplumber
+pypdf
+beautifulsoup4
+lxml
+python-docx
+textstat
+rouge-score
+pyyaml
+
+# Data Handling
+pandas
+numpy
+openpyxl
+pyarrow
+
+# Date & Time
+dateparser
+pytz
+
+# Visualization
+matplotlib
+seaborn
+plotly
+networkx
+wordcloud
+umap-learn
+
+# Utilities
+tqdm
+joblib
+pydantic
+click
+colorama
+
+# Logging & Monitoring
+loguru
+structlog
+
+# Web & API
+requests
+fastapi
+uvicorn
+
+# Testing
+pytest
+pytest-cov

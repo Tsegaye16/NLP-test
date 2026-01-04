@@ -1,0 +1,84 @@
+================================================================================
+COMPARATIVE HISTORICAL ANALYSIS REPORT
+================================================================================
+Generated: 2026-01-04 22:18:04
+Documents Analyzed: 12
+Clusters Identified: 5
+Silhouette Score: 0.004
+
+CLUSTER ANALYSIS
+----------------------------------------
+
+Cluster 2 (5 documents):
+  Political Ideology: 1.44
+  Socioeconomic Structure: 0.67
+  Governance Power: 2.86
+  Social Impact: 5.19
+  Example documents: 670455a18706, 031b1c80c392, 1b532b8b25d6
+
+Cluster 4 (2 documents):
+  Political Ideology: 1.35
+  Socioeconomic Structure: 1.13
+  Governance Power: 2.22
+  Social Impact: 1.31
+  Example documents: d3eb1393655c, 175c7fd9abeb
+
+Cluster 1 (3 documents):
+  Political Ideology: 0.96
+  Socioeconomic Structure: 1.27
+  Governance Power: 2.47
+  Social Impact: 2.16
+  Example documents: d062e3b9d79d, 01d36482cbe7, 644d813d4e62
+
+Cluster 0 (1 documents):
+  Political Ideology: 1.66
+  Socioeconomic Structure: 0.00
+  Governance Power: 4.15
+  Social Impact: 8.30
+  Example documents: f88585105666
+
+Cluster 3 (1 documents):
+  Political Ideology: 2.32
+  Socioeconomic Structure: 2.57
+  Governance Power: 3.86
+  Social Impact: 11.58
+  Example documents: b1f3af4a4305
+
+DIMENSION CORRELATIONS
+----------------------------------------
+Political Ideology vs Socioeconomic Structure: 0.165 (Weak positive correlation)
+Political Ideology vs Governance Power: 0.795 (Strong positive correlation)
+Political Ideology vs Social Impact: 0.641 (Moderate positive correlation)
+Socioeconomic Structure vs Governance Power: 0.005 (Weak positive correlation)
+Socioeconomic Structure vs Social Impact: 0.311 (Moderate positive correlation)
+Governance Power vs Social Impact: 0.568 (Moderate positive correlation)
+
+KEY FINDINGS
+----------------------------------------
+
+Highest Political Ideology:
+  - b1f3af4a4305...: 2.32 (Year: 1855)
+  - 53d3c1ea4899...: 2.20 (Year: 1137)
+  - 1b532b8b25d6...: 1.91 (Year: 1434)
+
+Highest Socioeconomic Structure:
+  - b1f3af4a4305...: 2.57 (Year: 1855)
+  - 01d36482cbe7...: 1.62 (Year: 1855)
+  - d062e3b9d79d...: 1.35 (Year: 1991)
+
+Highest Governance Power:
+  - 1b532b8b25d6...: 4.29 (Year: 1434)
+  - f88585105666...: 4.15 (Year: None)
+  - b1f3af4a4305...: 3.86 (Year: 1855)
+
+Highest Social Impact:
+  - b1f3af4a4305...: 11.58 (Year: 1855)
+  - f88585105666...: 8.30 (Year: None)
+  - 1b532b8b25d6...: 7.63 (Year: 1434)
+
+TEMPORAL TRENDS
+----------------------------------------
+Political Ideology decreased by 53.3% from 1137 to 2019
+Socioeconomic Structure increased by 88.7% from 1137 to 2019
+Governance Power decreased by 17.8% from 1137 to 2019
+Social Impact decreased by 100.0% from 1137 to 2019

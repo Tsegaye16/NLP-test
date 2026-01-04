@@ -1,0 +1,3141 @@
+{
+  "metadata": {
+    "generated": "2026-01-04T22:18:07.464315",
+    "documents_analyzed": 12,
+    "report_type": "comparative_historical_analysis"
+  },
+  "executive_summary": {
+    "total_documents": 12,
+    "clusters_identified": 5,
+    "time_period_covered": {
+      "start_year": 1137,
+      "end_year": 2019,
+      "span_years": 882,
+      "document_count": 10
+    },
+    "key_findings": [],
+    "dominant_political_ideology": {
+      "ideology": "liberalism",
+      "document_count": 4,
+      "percentage": 33.33333333333333
+    },
+    "dominant_socioeconomic_system": {
+      "system": "feudalism",
+      "document_count": 6,
+      "percentage": 50.0
+    },
+    "dominant_governance_system": {
+      "system": "monarchy",
+      "document_count": 10,
+      "percentage": 83.33333333333334
+    }
+  },
+  "political_ideology_analysis": {
+    "ideology_distribution": {
+      "nationalism": 3,
+      "liberalism": 4,
+      "conservatism": 4,
+      "monarchism": 1
+    },
+    "ideology_scores": {
+      "nationalism": [
+        0.989399293286219,
+        2.3166023166023164,
+        1.2165450121654504
+      ],
+      "liberalism": [
+        1.211631663974152,
+        0.8921330089213303,
+        1.4820042342978124,
+        0.7646559048428208
+      ],
+      "conservatism": [
+        1.0347376201034737,
+        1.6597510373443984,
+        1.9083969465648856,
+        1.0803511141120865
+      ],
+      "monarchism": [
+        2.197802197802198
+      ]
+    },
+    "ideological_themes": {
+      "nationalism": [
+        "capitalism",
+        "education",
+        "imperialism",
+        "interventionism",
+        "isolationism",
+        "socialism",
+        "diplomacy",
+        "mercantilism",
+        "labor",
+        "imperialism",
+        "socialism",
+        "immigration",
+        "capitalism",
+        "education",
+        "imperialism",
+        "isolationism",
+        "socialism",
+        "immigration",
+        "diplomacy",
+        "mercantilism"
+      ],
+      "liberalism": [
+        "capitalism",
+        "monetarism",
+        "education",
+        "imperialism",
+        "interventionism",
+        "socialism",
+        "civil_rights",
+        "labor",
+        "keynesianism",
+        "capitalism",
+        "education",
+        "socialism",
+        "civil_rights",
+        "immigration",
+        "diplomacy",
+        "keynesianism",
+        "capitalism",
+        "monetarism",
+        "education",
+        "imperialism",
+        "interventionism",
+        "isolationism",
+        "socialism",
+        "civil_rights",
+        "diplomacy",
+        "mercantilism",
+        "capitalism",
+        "monetarism",
+        "interventionism",
+        "socialism",
+        "civil_rights",
+        "diplomacy"
+      ],
+      "conservatism": [
+        "capitalism",
+        "education",
+        "imperialism",
+        "isolationism",
+        "socialism",
+        "mercantilism",
+        "keynesianism",
+        "labor",
+        "imperialism",
+        "mercantilism",
+        "capitalism",
+        "education",
+        "labor",
+        "socialism",
+        "capitalism",
+        "education",
+        "imperialism",
+        "isolationism",
+        "socialism",
+        "immigration",
+        "mercantilism",
+        "keynesianism",
+        "labor"
+      ],
+      "monarchism": [
+        "imperialism",
+        "capitalism"
+      ]
+    },
+    "cluster_ideology_patterns": {
+      "2": {
+        "dominant_ideology": "conservatism",
+        "ideology_count": 3,
+        "documents": 5
+      },
+      "4": {
+        "dominant_ideology": "liberalism",
+        "ideology_count": 1,
+        "documents": 2
+      },
+      "1": {
+        "dominant_ideology": "liberalism",
+        "ideology_count": 2,
+        "documents": 3
+      },
+      "0": {
+        "dominant_ideology": "conservatism",
+        "ideology_count": 1,
+        "documents": 1
+      },
+      "3": {
+        "dominant_ideology": "nationalism",
+        "ideology_count": 1,
+        "documents": 1
+      }
+    },
+    "comparative_insights": [
+      "Documents exhibit 4 distinct political ideologies, with liberalism being the most prevalent."
+    ],
+    "average_scores": {
+      "nationalism": 1.5075155406846619,
+      "liberalism": 1.0876062030090288,
+      "conservatism": 1.420809179531211,
+      "monarchism": 2.197802197802198
+    }
+  },
+  "socioeconomic_analysis": {
+    "economic_systems": {
+      "capitalism": 3,
+      "socialism": 3,
+      "feudalism": 6
+    },
+    "development_indices": [],
+    "inequality_indices": [
+      1.4134275618374557,
+      0.4038772213247173,
+      1.2165450121654502,
+      2.074688796680498,
+      1.7642907551164433,
+      1.688048615800135,
+      1.2165450121654502,
+      0.8496176720475787
+    ],
+    "indicator_scores": {
+      "economic_development": [
+        1.4134275618374557,
+        1.6155088852988693,
+        0.0,
+        3.2441200324412005,
+        0.0,
+        0.0,
+        0.0,
+        7.722007722007723,
+        2.117148906139732,
+        0.675219446320054,
+        3.2441200324412005,
+        2.548853016142736
+      ],
+      "wealth_distribution": [
+        1.4134275618374557,
+        0.8077544426494346,
+        0.0,
+        1.6220600162206003,
+        4.149377593360996,
+        0.0,
+        0.0,
+        0.0,
+        1.4114326040931546,
+        1.350438892640108,
+        0.0,
+        0.0
+      ],
+      "labor_conditions": [
+        0.7067137809187278,
+        3.2310177705977385,
+        0.7390983000739099,
+        1.6220600162206003,
+        0.0,
+        3.8167938931297707,
+        0.0,
+        0.0,
+        1.4114326040931546,
+        1.350438892640108,
+        0.0,
+        0.8496176720475787
+      ],
+      "social_welfare": [
+        0.7067137809187278,
+        1.6155088852988693,
+        0.0,
+        0.0,
+        0.0,
+        3.8167938931297707,
+        0.0,
+        0.0,
+        1.4114326040931546,
+        1.350438892640108,
+        0.8110300081103001,
+        0.8496176720475787
+      ],
+      "trade_commerce": [
+        2.8268551236749113,
+        0.0,
+        0.7390983000739099,
+        0.8110300081103001,
+        8.298755186721992,
+        0.0,
+        3.663003663003663,
+        0.0,
+        0.0,
+        1.350438892640108,
+        0.8110300081103001,
+        0.8496176720475787
+      ],
+      "agriculture": [
+        2.1201413427561837,
+        2.4232633279483036,
+        1.4781966001478197,
+        1.6220600162206003,
+        4.149377593360996,
+        0.0,
+        3.663003663003663,
+        0.0,
+        1.4114326040931546,
+        2.025658338960162,
+        0.8110300081103001,
+        0.8496176720475787
+      ],
+      "urbanization": [
+        2.1201413427561837,
+        2.4232633279483036,
+        1.4781966001478197,
+        2.4330900243309004,
+        0.0,
+        3.8167938931297707,
+        0.0,
+        3.8610038610038613,
+        2.117148906139732,
+        1.350438892640108,
+        0.8110300081103001,
+        0.8496176720475787
+      ],
+      "education_literacy": [
+        0.7067137809187278,
+        1.6155088852988693,
+        1.4781966001478197,
+        0.8110300081103001,
+        0.0,
+        3.8167938931297707,
+        0.0,
+        0.0,
+        1.4114326040931546,
+        2.025658338960162,
+        1.6220600162206003,
+        0.0
+      ],
+      "health_public_health": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "social_mobility": [
+        1.4134275618374557,
+        0.0,
+        0.0,
+        0.8110300081103001,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.117148906139732,
+        2.025658338960162,
+        2.4330900243309004,
+        1.6992353440951573
+      ]
+    },
+    "comparative_insights": [
+      "The dominant economic system across documents is feudalism, appearing in 6 documents."
+    ],
+    "average_development_index": 0,
+    "average_inequality_index": 1.3283800808922162,
+    "average_indicator_scores": {
+      "economic_development": 1.8817004668857475,
+      "wealth_distribution": 0.8962075925668125,
+      "labor_conditions": 1.143931077476799,
+      "social_welfare": 0.8801279780198757,
+      "trade_commerce": 1.6124857378652304,
+      "agriculture": 1.71281509722073,
+      "urbanization": 1.7717270440212134,
+      "education_literacy": 1.1239495105732837,
+      "health_public_health": 0.0,
+      "social_mobility": 0.8749658486228089
+    }
+  },
+  "governance_analysis": {
+    "governance_systems": {
+      "monarchy": 10,
+      "republic": 2
+    },
+    "power_distribution": {
+      "democratic": [
+        0.0,
+        0.0,
+        0.0,
+        0.23529411764705885,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.07692307692307693,
+        0.07142857142857142,
+        0.08333333333333333,
+        0.19999999999999998
+      ],
+      "authoritarian": [
+        0.3,
+        0.3333333333333333,
+        0.5,
+        0.29411764705882354,
+        0.75,
+        0.5,
+        0.5,
+        0.0,
+        0.23076923076923078,
+        0.2857142857142857,
+        0.25,
+        0.19999999999999998
+      ],
+      "military": [
+        0.3,
+        0.3888888888888889,
+        0.25,
+        0.29411764705882354,
+        0.0,
+        0.25,
+        0.25,
+        1.0,
+        0.46153846153846156,
+        0.35714285714285715,
+        0.41666666666666663,
+        0.39999999999999997
+      ],
+      "economic": [
+        0.39999999999999997,
+        0.2777777777777778,
+        0.25,
+        0.17647058823529413,
+        0.25000000000000006,
+        0.25,
+        0.25,
+        0.0,
+        0.23076923076923078,
+        0.2857142857142857,
+        0.25,
+        0.19999999999999998
+      ]
+    },
+    "governance_complexity": [
+      6,
+      6,
+      7,
+      7,
+      5,
+      7,
+      7,
+      4,
+      8,
+      8,
+      8,
+      7
+    ],
+    "comparative_insights": [
+      "The most common governance system is monarchy, found in 10 documents.",
+      "On average, military power has the highest distribution (36.40%) across documents."
+    ],
+    "average_power_distribution": {
+      "democratic": 0.05558159161100337,
+      "authoritarian": 0.3453278747396395,
+      "military": 0.3640295434413081,
+      "economic": 0.23506099020804905
+    },
+    "average_complexity": 6.666666666666667
+  },
+  "social_impact_analysis": {
+    "impact_categories": {
+      "conservative": 6,
+      "revolutionary": 4,
+      "reformist": 1,
+      "progressive": 1
+    },
+    "net_impact_scores": [
+      4.946996466431095,
+      -1.6155088852988682,
+      2.9563932002956395,
+      0.8110300081103006,
+      8.298755186721992,
+      7.633587786259541,
+      3.6630036630036624,
+      11.583011583011583,
+      4.234297812279463,
+      6.75219446320054,
+      5.677210056772101
+    ],
+    "positive_impacts": [
+      1.4134275618374557,
+      3.5335689045936394,
+      1.4134275618374557,
+      0.7067137809187278,
+      1.6155088852988693,
+      0.8077544426494346,
+      1.6155088852988693,
+      0.7390983000739099,
+      0.7390983000739099,
+      3.695491500369549,
+      0.7390983000739099,
+      1.6220600162206003,
+      0.8110300081103001,
+      0.8110300081103001,
+      2.4330900243309004,
+      0.8110300081103001,
+      8.298755186721992,
+      3.8167938931297707,
+      11.450381679389313,
+      10.989010989010989,
+      3.663003663003663,
+      3.8610038610038613,
+      7.722007722007723,
+      2.8228652081863093,
+      1.4114326040931546,
+      1.4114326040931546,
+      2.117148906139732,
+      1.4114326040931546,
+      2.025658338960162,
+      0.675219446320054,
+      4.051316677920324,
+      1.350438892640108,
+      1.350438892640108,
+      2.4330900243309004,
+      0.8110300081103001,
+      1.6220600162206003,
+      2.4330900243309004,
+      2.548853016142736,
+      0.8496176720475787,
+      0.8496176720475787,
+      0.8496176720475787,
+      0.8496176720475787
+    ],
+    "negative_impacts": [
+      2.1201413427561837,
+      4.038772213247173,
+      1.6155088852988693,
+      0.7390983000739099,
+      2.2172949002217295,
+      3.2441200324412005,
+      2.4330900243309004,
+      7.633587786259541,
+      7.326007326007326,
+      3.663003663003663,
+      3.5285815102328866,
+      1.4114326040931546,
+      1.350438892640108,
+      1.350438892640108,
+      0.8110300081103001,
+      0.8110300081103001,
+      5.097706032285472,
+      0.8496176720475787
+    ],
+    "impact_magnitude": [
+      4.687808890961695,
+      5.935758665871999,
+      4.615667404581226,
+      5.734848184805739,
+      8.298755186721992,
+      14.281135064022676,
+      14.186752183909952,
+      8.633467094593783,
+      6.390532913293873,
+      5.35938820607277,
+      4.367530257205599,
+      6.243389318903598
+    ],
+    "comparative_insights": [
+      "On average, documents describe positive social impacts."
+    ],
+    "average_net_impact": 4.994633758253368,
+    "average_positive_impact": 2.504330272252082,
+    "average_negative_impact": 2.791161116322245,
+    "average_magnitude": 7.394586114245407
+  },
+  "cross_document_comparison": {
+    "similarity_clusters": {
+      "2": {
+        "size": 5,
+        "average_overall_score": 2.542152347870112,
+        "common_ideology": "conservatism",
+        "common_system": "feudalism"
+      },
+      "4": {
+        "size": 2,
+        "average_overall_score": 1.5006334392857865,
+        "common_ideology": "liberalism",
+        "common_system": "capitalism"
+      },
+      "1": {
+        "size": 3,
+        "average_overall_score": 1.716264830506366,
+        "common_ideology": "liberalism",
+        "common_system": "capitalism"
+      }
+    },
+    "dimension_correlations": {
+      "political_ideology_socioeconomic_structure": 0.1653886318743977,
+      "political_ideology_governance_power": 0.7952658965854658,
+      "political_ideology_social_impact": 0.6411815241835277,
+      "socioeconomic_structure_governance_power": 0.00522424883403571,
+      "socioeconomic_structure_social_impact": 0.31057066795785304,
+      "governance_power_social_impact": 0.5684919738842648
+    },
+    "document_pairs": []
+  },
+  "temporal_evolution": {
+    "temporal_data": {
+      "1974": {
+        "political_ideology": 1.211631663974152,
+        "socioeconomic_structure": 1.0770059235325795,
+        "governance_power": 2.3222940226171245,
+        "social_impact": -1.6155088852988682
+      },
+      "1632": {
+        "political_ideology": 1.0347376201034737,
+        "socioeconomic_structure": 0.49273220004927326,
+        "governance_power": 2.2172949002217295,
+        "social_impact": 2.9563932002956395
+      },
+      "1991": {
+        "political_ideology": 0.8921330089213303,
+        "socioeconomic_structure": 1.3517166801838336,
+        "governance_power": 2.6358475263584755,
+        "social_impact": 0.8110300081103006
+      },
+      "1434": {
+        "political_ideology": 1.9083969465648856,
+        "socioeconomic_structure": 1.2722646310432568,
+        "governance_power": 4.293893129770993,
+        "social_impact": 7.633587786259541
+      },
+      "1137": {
+        "political_ideology": 1.6390766559571421,
+        "socioeconomic_structure": 0.4501462975467027,
+        "governance_power": 2.9709346471669225,
+        "social_impact": 5.207599063102101
+      },
+      "1855": {
+        "political_ideology": 1.7665736643838834,
+        "socioeconomic_structure": 2.0980312951115874,
+        "governance_power": 3.096357567160487,
+        "social_impact": 8.630110819891842
+      },
+      "1930": {
+        "political_ideology": 1.4820042342978124,
+        "socioeconomic_structure": 1.1761938367442955,
+        "governance_power": 2.117148906139732,
+        "social_impact": 4.234297812279463
+      },
+      "2019": {
+        "political_ideology": 0.7646559048428208,
+        "socioeconomic_structure": 0.8496176720475787,
+        "governance_power": 2.4426508071367885,
+        "social_impact": 0.0
+      }
+    },
+    "trends": {
+      "political_ideology": {
+        "first_year": 1137,
+        "last_year": 2019,
+        "first_score": 1.6390766559571421,
+        "last_score": 0.7646559048428208,
+        "change_percentage": -53.348374399469535,
+        "direction": "decreasing"
+      },
+      "socioeconomic_structure": {
+        "first_year": 1137,
+        "last_year": 2019,
+        "first_score": 0.4501462975467027,
+        "last_score": 0.8496176720475787,
+        "change_percentage": 88.74256584536958,
+        "direction": "increasing"
+      },
+      "governance_power": {
+        "first_year": 1137,
+        "last_year": 2019,
+        "first_score": 2.9709346471669225,
+        "last_score": 2.4426508071367885,
+        "change_percentage": -17.78173883878275,
+        "direction": "decreasing"
+      },
+      "social_impact": {
+        "first_year": 1137,
+        "last_year": 2019,
+        "first_score": 5.207599063102101,
+        "last_score": 0.0,
+        "change_percentage": -100.0,
+        "direction": "decreasing"
+      }
+    },
+    "insights": [
+      "Political Ideology decreasing by 53.3% from 1137 to 2019.",
+      "Socioeconomic Structure increasing by 88.7% from 1137 to 2019.",
+      "Governance Power decreasing by 17.8% from 1137 to 2019.",
+      "Social Impact decreasing by 100.0% from 1137 to 2019."
+    ]
+  },
+  "evidence_citations": {
+    "political_ideology": [
+      {
+        "document_id": "670455a18706",
+        "dimension": "political_ideology",
+        "score": 0.989399293286219,
+        "key_indicators": [
+          "liberalism",
+          "conservatism",
+          "socialism",
+          "nationalism",
+          "imperialism"
+        ],
+        "summary_excerpt": "The Ancient\nand Classical Period, stretching from the first millennium BCE to the 7th cen-\ntury CE, witnessed the rise and transformation of two foundational civilizations:\nthe Kingdom of Dʿmt and the",
+        "key_entities": [
+          "-- Page 1 --\nThe Foundations of Ethiopian Civilization: The\nAncient and Classical",
+          "Period",
+          "Abyssinia",
+          "Ethiopia",
+          "Horn of Africa"
+        ],
+        "metadata": {
+          "document_id": "670455a18706",
+          "filename": "ancient_classical_period.pdf",
+          "file_size": 41405,
+          "file_hash": "36349d0173b69095bfa470b102e8646f",
+          "created_date": "2026-01-02T22:57:10.054504",
+          "modified_date": "2025-12-30T09:41:52",
+          "page_count": 5,
+          "word_count": 1466,
+          "character_count": 9670,
+          "language": "en",
+          "period": null,
+          "source_type": "Treaty",
+          "title": "--- Page 1 ---",
+          "author": null,
+          "year": null,
+          "keywords": [
+            "kingdom",
+            "aksum",
+            "aksumite",
+            "ethiopian",
+            "state",
+            "century",
+            "ethiopia",
+            "church",
+            "structure",
+            "trade"
+          ],
+          "analysis_timestamp": "2026-01-04T22:17:54.543640"
+        }
+      },
+      {
+        "document_id": "d3eb1393655c",
+        "dimension": "political_ideology",
+        "score": 1.211631663974152,
+        "key_indicators": [
+          "liberalism",
+          "conservatism",
+          "socialism",
+          "nationalism",
+          "imperialism"
+        ],
+        "summary_excerpt": "-- Page 1 --\nThe Military Socialist Regime: The Derg\nand the Ethiopian Revolution (1974-\n1991)\nIntroduction: The End of Empire and the Dawn of Revolution\nThe Derg (Amharic for \"committee\" or \"council\"",
+        "key_entities": [
+          "-- Page 1 --\nThe Military Socialist Regime:",
+          "Ethiopian Revolution",
+          "1974-\n1991",
+          "The End of Empire and the Dawn of Revolution",
+          "Derg"
+        ],
+        "metadata": {
+          "document_id": "d3eb1393655c",
+          "filename": "derg_regime_summary.pdf",
+          "file_size": 319741,
+          "file_hash": "ed957521cfea166e34c35a843983343d",
+          "created_date": "2026-01-02T22:57:10.059578",
+          "modified_date": "2025-12-30T09:53:13",
+          "page_count": 6,
+          "word_count": 1254,
+          "character_count": 8574,
+          "language": "en",
+          "period": "Cold War",
+          "source_type": "Speech",
+          "title": "--- Page 1 ---",
+          "author": "radical social engineering",
+          "year": 1974,
+          "keywords": [
+            "derg",
+            "military",
+            "ethiopia",
+            "political",
+            "terror",
+            "economic",
+            "land",
+            "regime",
+            "ethiopian",
+            "people"
+          ],
+          "analysis_timestamp": "2026-01-04T22:17:54.548643"
+        }
+      },
+      {
+        "document_id": "031b1c80c392",
+        "dimension": "political_ideology",
+        "score": 1.0347376201034737,
+        "key_indicators": [
+          "liberalism",
+          "conservatism",
+          "socialism",
+          "nationalism",
+          "imperialism"
+        ],
+        "summary_excerpt": "-- Page 1 --\nThe\nAge\nof Transformation:\nEarly\nModern\nEthiopia and the Gondarine Period\nIntroduction: Challenges to the Solomonic State\nThe period from the 15th to the mid-19th century in Ethiopian his",
+        "key_entities": [
+          "Age",
+          "Ethiopia",
+          "Gondarine",
+          "Period",
+          "period"
+        ],
+        "metadata": {
+          "document_id": "031b1c80c392",
+          "filename": "early_modern_gondarine_period.pdf",
+          "file_size": 42614,
+          "file_hash": "0e5cdde051e3e89fd36ff7d403575a54",
+          "created_date": "2026-01-02T22:57:10.064586",
+          "modified_date": "2025-12-30T09:41:58",
+          "page_count": 5,
+          "word_count": 1403,
+          "character_count": 9541,
+          "language": "en",
+          "period": "Early Modern",
+          "source_type": "Speech",
+          "title": "--- Page 1 ---",
+          "author": "profound internal and external challenges that ultimately led to",
+          "year": 1632,
+          "keywords": [
+            "emperor",
+            "ethiopian",
+            "period",
+            "religious",
+            "gondarine",
+            "empire",
+            "solomonic",
+            "gondar",
+            "state",
+            "church"
+          ],
+          "analysis_timestamp": "2026-01-04T22:17:54.554749"
+        }
+      },
+      {
+        "document_id": "d062e3b9d79d",
+        "dimension": "political_ideology",
+        "score": 0.8921330089213303,
+        "key_indicators": [
+          "liberalism",
+          "conservatism",
+          "socialism",
+          "nationalism",
+          "imperialism"
+        ],
+        "summary_excerpt": "-- Page 1 --\nThe Federal Democratic Republic: The\nEPRDF Era (1991-20180036_DATE__-2018)\nIntroduction: From Civil War to Ethnic Federalism\nThe Ethiopian People's Revolutionary Democratic Front (EPRDF) ",
+        "key_entities": [
+          "-- Page 1 --\nThe Federal Democratic Republic: The\nEPRDF",
+          "Era",
+          "1991-20180036_DATE__-2018",
+          "The Ethiopian People's Revolutionary Democratic Front",
+          "era"
+        ],
+        "metadata": {
+          "document_id": "d062e3b9d79d",
+          "filename": "eprdf_era_summary.pdf",
+          "file_size": 320344,
+          "file_hash": "166d0219717f487bef94e86f66a7dce9",
+          "created_date": "2026-01-02T22:57:10.070149",
+          "modified_date": "2025-12-30T09:53:16",
+          "page_count": 6,
+          "word_count": 1252,
+          "character_count": 8887,
+          "language": "en",
+          "period": "Late 20th Century",
+          "source_type": "Legal Document",
+          "title": "--- Page 1 ---",
+          "author": "the Tigray People",
+          "year": 1991,
+          "keywords": [
+            "eprdf",
+            "political",
+            "state",
+            "ethnic",
+            "ethiopian",
+            "ethiopia",
+            "democratic",
+            "people",
+            "economic",
+            "over"
+          ],
+          "analysis_timestamp": "2026-01-04T22:17:54.560257"
+        }
+      },
+      {
+        "document_id": "f88585105666",
+        "dimension": "political_ideology",
+        "score": 1.6597510373443984,
+        "key_indicators": [
+          "liberalism",
+          "conservatism",
+          "socialism",
+          "nationalism",
+          "imperialism"
+        ],
+        "summary_excerpt": "• Government: Monarchy with strong links to South Arabia (Sabaeans).\n• Culture: First king involved in South Arabian affairs.\n- Endybis: First to mint coins.\n- Ezana:\nConverted to Christianity (mid-4t",
+        "key_entities": [
+          "-- Page 1 --\nResearch Findings:",
+          "Period",
+          "Dʿmt",
+          "Aksum",
+          "One"
+        ],
+        "metadata": {
+          "document_id": "f88585105666",
+          "filename": "ethiopia_history_research_ancient.pdf",
+          "file_size": 21329,
+          "file_hash": "3fdbedbf5ef935c4ccdea1243ff2a0fb",
+          "created_date": "2026-01-02T22:57:10.074159",
+          "modified_date": "2025-12-30T09:41:59",
+          "page_count": 1,
+          "word_count": 267,
+          "character_count": 1720,
+          "language": "en",
+          "period": null,
+          "source_type": "Historical Text",
+          "title": "--- Page 1 ---",
+          "author": null,
+          "year": null,
+          "keywords": [
+            "century",
+            "south",
+            "stele",
+            "aksum",
+            "kingdom",
+            "overview",
+            "yeha",
+            "monuments",
+            "temple",
+            "palace"
+          ],
+          "analysis_timestamp": "2026-01-04T22:17:54.562271"
+        }
+      },
+      {
+        "document_id": "1b532b8b25d6",
+        "dimension": "political_ideology",
+        "score": 1.9083969465648856,
+        "key_indicators": [
+          "liberalism",
+          "conservatism",
+          "socialism",
+          "nationalism",
+          "imperialism"
+        ],
+        "summary_excerpt": "Early Modern & Gondarine\nPeriod\nEarly Modern Period (15th-17th Century)\n• Key Rulers:\n- Zara Yaqob (1434-14680012_DATE__-1468): Centralized authority, reformed the\nchurch, and promoted education.\n Gon",
+        "key_entities": [
+          "-- Page 1 --\nResearch Findings:",
+          "Period",
+          "Early Modern",
+          "Period",
+          "1434-14680012_DATE__-1468"
+        ],
+        "metadata": {
+          "document_id": "1b532b8b25d6",
+          "filename": "ethiopia_history_research_early_modern.pdf",
+          "file_size": 22788,
+          "file_hash": "eae8645f813a440c07268da7dbc797e3",
+          "created_date": "2026-01-02T22:57:10.079169",
+          "modified_date": "2025-12-30T09:42:01",
+          "page_count": 2,
+          "word_count": 291,
+          "character_count": 2002,
+          "language": "en",
+          "period": "Medieval",
+          "source_type": "Speech",
+          "title": "--- Page 1 ---",
+          "author": null,
+          "year": 1434,
+          "keywords": [
+            "period",
+            "gondarine",
+            "government",
+            "structure",
+            "gondar",
+            "fasilides",
+            "power",
+            "page",
+            "early",
+            "modern"
+          ],
+          "analysis_timestamp": "2026-01-04T22:17:54.565268"
+        }
+      },
+      {
+        "document_id": "53d3c1ea4899",
+        "dimension": "political_ideology",
+        "score": 2.197802197802198,
+        "key_indicators": [
+          "liberalism",
+          "conservatism",
+          "socialism",
+          "nationalism",
+          "imperialism"
+        ],
+        "summary_excerpt": "-- Page 1 --\nResearch Findings: Medieval Period (Zagwe and Solomonic Dynasties)\nZagwe Dynasty (__ENTITY_0008_ROMAN_NUMERAL_c. 1137TITY_0006_DATE__0005_DATE__-1270)\n• Overview: An Agaw monarchy that ru",
+        "key_entities": [
+          "-- Page 1 --\nResearch Findings: Medieval",
+          "Period",
+          "Zagwe",
+          "Solomonic Dynasties",
+          "1137TITY_0006_DATE__0005_DATE__-1270"
+        ],
+        "metadata": {
+          "document_id": "53d3c1ea4899",
+          "filename": "ethiopia_history_research_medieval.pdf",
+          "file_size": 20990,
+          "file_hash": "62a31d8c5d0bfb36e16abbcd83669d02",
+          "created_date": "2026-01-02T22:57:10.079169",
+          "modified_date": "2025-12-30T09:42:02",
+          "page_count": 2,
+          "word_count": 304,
+          "character_count": 1982,
+          "language": "en",
+          "period": "Medieval",
+          "source_type": "Historical Text",
+          "title": "--- Page 1 ---",
+          "author": "Yekuno Amlak",
+          "year": 1137,
+          "keywords": [
+            "zagwe",
+            "solomonic",
+            "dynasty",
+            "lalibela",
+            "king",
+            "rock",
+            "agaw",
+            "religious",
+            "hewn",
+            "churches"
+          ],
+          "analysis_timestamp": "2026-01-04T22:17:54.568265"
+        }
+      },
+      {
+        "document_id": "b1f3af4a4305",
+        "dimension": "political_ideology",
+        "score": 2.3166023166023164,
+        "key_indicators": [
+          "liberalism",
+          "conservatism",
+          "socialism",
+          "nationalism",
+          "imperialism"
+        ],
+        "summary_excerpt": "-- Page 1 --\nResearch Findings:\nModern Ethiopia (1855-\n1974)\nUnification and Modernization (1855-18890033_DATE__-1889)\n• Emperor Tewodros II (1855-18680029_DATE__-1868):\n- Overview: Ended the Era of P",
+        "key_entities": [
+          "-- Page 1 --\nResearch Findings:",
+          "Ethiopia",
+          "1855-\n1974",
+          "Unification and Modernization",
+          "1855-18890033_DATE__-1889"
+        ],
+        "metadata": {
+          "document_id": "b1f3af4a4305",
+          "filename": "ethiopia_history_research_modern.pdf",
+          "file_size": 23256,
+          "file_hash": "c255dba930233e3946a4f7cb9952dc0b",
+          "created_date": "2026-01-02T22:57:10.085993",
+          "modified_date": "2025-12-30T09:42:03",
+          "page_count": 2,
+          "word_count": 276,
+          "character_count": 1932,
+          "language": "en",
+          "period": "19th Century",
+          "source_type": "Legal Document",
+          "title": "--- Page 1 ---",
+          "author": "Ras Teferi",
+          "year": 1855,
+          "keywords": [
+            "ethiopia",
+            "overview",
+            "monuments",
+            "government",
+            "modern",
+            "emperor",
+            "system",
+            "palace",
+            "addis",
+            "ababa"
+          ],
+          "analysis_timestamp": "2026-01-04T22:17:54.571080"
+        }
+      },
+      {
+        "document_id": "175c7fd9abeb",
+        "dimension": "political_ideology",
+        "score": 1.4820042342978124,
+        "key_indicators": [
+          "liberalism",
+          "conservatism",
+          "socialism",
+          "nationalism",
+          "imperialism"
+        ],
+        "summary_excerpt": "-- Page 1 --\nThe Imperial Zenith and Collapse: The\nEra of Emperor Haile Selassie I (1930-\n1974)\nIntroduction: The Last Solomonic Emperor\nThe reign of Emperor Haile Selassie I, born Lij Tafari Makonnen",
+        "key_entities": [
+          "-- Page 1 --\nThe Imperial Zenith and Collapse: The\n",
+          "Emperor Haile Selassie",
+          "1930-\n1974",
+          "Lij Tafari Makonnen",
+          "nearly half"
+        ],
+        "metadata": {
+          "document_id": "175c7fd9abeb",
+          "filename": "haile_selassie_summary.pdf",
+          "file_size": 322312,
+          "file_hash": "f07e99d8fe81528260581c4fcf327e46",
+          "created_date": "2026-01-02T22:57:10.089609",
+          "modified_date": "2025-12-30T09:53:07",
+          "page_count": 6,
+          "word_count": 1454,
+          "character_count": 9810,
+          "language": "en",
+          "period": "Interwar Period",
+          "source_type": "Legal Document",
+          "title": "--- Page 1 ---",
+          "author": null,
+          "year": 1930,
+          "keywords": [
+            "emperor",
+            "haile",
+            "selassie",
+            "ethiopia",
+            "imperial",
+            "military",
+            "international",
+            "page",
+            "modern",
+            "power"
+          ],
+          "analysis_timestamp": "2026-01-04T22:17:54.576126"
+        }
+      },
+      {
+        "document_id": "c7541cbc47ce",
+        "dimension": "political_ideology",
+        "score": 1.0803511141120865,
+        "key_indicators": [
+          "liberalism",
+          "conservatism",
+          "socialism",
+          "nationalism",
+          "imperialism"
+        ],
+        "summary_excerpt": "-- Page 1 --\nThe Medieval Ethiopian Empire:\nFrom Zagwe\nRenaissance to Solomonic Restoration\nIntroduction: The Christian Kingdom in Isolation\nThe Medieval Period in Ethiopian history, spanning from the",
+        "key_entities": [
+          "-- Page 1 --\nThe Medieval Ethiopian Empire",
+          "Zagwe\nRenaissance to Solomonic Restoration\nIntroduction",
+          "The Christian Kingdom",
+          "Period",
+          "Ethiopian"
+        ],
+        "metadata": {
+          "document_id": "c7541cbc47ce",
+          "filename": "medieval_period.pdf",
+          "file_size": 45800,
+          "file_hash": "3404f7cae7face6c44fd45907a34c60a",
+          "created_date": "2026-01-02T22:57:10.089609",
+          "modified_date": "2025-12-30T09:42:49",
+          "page_count": 5,
+          "word_count": 1532,
+          "character_count": 10333,
+          "language": "en",
+          "period": "Medieval",
+          "source_type": "Legal Document",
+          "title": "--- Page 1 ---",
+          "author": "two major dynasties",
+          "year": 1137,
+          "keywords": [
+            "solomonic",
+            "zagwe",
+            "ethiopian",
+            "empire",
+            "religious",
+            "dynasty",
+            "church",
+            "imperial",
+            "christian",
+            "period"
+          ],
+          "analysis_timestamp": "2026-01-04T22:17:54.582606"
+        }
+      },
+      {
+        "document_id": "01d36482cbe7",
+        "dimension": "political_ideology",
+        "score": 1.2165450121654504,
+        "key_indicators": [
+          "liberalism",
+          "conservatism",
+          "socialism",
+          "nationalism",
+          "imperialism"
+        ],
+        "summary_excerpt": "-- Page 1 --\nThe Making of Modern Ethiopia: From Unifica-\ntion to the End of Empire (1855-19740078_DATE__-1974)\nIntroduction: The Dawn of a New Era\nThe history of Modern Ethiopia begins in 1855 with t",
+        "key_entities": [
+          "-- Page 1 --\nThe Making of Modern Ethiopia",
+          "the End of Empire",
+          "1855-19740078_DATE__-1974",
+          "Era",
+          "Modern Ethiopia"
+        ],
+        "metadata": {
+          "document_id": "01d36482cbe7",
+          "filename": "modern_ethiopia_period.pdf",
+          "file_size": 41605,
+          "file_hash": "c30deac18794e51f0b595bbf0128b2c0",
+          "created_date": "2026-01-02T22:57:10.099413",
+          "modified_date": "2025-12-30T09:42:54",
+          "page_count": 5,
+          "word_count": 1272,
+          "character_count": 8428,
+          "language": "en",
+          "period": "19th Century",
+          "source_type": "Legal Document",
+          "title": "--- Page 1 ---",
+          "author": null,
+          "year": 1855,
+          "keywords": [
+            "haile",
+            "selassie",
+            "modern",
+            "emperor",
+            "ethiopia",
+            "reign",
+            "empire",
+            "tewodros",
+            "menelik",
+            "ethiopian"
+          ],
+          "analysis_timestamp": "2026-01-04T22:17:54.588610"
+        }
+      },
+      {
+        "document_id": "644d813d4e62",
+        "dimension": "political_ideology",
+        "score": 0.7646559048428208,
+        "key_indicators": [
+          "liberalism",
+          "conservatism",
+          "socialism",
+          "nationalism",
+          "imperialism"
+        ],
+        "summary_excerpt": "-- Page 1 --\nThe Contemporary State: The Prosperity\nParty Period (2019-Present)\nIntroduction: A New Era of Reform and Conflict\nThe Prosperity Party (PP) period, beginning with the election of Dr. Abiy",
+        "key_entities": [
+          "-- Page 1 --\nThe Contemporary State:",
+          "The Prosperity\nParty",
+          "Period",
+          "2019-Present",
+          "period"
+        ],
+        "metadata": {
+          "document_id": "644d813d4e62",
+          "filename": "prosperity_party_summary.pdf",
+          "file_size": 322522,
+          "file_hash": "1c504a94313489cf564f914d0708f2cd",
+          "created_date": "2026-01-02T22:57:10.049353",
+          "modified_date": "2025-12-30T09:53:23",
+          "page_count": 5,
+          "word_count": 1205,
+          "character_count": 8569,
+          "language": "en",
+          "period": "21st Century",
+          "source_type": "Legal Document",
+          "title": "--- Page 1 ---",
+          "author": "internal conflicts",
+          "year": 2019,
+          "keywords": [
+            "party",
+            "political",
+            "tigray",
+            "conflict",
+            "government",
+            "state",
+            "prosperity",
+            "peace",
+            "federal",
+            "eprdf"
+          ],
+          "analysis_timestamp": "2026-01-04T22:17:54.593863"
+        }
+      }
+    ],
+    "socioeconomic_structure": [
+      {
+        "document_id": "670455a18706",
+        "dimension": "socioeconomic_structure",
+        "score": 0.7067137809187279,
+        "key_indicators": [
+          "economic_development",
+          "wealth_distribution",
+          "labor_conditions",
+          "social_welfare",
+          "trade_commerce"
+        ],
+        "summary_excerpt": "The Ancient\nand Classical Period, stretching from the first millennium BCE to the 7th cen-\ntury CE, witnessed the rise and transformation of two foundational civilizations:\nthe Kingdom of Dʿmt and the",
+        "key_entities": [
+          "-- Page 1 --\nThe Foundations of Ethiopian Civilization: The\nAncient and Classical",
+          "Period",
+          "Abyssinia",
+          "Ethiopia",
+          "Horn of Africa"
+        ],
+        "metadata": {
+          "document_id": "670455a18706",
+          "filename": "ancient_classical_period.pdf",
+          "file_size": 41405,
+          "file_hash": "36349d0173b69095bfa470b102e8646f",
+          "created_date": "2026-01-02T22:57:10.054504",
+          "modified_date": "2025-12-30T09:41:52",
+          "page_count": 5,
+          "word_count": 1466,
+          "character_count": 9670,
+          "language": "en",
+          "period": null,
+          "source_type": "Treaty",
+          "title": "--- Page 1 ---",
+          "author": null,
+          "year": null,
+          "keywords": [
+            "kingdom",
+            "aksum",
+            "aksumite",
+            "ethiopian",
+            "state",
+            "century",
+            "ethiopia",
+            "church",
+            "structure",
+            "trade"
+          ],
+          "analysis_timestamp": "2026-01-04T22:17:54.543640"
+        }
+      },
+      {
+        "document_id": "d3eb1393655c",
+        "dimension": "socioeconomic_structure",
+        "score": 1.0770059235325795,
+        "key_indicators": [
+          "economic_development",
+          "wealth_distribution",
+          "labor_conditions",
+          "social_welfare",
+          "trade_commerce"
+        ],
+        "summary_excerpt": "-- Page 1 --\nThe Military Socialist Regime: The Derg\nand the Ethiopian Revolution (1974-\n1991)\nIntroduction: The End of Empire and the Dawn of Revolution\nThe Derg (Amharic for \"committee\" or \"council\"",
+        "key_entities": [
+          "-- Page 1 --\nThe Military Socialist Regime:",
+          "Ethiopian Revolution",
+          "1974-\n1991",
+          "The End of Empire and the Dawn of Revolution",
+          "Derg"
+        ],
+        "metadata": {
+          "document_id": "d3eb1393655c",
+          "filename": "derg_regime_summary.pdf",
+          "file_size": 319741,
+          "file_hash": "ed957521cfea166e34c35a843983343d",
+          "created_date": "2026-01-02T22:57:10.059578",
+          "modified_date": "2025-12-30T09:53:13",
+          "page_count": 6,
+          "word_count": 1254,
+          "character_count": 8574,
+          "language": "en",
+          "period": "Cold War",
+          "source_type": "Speech",
+          "title": "--- Page 1 ---",
+          "author": "radical social engineering",
+          "year": 1974,
+          "keywords": [
+            "derg",
+            "military",
+            "ethiopia",
+            "political",
+            "terror",
+            "economic",
+            "land",
+            "regime",
+            "ethiopian",
+            "people"
+          ],
+          "analysis_timestamp": "2026-01-04T22:17:54.548643"
+        }
+      },
+      {
+        "document_id": "031b1c80c392",
+        "dimension": "socioeconomic_structure",
+        "score": 0.49273220004927326,
+        "key_indicators": [
+          "economic_development",
+          "wealth_distribution",
+          "labor_conditions",
+          "social_welfare",
+          "trade_commerce"
+        ],
+        "summary_excerpt": "-- Page 1 --\nThe\nAge\nof Transformation:\nEarly\nModern\nEthiopia and the Gondarine Period\nIntroduction: Challenges to the Solomonic State\nThe period from the 15th to the mid-19th century in Ethiopian his",
+        "key_entities": [
+          "Age",
+          "Ethiopia",
+          "Gondarine",
+          "Period",
+          "period"
+        ],
+        "metadata": {
+          "document_id": "031b1c80c392",
+          "filename": "early_modern_gondarine_period.pdf",
+          "file_size": 42614,
+          "file_hash": "0e5cdde051e3e89fd36ff7d403575a54",
+          "created_date": "2026-01-02T22:57:10.064586",
+          "modified_date": "2025-12-30T09:41:58",
+          "page_count": 5,
+          "word_count": 1403,
+          "character_count": 9541,
+          "language": "en",
+          "period": "Early Modern",
+          "source_type": "Speech",
+          "title": "--- Page 1 ---",
+          "author": "profound internal and external challenges that ultimately led to",
+          "year": 1632,
+          "keywords": [
+            "emperor",
+            "ethiopian",
+            "period",
+            "religious",
+            "gondarine",
+            "empire",
+            "solomonic",
+            "gondar",
+            "state",
+            "church"
+          ],
+          "analysis_timestamp": "2026-01-04T22:17:54.554749"
+        }
+      },
+      {
+        "document_id": "d062e3b9d79d",
+        "dimension": "socioeconomic_structure",
+        "score": 1.3517166801838336,
+        "key_indicators": [
+          "economic_development",
+          "wealth_distribution",
+          "labor_conditions",
+          "social_welfare",
+          "trade_commerce"
+        ],
+        "summary_excerpt": "-- Page 1 --\nThe Federal Democratic Republic: The\nEPRDF Era (1991-20180036_DATE__-2018)\nIntroduction: From Civil War to Ethnic Federalism\nThe Ethiopian People's Revolutionary Democratic Front (EPRDF) ",
+        "key_entities": [
+          "-- Page 1 --\nThe Federal Democratic Republic: The\nEPRDF",
+          "Era",
+          "1991-20180036_DATE__-2018",
+          "The Ethiopian People's Revolutionary Democratic Front",
+          "era"
+        ],
+        "metadata": {
+          "document_id": "d062e3b9d79d",
+          "filename": "eprdf_era_summary.pdf",
+          "file_size": 320344,
+          "file_hash": "166d0219717f487bef94e86f66a7dce9",
+          "created_date": "2026-01-02T22:57:10.070149",
+          "modified_date": "2025-12-30T09:53:16",
+          "page_count": 6,
+          "word_count": 1252,
+          "character_count": 8887,
+          "language": "en",
+          "period": "Late 20th Century",
+          "source_type": "Legal Document",
+          "title": "--- Page 1 ---",
+          "author": "the Tigray People",
+          "year": 1991,
+          "keywords": [
+            "eprdf",
+            "political",
+            "state",
+            "ethnic",
+            "ethiopian",
+            "ethiopia",
+            "democratic",
+            "people",
+            "economic",
+            "over"
+          ],
+          "analysis_timestamp": "2026-01-04T22:17:54.560257"
+        }
+      },
+      {
+        "document_id": "f88585105666",
+        "dimension": "socioeconomic_structure",
+        "score": 0.0,
+        "key_indicators": [
+          "economic_development",
+          "wealth_distribution",
+          "labor_conditions",
+          "social_welfare",
+          "trade_commerce"
+        ],
+        "summary_excerpt": "• Government: Monarchy with strong links to South Arabia (Sabaeans).\n• Culture: First king involved in South Arabian affairs.\n- Endybis: First to mint coins.\n- Ezana:\nConverted to Christianity (mid-4t",
+        "key_entities": [
+          "-- Page 1 --\nResearch Findings:",
+          "Period",
+          "Dʿmt",
+          "Aksum",
+          "One"
+        ],
+        "metadata": {
+          "document_id": "f88585105666",
+          "filename": "ethiopia_history_research_ancient.pdf",
+          "file_size": 21329,
+          "file_hash": "3fdbedbf5ef935c4ccdea1243ff2a0fb",
+          "created_date": "2026-01-02T22:57:10.074159",
+          "modified_date": "2025-12-30T09:41:59",
+          "page_count": 1,
+          "word_count": 267,
+          "character_count": 1720,
+          "language": "en",
+          "period": null,
+          "source_type": "Historical Text",
+          "title": "--- Page 1 ---",
+          "author": null,
+          "year": null,
+          "keywords": [
+            "century",
+            "south",
+            "stele",
+            "aksum",
+            "kingdom",
+            "overview",
+            "yeha",
+            "monuments",
+            "temple",
+            "palace"
+          ],
+          "analysis_timestamp": "2026-01-04T22:17:54.562271"
+        }
+      },
+      {
+        "document_id": "1b532b8b25d6",
+        "dimension": "socioeconomic_structure",
+        "score": 1.2722646310432568,
+        "key_indicators": [
+          "economic_development",
+          "wealth_distribution",
+          "labor_conditions",
+          "social_welfare",
+          "trade_commerce"
+        ],
+        "summary_excerpt": "Early Modern & Gondarine\nPeriod\nEarly Modern Period (15th-17th Century)\n• Key Rulers:\n- Zara Yaqob (1434-14680012_DATE__-1468): Centralized authority, reformed the\nchurch, and promoted education.\n Gon",
+        "key_entities": [
+          "-- Page 1 --\nResearch Findings:",
+          "Period",
+          "Early Modern",
+          "Period",
+          "1434-14680012_DATE__-1468"
+        ],
+        "metadata": {
+          "document_id": "1b532b8b25d6",
+          "filename": "ethiopia_history_research_early_modern.pdf",
+          "file_size": 22788,
+          "file_hash": "eae8645f813a440c07268da7dbc797e3",
+          "created_date": "2026-01-02T22:57:10.079169",
+          "modified_date": "2025-12-30T09:42:01",
+          "page_count": 2,
+          "word_count": 291,
+          "character_count": 2002,
+          "language": "en",
+          "period": "Medieval",
+          "source_type": "Speech",
+          "title": "--- Page 1 ---",
+          "author": null,
+          "year": 1434,
+          "keywords": [
+            "period",
+            "gondarine",
+            "government",
+            "structure",
+            "gondar",
+            "fasilides",
+            "power",
+            "page",
+            "early",
+            "modern"
+          ],
+          "analysis_timestamp": "2026-01-04T22:17:54.565268"
+        }
+      },
+      {
+        "document_id": "53d3c1ea4899",
+        "dimension": "socioeconomic_structure",
+        "score": 0.0,
+        "key_indicators": [
+          "economic_development",
+          "wealth_distribution",
+          "labor_conditions",
+          "social_welfare",
+          "trade_commerce"
+        ],
+        "summary_excerpt": "-- Page 1 --\nResearch Findings: Medieval Period (Zagwe and Solomonic Dynasties)\nZagwe Dynasty (__ENTITY_0008_ROMAN_NUMERAL_c. 1137TITY_0006_DATE__0005_DATE__-1270)\n• Overview: An Agaw monarchy that ru",
+        "key_entities": [
+          "-- Page 1 --\nResearch Findings: Medieval",
+          "Period",
+          "Zagwe",
+          "Solomonic Dynasties",
+          "1137TITY_0006_DATE__0005_DATE__-1270"
+        ],
+        "metadata": {
+          "document_id": "53d3c1ea4899",
+          "filename": "ethiopia_history_research_medieval.pdf",
+          "file_size": 20990,
+          "file_hash": "62a31d8c5d0bfb36e16abbcd83669d02",
+          "created_date": "2026-01-02T22:57:10.079169",
+          "modified_date": "2025-12-30T09:42:02",
+          "page_count": 2,
+          "word_count": 304,
+          "character_count": 1982,
+          "language": "en",
+          "period": "Medieval",
+          "source_type": "Historical Text",
+          "title": "--- Page 1 ---",
+          "author": "Yekuno Amlak",
+          "year": 1137,
+          "keywords": [
+            "zagwe",
+            "solomonic",
+            "dynasty",
+            "lalibela",
+            "king",
+            "rock",
+            "agaw",
+            "religious",
+            "hewn",
+            "churches"
+          ],
+          "analysis_timestamp": "2026-01-04T22:17:54.568265"
+        }
+      },
+      {
+        "document_id": "b1f3af4a4305",
+        "dimension": "socioeconomic_structure",
+        "score": 2.574002574002574,
+        "key_indicators": [
+          "economic_development",
+          "wealth_distribution",
+          "labor_conditions",
+          "social_welfare",
+          "trade_commerce"
+        ],
+        "summary_excerpt": "-- Page 1 --\nResearch Findings:\nModern Ethiopia (1855-\n1974)\nUnification and Modernization (1855-18890033_DATE__-1889)\n• Emperor Tewodros II (1855-18680029_DATE__-1868):\n- Overview: Ended the Era of P",
+        "key_entities": [
+          "-- Page 1 --\nResearch Findings:",
+          "Ethiopia",
+          "1855-\n1974",
+          "Unification and Modernization",
+          "1855-18890033_DATE__-1889"
+        ],
+        "metadata": {
+          "document_id": "b1f3af4a4305",
+          "filename": "ethiopia_history_research_modern.pdf",
+          "file_size": 23256,
+          "file_hash": "c255dba930233e3946a4f7cb9952dc0b",
+          "created_date": "2026-01-02T22:57:10.085993",
+          "modified_date": "2025-12-30T09:42:03",
+          "page_count": 2,
+          "word_count": 276,
+          "character_count": 1932,
+          "language": "en",
+          "period": "19th Century",
+          "source_type": "Legal Document",
+          "title": "--- Page 1 ---",
+          "author": "Ras Teferi",
+          "year": 1855,
+          "keywords": [
+            "ethiopia",
+            "overview",
+            "monuments",
+            "government",
+            "modern",
+            "emperor",
+            "system",
+            "palace",
+            "addis",
+            "ababa"
+          ],
+          "analysis_timestamp": "2026-01-04T22:17:54.571080"
+        }
+      },
+      {
+        "document_id": "175c7fd9abeb",
+        "dimension": "socioeconomic_structure",
+        "score": 1.1761938367442955,
+        "key_indicators": [
+          "economic_development",
+          "wealth_distribution",
+          "labor_conditions",
+          "social_welfare",
+          "trade_commerce"
+        ],
+        "summary_excerpt": "-- Page 1 --\nThe Imperial Zenith and Collapse: The\nEra of Emperor Haile Selassie I (1930-\n1974)\nIntroduction: The Last Solomonic Emperor\nThe reign of Emperor Haile Selassie I, born Lij Tafari Makonnen",
+        "key_entities": [
+          "-- Page 1 --\nThe Imperial Zenith and Collapse: The\n",
+          "Emperor Haile Selassie",
+          "1930-\n1974",
+          "Lij Tafari Makonnen",
+          "nearly half"
+        ],
+        "metadata": {
+          "document_id": "175c7fd9abeb",
+          "filename": "haile_selassie_summary.pdf",
+          "file_size": 322312,
+          "file_hash": "f07e99d8fe81528260581c4fcf327e46",
+          "created_date": "2026-01-02T22:57:10.089609",
+          "modified_date": "2025-12-30T09:53:07",
+          "page_count": 6,
+          "word_count": 1454,
+          "character_count": 9810,
+          "language": "en",
+          "period": "Interwar Period",
+          "source_type": "Legal Document",
+          "title": "--- Page 1 ---",
+          "author": null,
+          "year": 1930,
+          "keywords": [
+            "emperor",
+            "haile",
+            "selassie",
+            "ethiopia",
+            "imperial",
+            "military",
+            "international",
+            "page",
+            "modern",
+            "power"
+          ],
+          "analysis_timestamp": "2026-01-04T22:17:54.576126"
+        }
+      },
+      {
+        "document_id": "c7541cbc47ce",
+        "dimension": "socioeconomic_structure",
+        "score": 0.9002925950934054,
+        "key_indicators": [
+          "economic_development",
+          "wealth_distribution",
+          "labor_conditions",
+          "social_welfare",
+          "trade_commerce"
+        ],
+        "summary_excerpt": "-- Page 1 --\nThe Medieval Ethiopian Empire:\nFrom Zagwe\nRenaissance to Solomonic Restoration\nIntroduction: The Christian Kingdom in Isolation\nThe Medieval Period in Ethiopian history, spanning from the",
+        "key_entities": [
+          "-- Page 1 --\nThe Medieval Ethiopian Empire",
+          "Zagwe\nRenaissance to Solomonic Restoration\nIntroduction",
+          "The Christian Kingdom",
+          "Period",
+          "Ethiopian"
+        ],
+        "metadata": {
+          "document_id": "c7541cbc47ce",
+          "filename": "medieval_period.pdf",
+          "file_size": 45800,
+          "file_hash": "3404f7cae7face6c44fd45907a34c60a",
+          "created_date": "2026-01-02T22:57:10.089609",
+          "modified_date": "2025-12-30T09:42:49",
+          "page_count": 5,
+          "word_count": 1532,
+          "character_count": 10333,
+          "language": "en",
+          "period": "Medieval",
+          "source_type": "Legal Document",
+          "title": "--- Page 1 ---",
+          "author": "two major dynasties",
+          "year": 1137,
+          "keywords": [
+            "solomonic",
+            "zagwe",
+            "ethiopian",
+            "empire",
+            "religious",
+            "dynasty",
+            "church",
+            "imperial",
+            "christian",
+            "period"
+          ],
+          "analysis_timestamp": "2026-01-04T22:17:54.582606"
+        }
+      },
+      {
+        "document_id": "01d36482cbe7",
+        "dimension": "socioeconomic_structure",
+        "score": 1.6220600162206003,
+        "key_indicators": [
+          "economic_development",
+          "wealth_distribution",
+          "labor_conditions",
+          "social_welfare",
+          "trade_commerce"
+        ],
+        "summary_excerpt": "-- Page 1 --\nThe Making of Modern Ethiopia: From Unifica-\ntion to the End of Empire (1855-19740078_DATE__-1974)\nIntroduction: The Dawn of a New Era\nThe history of Modern Ethiopia begins in 1855 with t",
+        "key_entities": [
+          "-- Page 1 --\nThe Making of Modern Ethiopia",
+          "the End of Empire",
+          "1855-19740078_DATE__-1974",
+          "Era",
+          "Modern Ethiopia"
+        ],
+        "metadata": {
+          "document_id": "01d36482cbe7",
+          "filename": "modern_ethiopia_period.pdf",
+          "file_size": 41605,
+          "file_hash": "c30deac18794e51f0b595bbf0128b2c0",
+          "created_date": "2026-01-02T22:57:10.099413",
+          "modified_date": "2025-12-30T09:42:54",
+          "page_count": 5,
+          "word_count": 1272,
+          "character_count": 8428,
+          "language": "en",
+          "period": "19th Century",
+          "source_type": "Legal Document",
+          "title": "--- Page 1 ---",
+          "author": null,
+          "year": 1855,
+          "keywords": [
+            "haile",
+            "selassie",
+            "modern",
+            "emperor",
+            "ethiopia",
+            "reign",
+            "empire",
+            "tewodros",
+            "menelik",
+            "ethiopian"
+          ],
+          "analysis_timestamp": "2026-01-04T22:17:54.588610"
+        }
+      },
+      {
+        "document_id": "644d813d4e62",
+        "dimension": "socioeconomic_structure",
+        "score": 0.8496176720475787,
+        "key_indicators": [
+          "economic_development",
+          "wealth_distribution",
+          "labor_conditions",
+          "social_welfare",
+          "trade_commerce"
+        ],
+        "summary_excerpt": "-- Page 1 --\nThe Contemporary State: The Prosperity\nParty Period (2019-Present)\nIntroduction: A New Era of Reform and Conflict\nThe Prosperity Party (PP) period, beginning with the election of Dr. Abiy",
+        "key_entities": [
+          "-- Page 1 --\nThe Contemporary State:",
+          "The Prosperity\nParty",
+          "Period",
+          "2019-Present",
+          "period"
+        ],
+        "metadata": {
+          "document_id": "644d813d4e62",
+          "filename": "prosperity_party_summary.pdf",
+          "file_size": 322522,
+          "file_hash": "1c504a94313489cf564f914d0708f2cd",
+          "created_date": "2026-01-02T22:57:10.049353",
+          "modified_date": "2025-12-30T09:53:23",
+          "page_count": 5,
+          "word_count": 1205,
+          "character_count": 8569,
+          "language": "en",
+          "period": "21st Century",
+          "source_type": "Legal Document",
+          "title": "--- Page 1 ---",
+          "author": "internal conflicts",
+          "year": 2019,
+          "keywords": [
+            "party",
+            "political",
+            "tigray",
+            "conflict",
+            "government",
+            "state",
+            "prosperity",
+            "peace",
+            "federal",
+            "eprdf"
+          ],
+          "analysis_timestamp": "2026-01-04T22:17:54.593863"
+        }
+      }
+    ],
+    "governance_power": [
+      {
+        "document_id": "670455a18706",
+        "dimension": "governance_power",
+        "score": 1.8551236749116606,
+        "key_indicators": [
+          "democratic_participation",
+          "authoritarian_control",
+          "legal_framework",
+          "bureaucratic_administration",
+          "military_power"
+        ],
+        "summary_excerpt": "The Ancient\nand Classical Period, stretching from the first millennium BCE to the 7th cen-\ntury CE, witnessed the rise and transformation of two foundational civilizations:\nthe Kingdom of Dʿmt and the",
+        "key_entities": [
+          "-- Page 1 --\nThe Foundations of Ethiopian Civilization: The\nAncient and Classical",
+          "Period",
+          "Abyssinia",
+          "Ethiopia",
+          "Horn of Africa"
+        ],
+        "metadata": {
+          "document_id": "670455a18706",
+          "filename": "ancient_classical_period.pdf",
+          "file_size": 41405,
+          "file_hash": "36349d0173b69095bfa470b102e8646f",
+          "created_date": "2026-01-02T22:57:10.054504",
+          "modified_date": "2025-12-30T09:41:52",
+          "page_count": 5,
+          "word_count": 1466,
+          "character_count": 9670,
+          "language": "en",
+          "period": null,
+          "source_type": "Treaty",
+          "title": "--- Page 1 ---",
+          "author": null,
+          "year": null,
+          "keywords": [
+            "kingdom",
+            "aksum",
+            "aksumite",
+            "ethiopian",
+            "state",
+            "century",
+            "ethiopia",
+            "church",
+            "structure",
+            "trade"
+          ],
+          "analysis_timestamp": "2026-01-04T22:17:54.543640"
+        }
+      },
+      {
+        "document_id": "d3eb1393655c",
+        "dimension": "governance_power",
+        "score": 2.3222940226171245,
+        "key_indicators": [
+          "democratic_participation",
+          "authoritarian_control",
+          "legal_framework",
+          "bureaucratic_administration",
+          "military_power"
+        ],
+        "summary_excerpt": "-- Page 1 --\nThe Military Socialist Regime: The Derg\nand the Ethiopian Revolution (1974-\n1991)\nIntroduction: The End of Empire and the Dawn of Revolution\nThe Derg (Amharic for \"committee\" or \"council\"",
+        "key_entities": [
+          "-- Page 1 --\nThe Military Socialist Regime:",
+          "Ethiopian Revolution",
+          "1974-\n1991",
+          "The End of Empire and the Dawn of Revolution",
+          "Derg"
+        ],
+        "metadata": {
+          "document_id": "d3eb1393655c",
+          "filename": "derg_regime_summary.pdf",
+          "file_size": 319741,
+          "file_hash": "ed957521cfea166e34c35a843983343d",
+          "created_date": "2026-01-02T22:57:10.059578",
+          "modified_date": "2025-12-30T09:53:13",
+          "page_count": 6,
+          "word_count": 1254,
+          "character_count": 8574,
+          "language": "en",
+          "period": "Cold War",
+          "source_type": "Speech",
+          "title": "--- Page 1 ---",
+          "author": "radical social engineering",
+          "year": 1974,
+          "keywords": [
+            "derg",
+            "military",
+            "ethiopia",
+            "political",
+            "terror",
+            "economic",
+            "land",
+            "regime",
+            "ethiopian",
+            "people"
+          ],
+          "analysis_timestamp": "2026-01-04T22:17:54.548643"
+        }
+      },
+      {
+        "document_id": "031b1c80c392",
+        "dimension": "governance_power",
+        "score": 2.2172949002217295,
+        "key_indicators": [
+          "democratic_participation",
+          "authoritarian_control",
+          "legal_framework",
+          "bureaucratic_administration",
+          "military_power"
+        ],
+        "summary_excerpt": "-- Page 1 --\nThe\nAge\nof Transformation:\nEarly\nModern\nEthiopia and the Gondarine Period\nIntroduction: Challenges to the Solomonic State\nThe period from the 15th to the mid-19th century in Ethiopian his",
+        "key_entities": [
+          "Age",
+          "Ethiopia",
+          "Gondarine",
+          "Period",
+          "period"
+        ],
+        "metadata": {
+          "document_id": "031b1c80c392",
+          "filename": "early_modern_gondarine_period.pdf",
+          "file_size": 42614,
+          "file_hash": "0e5cdde051e3e89fd36ff7d403575a54",
+          "created_date": "2026-01-02T22:57:10.064586",
+          "modified_date": "2025-12-30T09:41:58",
+          "page_count": 5,
+          "word_count": 1403,
+          "character_count": 9541,
+          "language": "en",
+          "period": "Early Modern",
+          "source_type": "Speech",
+          "title": "--- Page 1 ---",
+          "author": "profound internal and external challenges that ultimately led to",
+          "year": 1632,
+          "keywords": [
+            "emperor",
+            "ethiopian",
+            "period",
+            "religious",
+            "gondarine",
+            "empire",
+            "solomonic",
+            "gondar",
+            "state",
+            "church"
+          ],
+          "analysis_timestamp": "2026-01-04T22:17:54.554749"
+        }
+      },
+      {
+        "document_id": "d062e3b9d79d",
+        "dimension": "governance_power",
+        "score": 2.6358475263584755,
+        "key_indicators": [
+          "democratic_participation",
+          "authoritarian_control",
+          "legal_framework",
+          "bureaucratic_administration",
+          "military_power"
+        ],
+        "summary_excerpt": "-- Page 1 --\nThe Federal Democratic Republic: The\nEPRDF Era (1991-20180036_DATE__-2018)\nIntroduction: From Civil War to Ethnic Federalism\nThe Ethiopian People's Revolutionary Democratic Front (EPRDF) ",
+        "key_entities": [
+          "-- Page 1 --\nThe Federal Democratic Republic: The\nEPRDF",
+          "Era",
+          "1991-20180036_DATE__-2018",
+          "The Ethiopian People's Revolutionary Democratic Front",
+          "era"
+        ],
+        "metadata": {
+          "document_id": "d062e3b9d79d",
+          "filename": "eprdf_era_summary.pdf",
+          "file_size": 320344,
+          "file_hash": "166d0219717f487bef94e86f66a7dce9",
+          "created_date": "2026-01-02T22:57:10.070149",
+          "modified_date": "2025-12-30T09:53:16",
+          "page_count": 6,
+          "word_count": 1252,
+          "character_count": 8887,
+          "language": "en",
+          "period": "Late 20th Century",
+          "source_type": "Legal Document",
+          "title": "--- Page 1 ---",
+          "author": "the Tigray People",
+          "year": 1991,
+          "keywords": [
+            "eprdf",
+            "political",
+            "state",
+            "ethnic",
+            "ethiopian",
+            "ethiopia",
+            "democratic",
+            "people",
+            "economic",
+            "over"
+          ],
+          "analysis_timestamp": "2026-01-04T22:17:54.560257"
+        }
+      },
+      {
+        "document_id": "f88585105666",
+        "dimension": "governance_power",
+        "score": 4.149377593360995,
+        "key_indicators": [
+          "democratic_participation",
+          "authoritarian_control",
+          "legal_framework",
+          "bureaucratic_administration",
+          "military_power"
+        ],
+        "summary_excerpt": "• Government: Monarchy with strong links to South Arabia (Sabaeans).\n• Culture: First king involved in South Arabian affairs.\n- Endybis: First to mint coins.\n- Ezana:\nConverted to Christianity (mid-4t",
+        "key_entities": [
+          "-- Page 1 --\nResearch Findings:",
+          "Period",
+          "Dʿmt",
+          "Aksum",
+          "One"
+        ],
+        "metadata": {
+          "document_id": "f88585105666",
+          "filename": "ethiopia_history_research_ancient.pdf",
+          "file_size": 21329,
+          "file_hash": "3fdbedbf5ef935c4ccdea1243ff2a0fb",
+          "created_date": "2026-01-02T22:57:10.074159",
+          "modified_date": "2025-12-30T09:41:59",
+          "page_count": 1,
+          "word_count": 267,
+          "character_count": 1720,
+          "language": "en",
+          "period": null,
+          "source_type": "Historical Text",
+          "title": "--- Page 1 ---",
+          "author": null,
+          "year": null,
+          "keywords": [
+            "century",
+            "south",
+            "stele",
+            "aksum",
+            "kingdom",
+            "overview",
+            "yeha",
+            "monuments",
+            "temple",
+            "palace"
+          ],
+          "analysis_timestamp": "2026-01-04T22:17:54.562271"
+        }
+      },
+      {
+        "document_id": "1b532b8b25d6",
+        "dimension": "governance_power",
+        "score": 4.293893129770993,
+        "key_indicators": [
+          "democratic_participation",
+          "authoritarian_control",
+          "legal_framework",
+          "bureaucratic_administration",
+          "military_power"
+        ],
+        "summary_excerpt": "Early Modern & Gondarine\nPeriod\nEarly Modern Period (15th-17th Century)\n• Key Rulers:\n- Zara Yaqob (1434-14680012_DATE__-1468): Centralized authority, reformed the\nchurch, and promoted education.\n Gon",
+        "key_entities": [
+          "-- Page 1 --\nResearch Findings:",
+          "Period",
+          "Early Modern",
+          "Period",
+          "1434-14680012_DATE__-1468"
+        ],
+        "metadata": {
+          "document_id": "1b532b8b25d6",
+          "filename": "ethiopia_history_research_early_modern.pdf",
+          "file_size": 22788,
+          "file_hash": "eae8645f813a440c07268da7dbc797e3",
+          "created_date": "2026-01-02T22:57:10.079169",
+          "modified_date": "2025-12-30T09:42:01",
+          "page_count": 2,
+          "word_count": 291,
+          "character_count": 2002,
+          "language": "en",
+          "period": "Medieval",
+          "source_type": "Speech",
+          "title": "--- Page 1 ---",
+          "author": null,
+          "year": 1434,
+          "keywords": [
+            "period",
+            "gondarine",
+            "government",
+            "structure",
+            "gondar",
+            "fasilides",
+            "power",
+            "page",
+            "early",
+            "modern"
+          ],
+          "analysis_timestamp": "2026-01-04T22:17:54.565268"
+        }
+      },
+      {
+        "document_id": "53d3c1ea4899",
+        "dimension": "governance_power",
+        "score": 3.663003663003663,
+        "key_indicators": [
+          "democratic_participation",
+          "authoritarian_control",
+          "legal_framework",
+          "bureaucratic_administration",
+          "military_power"
+        ],
+        "summary_excerpt": "-- Page 1 --\nResearch Findings: Medieval Period (Zagwe and Solomonic Dynasties)\nZagwe Dynasty (__ENTITY_0008_ROMAN_NUMERAL_c. 1137TITY_0006_DATE__0005_DATE__-1270)\n• Overview: An Agaw monarchy that ru",
+        "key_entities": [
+          "-- Page 1 --\nResearch Findings: Medieval",
+          "Period",
+          "Zagwe",
+          "Solomonic Dynasties",
+          "1137TITY_0006_DATE__0005_DATE__-1270"
+        ],
+        "metadata": {
+          "document_id": "53d3c1ea4899",
+          "filename": "ethiopia_history_research_medieval.pdf",
+          "file_size": 20990,
+          "file_hash": "62a31d8c5d0bfb36e16abbcd83669d02",
+          "created_date": "2026-01-02T22:57:10.079169",
+          "modified_date": "2025-12-30T09:42:02",
+          "page_count": 2,
+          "word_count": 304,
+          "character_count": 1982,
+          "language": "en",
+          "period": "Medieval",
+          "source_type": "Historical Text",
+          "title": "--- Page 1 ---",
+          "author": "Yekuno Amlak",
+          "year": 1137,
+          "keywords": [
+            "zagwe",
+            "solomonic",
+            "dynasty",
+            "lalibela",
+            "king",
+            "rock",
+            "agaw",
+            "religious",
+            "hewn",
+            "churches"
+          ],
+          "analysis_timestamp": "2026-01-04T22:17:54.568265"
+        }
+      },
+      {
+        "document_id": "b1f3af4a4305",
+        "dimension": "governance_power",
+        "score": 3.8610038610038613,
+        "key_indicators": [
+          "democratic_participation",
+          "authoritarian_control",
+          "legal_framework",
+          "bureaucratic_administration",
+          "military_power"
+        ],
+        "summary_excerpt": "-- Page 1 --\nResearch Findings:\nModern Ethiopia (1855-\n1974)\nUnification and Modernization (1855-18890033_DATE__-1889)\n• Emperor Tewodros II (1855-18680029_DATE__-1868):\n- Overview: Ended the Era of P",
+        "key_entities": [
+          "-- Page 1 --\nResearch Findings:",
+          "Ethiopia",
+          "1855-\n1974",
+          "Unification and Modernization",
+          "1855-18890033_DATE__-1889"
+        ],
+        "metadata": {
+          "document_id": "b1f3af4a4305",
+          "filename": "ethiopia_history_research_modern.pdf",
+          "file_size": 23256,
+          "file_hash": "c255dba930233e3946a4f7cb9952dc0b",
+          "created_date": "2026-01-02T22:57:10.085993",
+          "modified_date": "2025-12-30T09:42:03",
+          "page_count": 2,
+          "word_count": 276,
+          "character_count": 1932,
+          "language": "en",
+          "period": "19th Century",
+          "source_type": "Legal Document",
+          "title": "--- Page 1 ---",
+          "author": "Ras Teferi",
+          "year": 1855,
+          "keywords": [
+            "ethiopia",
+            "overview",
+            "monuments",
+            "government",
+            "modern",
+            "emperor",
+            "system",
+            "palace",
+            "addis",
+            "ababa"
+          ],
+          "analysis_timestamp": "2026-01-04T22:17:54.571080"
+        }
+      },
+      {
+        "document_id": "175c7fd9abeb",
+        "dimension": "governance_power",
+        "score": 2.117148906139732,
+        "key_indicators": [
+          "democratic_participation",
+          "authoritarian_control",
+          "legal_framework",
+          "bureaucratic_administration",
+          "military_power"
+        ],
+        "summary_excerpt": "-- Page 1 --\nThe Imperial Zenith and Collapse: The\nEra of Emperor Haile Selassie I (1930-\n1974)\nIntroduction: The Last Solomonic Emperor\nThe reign of Emperor Haile Selassie I, born Lij Tafari Makonnen",
+        "key_entities": [
+          "-- Page 1 --\nThe Imperial Zenith and Collapse: The\n",
+          "Emperor Haile Selassie",
+          "1930-\n1974",
+          "Lij Tafari Makonnen",
+          "nearly half"
+        ],
+        "metadata": {
+          "document_id": "175c7fd9abeb",
+          "filename": "haile_selassie_summary.pdf",
+          "file_size": 322312,
+          "file_hash": "f07e99d8fe81528260581c4fcf327e46",
+          "created_date": "2026-01-02T22:57:10.089609",
+          "modified_date": "2025-12-30T09:53:07",
+          "page_count": 6,
+          "word_count": 1454,
+          "character_count": 9810,
+          "language": "en",
+          "period": "Interwar Period",
+          "source_type": "Legal Document",
+          "title": "--- Page 1 ---",
+          "author": null,
+          "year": 1930,
+          "keywords": [
+            "emperor",
+            "haile",
+            "selassie",
+            "ethiopia",
+            "imperial",
+            "military",
+            "international",
+            "page",
+            "modern",
+            "power"
+          ],
+          "analysis_timestamp": "2026-01-04T22:17:54.576126"
+        }
+      },
+      {
+        "document_id": "c7541cbc47ce",
+        "dimension": "governance_power",
+        "score": 2.2788656313301825,
+        "key_indicators": [
+          "democratic_participation",
+          "authoritarian_control",
+          "legal_framework",
+          "bureaucratic_administration",
+          "military_power"
+        ],
+        "summary_excerpt": "-- Page 1 --\nThe Medieval Ethiopian Empire:\nFrom Zagwe\nRenaissance to Solomonic Restoration\nIntroduction: The Christian Kingdom in Isolation\nThe Medieval Period in Ethiopian history, spanning from the",
+        "key_entities": [
+          "-- Page 1 --\nThe Medieval Ethiopian Empire",
+          "Zagwe\nRenaissance to Solomonic Restoration\nIntroduction",
+          "The Christian Kingdom",
+          "Period",
+          "Ethiopian"
+        ],
+        "metadata": {
+          "document_id": "c7541cbc47ce",
+          "filename": "medieval_period.pdf",
+          "file_size": 45800,
+          "file_hash": "3404f7cae7face6c44fd45907a34c60a",
+          "created_date": "2026-01-02T22:57:10.089609",
+          "modified_date": "2025-12-30T09:42:49",
+          "page_count": 5,
+          "word_count": 1532,
+          "character_count": 10333,
+          "language": "en",
+          "period": "Medieval",
+          "source_type": "Legal Document",
+          "title": "--- Page 1 ---",
+          "author": "two major dynasties",
+          "year": 1137,
+          "keywords": [
+            "solomonic",
+            "zagwe",
+            "ethiopian",
+            "empire",
+            "religious",
+            "dynasty",
+            "church",
+            "imperial",
+            "christian",
+            "period"
+          ],
+          "analysis_timestamp": "2026-01-04T22:17:54.582606"
+        }
+      },
+      {
+        "document_id": "01d36482cbe7",
+        "dimension": "governance_power",
+        "score": 2.331711273317113,
+        "key_indicators": [
+          "democratic_participation",
+          "authoritarian_control",
+          "legal_framework",
+          "bureaucratic_administration",
+          "military_power"
+        ],
+        "summary_excerpt": "-- Page 1 --\nThe Making of Modern Ethiopia: From Unifica-\ntion to the End of Empire (1855-19740078_DATE__-1974)\nIntroduction: The Dawn of a New Era\nThe history of Modern Ethiopia begins in 1855 with t",
+        "key_entities": [
+          "-- Page 1 --\nThe Making of Modern Ethiopia",
+          "the End of Empire",
+          "1855-19740078_DATE__-1974",
+          "Era",
+          "Modern Ethiopia"
+        ],
+        "metadata": {
+          "document_id": "01d36482cbe7",
+          "filename": "modern_ethiopia_period.pdf",
+          "file_size": 41605,
+          "file_hash": "c30deac18794e51f0b595bbf0128b2c0",
+          "created_date": "2026-01-02T22:57:10.099413",
+          "modified_date": "2025-12-30T09:42:54",
+          "page_count": 5,
+          "word_count": 1272,
+          "character_count": 8428,
+          "language": "en",
+          "period": "19th Century",
+          "source_type": "Legal Document",
+          "title": "--- Page 1 ---",
+          "author": null,
+          "year": 1855,
+          "keywords": [
+            "haile",
+            "selassie",
+            "modern",
+            "emperor",
+            "ethiopia",
+            "reign",
+            "empire",
+            "tewodros",
+            "menelik",
+            "ethiopian"
+          ],
+          "analysis_timestamp": "2026-01-04T22:17:54.588610"
+        }
+      },
+      {
+        "document_id": "644d813d4e62",
+        "dimension": "governance_power",
+        "score": 2.4426508071367885,
+        "key_indicators": [
+          "democratic_participation",
+          "authoritarian_control",
+          "legal_framework",
+          "bureaucratic_administration",
+          "military_power"
+        ],
+        "summary_excerpt": "-- Page 1 --\nThe Contemporary State: The Prosperity\nParty Period (2019-Present)\nIntroduction: A New Era of Reform and Conflict\nThe Prosperity Party (PP) period, beginning with the election of Dr. Abiy",
+        "key_entities": [
+          "-- Page 1 --\nThe Contemporary State:",
+          "The Prosperity\nParty",
+          "Period",
+          "2019-Present",
+          "period"
+        ],
+        "metadata": {
+          "document_id": "644d813d4e62",
+          "filename": "prosperity_party_summary.pdf",
+          "file_size": 322522,
+          "file_hash": "1c504a94313489cf564f914d0708f2cd",
+          "created_date": "2026-01-02T22:57:10.049353",
+          "modified_date": "2025-12-30T09:53:23",
+          "page_count": 5,
+          "word_count": 1205,
+          "character_count": 8569,
+          "language": "en",
+          "period": "21st Century",
+          "source_type": "Legal Document",
+          "title": "--- Page 1 ---",
+          "author": "internal conflicts",
+          "year": 2019,
+          "keywords": [
+            "party",
+            "political",
+            "tigray",
+            "conflict",
+            "government",
+            "state",
+            "prosperity",
+            "peace",
+            "federal",
+            "eprdf"
+          ],
+          "analysis_timestamp": "2026-01-04T22:17:54.593863"
+        }
+      }
+    ],
+    "social_impact": [
+      {
+        "document_id": "670455a18706",
+        "dimension": "social_impact",
+        "score": 4.946996466431095,
+        "key_indicators": [
+          "social_mobility",
+          "social_cohesion",
+          "social_conflict",
+          "cultural_development",
+          "technological_impact"
+        ],
+        "summary_excerpt": "The Ancient\nand Classical Period, stretching from the first millennium BCE to the 7th cen-\ntury CE, witnessed the rise and transformation of two foundational civilizations:\nthe Kingdom of Dʿmt and the",
+        "key_entities": [
+          "-- Page 1 --\nThe Foundations of Ethiopian Civilization: The\nAncient and Classical",
+          "Period",
+          "Abyssinia",
+          "Ethiopia",
+          "Horn of Africa"
+        ],
+        "metadata": {
+          "document_id": "670455a18706",
+          "filename": "ancient_classical_period.pdf",
+          "file_size": 41405,
+          "file_hash": "36349d0173b69095bfa470b102e8646f",
+          "created_date": "2026-01-02T22:57:10.054504",
+          "modified_date": "2025-12-30T09:41:52",
+          "page_count": 5,
+          "word_count": 1466,
+          "character_count": 9670,
+          "language": "en",
+          "period": null,
+          "source_type": "Treaty",
+          "title": "--- Page 1 ---",
+          "author": null,
+          "year": null,
+          "keywords": [
+            "kingdom",
+            "aksum",
+            "aksumite",
+            "ethiopian",
+            "state",
+            "century",
+            "ethiopia",
+            "church",
+            "structure",
+            "trade"
+          ],
+          "analysis_timestamp": "2026-01-04T22:17:54.543640"
+        }
+      },
+      {
+        "document_id": "d3eb1393655c",
+        "dimension": "social_impact",
+        "score": -1.6155088852988682,
+        "key_indicators": [
+          "social_mobility",
+          "social_cohesion",
+          "social_conflict",
+          "cultural_development",
+          "technological_impact"
+        ],
+        "summary_excerpt": "-- Page 1 --\nThe Military Socialist Regime: The Derg\nand the Ethiopian Revolution (1974-\n1991)\nIntroduction: The End of Empire and the Dawn of Revolution\nThe Derg (Amharic for \"committee\" or \"council\"",
+        "key_entities": [
+          "-- Page 1 --\nThe Military Socialist Regime:",
+          "Ethiopian Revolution",
+          "1974-\n1991",
+          "The End of Empire and the Dawn of Revolution",
+          "Derg"
+        ],
+        "metadata": {
+          "document_id": "d3eb1393655c",
+          "filename": "derg_regime_summary.pdf",
+          "file_size": 319741,
+          "file_hash": "ed957521cfea166e34c35a843983343d",
+          "created_date": "2026-01-02T22:57:10.059578",
+          "modified_date": "2025-12-30T09:53:13",
+          "page_count": 6,
+          "word_count": 1254,
+          "character_count": 8574,
+          "language": "en",
+          "period": "Cold War",
+          "source_type": "Speech",
+          "title": "--- Page 1 ---",
+          "author": "radical social engineering",
+          "year": 1974,
+          "keywords": [
+            "derg",
+            "military",
+            "ethiopia",
+            "political",
+            "terror",
+            "economic",
+            "land",
+            "regime",
+            "ethiopian",
+            "people"
+          ],
+          "analysis_timestamp": "2026-01-04T22:17:54.548643"
+        }
+      },
+      {
+        "document_id": "031b1c80c392",
+        "dimension": "social_impact",
+        "score": 2.9563932002956395,
+        "key_indicators": [
+          "social_mobility",
+          "social_cohesion",
+          "social_conflict",
+          "cultural_development",
+          "technological_impact"
+        ],
+        "summary_excerpt": "-- Page 1 --\nThe\nAge\nof Transformation:\nEarly\nModern\nEthiopia and the Gondarine Period\nIntroduction: Challenges to the Solomonic State\nThe period from the 15th to the mid-19th century in Ethiopian his",
+        "key_entities": [
+          "Age",
+          "Ethiopia",
+          "Gondarine",
+          "Period",
+          "period"
+        ],
+        "metadata": {
+          "document_id": "031b1c80c392",
+          "filename": "early_modern_gondarine_period.pdf",
+          "file_size": 42614,
+          "file_hash": "0e5cdde051e3e89fd36ff7d403575a54",
+          "created_date": "2026-01-02T22:57:10.064586",
+          "modified_date": "2025-12-30T09:41:58",
+          "page_count": 5,
+          "word_count": 1403,
+          "character_count": 9541,
+          "language": "en",
+          "period": "Early Modern",
+          "source_type": "Speech",
+          "title": "--- Page 1 ---",
+          "author": "profound internal and external challenges that ultimately led to",
+          "year": 1632,
+          "keywords": [
+            "emperor",
+            "ethiopian",
+            "period",
+            "religious",
+            "gondarine",
+            "empire",
+            "solomonic",
+            "gondar",
+            "state",
+            "church"
+          ],
+          "analysis_timestamp": "2026-01-04T22:17:54.554749"
+        }
+      },
+      {
+        "document_id": "d062e3b9d79d",
+        "dimension": "social_impact",
+        "score": 0.8110300081103006,
+        "key_indicators": [
+          "social_mobility",
+          "social_cohesion",
+          "social_conflict",
+          "cultural_development",
+          "technological_impact"
+        ],
+        "summary_excerpt": "-- Page 1 --\nThe Federal Democratic Republic: The\nEPRDF Era (1991-20180036_DATE__-2018)\nIntroduction: From Civil War to Ethnic Federalism\nThe Ethiopian People's Revolutionary Democratic Front (EPRDF) ",
+        "key_entities": [
+          "-- Page 1 --\nThe Federal Democratic Republic: The\nEPRDF",
+          "Era",
+          "1991-20180036_DATE__-2018",
+          "The Ethiopian People's Revolutionary Democratic Front",
+          "era"
+        ],
+        "metadata": {
+          "document_id": "d062e3b9d79d",
+          "filename": "eprdf_era_summary.pdf",
+          "file_size": 320344,
+          "file_hash": "166d0219717f487bef94e86f66a7dce9",
+          "created_date": "2026-01-02T22:57:10.070149",
+          "modified_date": "2025-12-30T09:53:16",
+          "page_count": 6,
+          "word_count": 1252,
+          "character_count": 8887,
+          "language": "en",
+          "period": "Late 20th Century",
+          "source_type": "Legal Document",
+          "title": "--- Page 1 ---",
+          "author": "the Tigray People",
+          "year": 1991,
+          "keywords": [
+            "eprdf",
+            "political",
+            "state",
+            "ethnic",
+            "ethiopian",
+            "ethiopia",
+            "democratic",
+            "people",
+            "economic",
+            "over"
+          ],
+          "analysis_timestamp": "2026-01-04T22:17:54.560257"
+        }
+      },
+      {
+        "document_id": "f88585105666",
+        "dimension": "social_impact",
+        "score": 8.298755186721992,
+        "key_indicators": [
+          "social_mobility",
+          "social_cohesion",
+          "social_conflict",
+          "cultural_development",
+          "technological_impact"
+        ],
+        "summary_excerpt": "• Government: Monarchy with strong links to South Arabia (Sabaeans).\n• Culture: First king involved in South Arabian affairs.\n- Endybis: First to mint coins.\n- Ezana:\nConverted to Christianity (mid-4t",
+        "key_entities": [
+          "-- Page 1 --\nResearch Findings:",
+          "Period",
+          "Dʿmt",
+          "Aksum",
+          "One"
+        ],
+        "metadata": {
+          "document_id": "f88585105666",
+          "filename": "ethiopia_history_research_ancient.pdf",
+          "file_size": 21329,
+          "file_hash": "3fdbedbf5ef935c4ccdea1243ff2a0fb",
+          "created_date": "2026-01-02T22:57:10.074159",
+          "modified_date": "2025-12-30T09:41:59",
+          "page_count": 1,
+          "word_count": 267,
+          "character_count": 1720,
+          "language": "en",
+          "period": null,
+          "source_type": "Historical Text",
+          "title": "--- Page 1 ---",
+          "author": null,
+          "year": null,
+          "keywords": [
+            "century",
+            "south",
+            "stele",
+            "aksum",
+            "kingdom",
+            "overview",
+            "yeha",
+            "monuments",
+            "temple",
+            "palace"
+          ],
+          "analysis_timestamp": "2026-01-04T22:17:54.562271"
+        }
+      },
+      {
+        "document_id": "1b532b8b25d6",
+        "dimension": "social_impact",
+        "score": 7.633587786259541,
+        "key_indicators": [
+          "social_mobility",
+          "social_cohesion",
+          "social_conflict",
+          "cultural_development",
+          "technological_impact"
+        ],
+        "summary_excerpt": "Early Modern & Gondarine\nPeriod\nEarly Modern Period (15th-17th Century)\n• Key Rulers:\n- Zara Yaqob (1434-14680012_DATE__-1468): Centralized authority, reformed the\nchurch, and promoted education.\n Gon",
+        "key_entities": [
+          "-- Page 1 --\nResearch Findings:",
+          "Period",
+          "Early Modern",
+          "Period",
+          "1434-14680012_DATE__-1468"
+        ],
+        "metadata": {
+          "document_id": "1b532b8b25d6",
+          "filename": "ethiopia_history_research_early_modern.pdf",
+          "file_size": 22788,
+          "file_hash": "eae8645f813a440c07268da7dbc797e3",
+          "created_date": "2026-01-02T22:57:10.079169",
+          "modified_date": "2025-12-30T09:42:01",
+          "page_count": 2,
+          "word_count": 291,
+          "character_count": 2002,
+          "language": "en",
+          "period": "Medieval",
+          "source_type": "Speech",
+          "title": "--- Page 1 ---",
+          "author": null,
+          "year": 1434,
+          "keywords": [
+            "period",
+            "gondarine",
+            "government",
+            "structure",
+            "gondar",
+            "fasilides",
+            "power",
+            "page",
+            "early",
+            "modern"
+          ],
+          "analysis_timestamp": "2026-01-04T22:17:54.565268"
+        }
+      },
+      {
+        "document_id": "53d3c1ea4899",
+        "dimension": "social_impact",
+        "score": 3.6630036630036624,
+        "key_indicators": [
+          "social_mobility",
+          "social_cohesion",
+          "social_conflict",
+          "cultural_development",
+          "technological_impact"
+        ],
+        "summary_excerpt": "-- Page 1 --\nResearch Findings: Medieval Period (Zagwe and Solomonic Dynasties)\nZagwe Dynasty (__ENTITY_0008_ROMAN_NUMERAL_c. 1137TITY_0006_DATE__0005_DATE__-1270)\n• Overview: An Agaw monarchy that ru",
+        "key_entities": [
+          "-- Page 1 --\nResearch Findings: Medieval",
+          "Period",
+          "Zagwe",
+          "Solomonic Dynasties",
+          "1137TITY_0006_DATE__0005_DATE__-1270"
+        ],
+        "metadata": {
+          "document_id": "53d3c1ea4899",
+          "filename": "ethiopia_history_research_medieval.pdf",
+          "file_size": 20990,
+          "file_hash": "62a31d8c5d0bfb36e16abbcd83669d02",
+          "created_date": "2026-01-02T22:57:10.079169",
+          "modified_date": "2025-12-30T09:42:02",
+          "page_count": 2,
+          "word_count": 304,
+          "character_count": 1982,
+          "language": "en",
+          "period": "Medieval",
+          "source_type": "Historical Text",
+          "title": "--- Page 1 ---",
+          "author": "Yekuno Amlak",
+          "year": 1137,
+          "keywords": [
+            "zagwe",
+            "solomonic",
+            "dynasty",
+            "lalibela",
+            "king",
+            "rock",
+            "agaw",
+            "religious",
+            "hewn",
+            "churches"
+          ],
+          "analysis_timestamp": "2026-01-04T22:17:54.568265"
+        }
+      },
+      {
+        "document_id": "b1f3af4a4305",
+        "dimension": "social_impact",
+        "score": 11.583011583011583,
+        "key_indicators": [
+          "social_mobility",
+          "social_cohesion",
+          "social_conflict",
+          "cultural_development",
+          "technological_impact"
+        ],
+        "summary_excerpt": "-- Page 1 --\nResearch Findings:\nModern Ethiopia (1855-\n1974)\nUnification and Modernization (1855-18890033_DATE__-1889)\n• Emperor Tewodros II (1855-18680029_DATE__-1868):\n- Overview: Ended the Era of P",
+        "key_entities": [
+          "-- Page 1 --\nResearch Findings:",
+          "Ethiopia",
+          "1855-\n1974",
+          "Unification and Modernization",
+          "1855-18890033_DATE__-1889"
+        ],
+        "metadata": {
+          "document_id": "b1f3af4a4305",
+          "filename": "ethiopia_history_research_modern.pdf",
+          "file_size": 23256,
+          "file_hash": "c255dba930233e3946a4f7cb9952dc0b",
+          "created_date": "2026-01-02T22:57:10.085993",
+          "modified_date": "2025-12-30T09:42:03",
+          "page_count": 2,
+          "word_count": 276,
+          "character_count": 1932,
+          "language": "en",
+          "period": "19th Century",
+          "source_type": "Legal Document",
+          "title": "--- Page 1 ---",
+          "author": "Ras Teferi",
+          "year": 1855,
+          "keywords": [
+            "ethiopia",
+            "overview",
+            "monuments",
+            "government",
+            "modern",
+            "emperor",
+            "system",
+            "palace",
+            "addis",
+            "ababa"
+          ],
+          "analysis_timestamp": "2026-01-04T22:17:54.571080"
+        }
+      },
+      {
+        "document_id": "175c7fd9abeb",
+        "dimension": "social_impact",
+        "score": 4.234297812279463,
+        "key_indicators": [
+          "social_mobility",
+          "social_cohesion",
+          "social_conflict",
+          "cultural_development",
+          "technological_impact"
+        ],
+        "summary_excerpt": "-- Page 1 --\nThe Imperial Zenith and Collapse: The\nEra of Emperor Haile Selassie I (1930-\n1974)\nIntroduction: The Last Solomonic Emperor\nThe reign of Emperor Haile Selassie I, born Lij Tafari Makonnen",
+        "key_entities": [
+          "-- Page 1 --\nThe Imperial Zenith and Collapse: The\n",
+          "Emperor Haile Selassie",
+          "1930-\n1974",
+          "Lij Tafari Makonnen",
+          "nearly half"
+        ],
+        "metadata": {
+          "document_id": "175c7fd9abeb",
+          "filename": "haile_selassie_summary.pdf",
+          "file_size": 322312,
+          "file_hash": "f07e99d8fe81528260581c4fcf327e46",
+          "created_date": "2026-01-02T22:57:10.089609",
+          "modified_date": "2025-12-30T09:53:07",
+          "page_count": 6,
+          "word_count": 1454,
+          "character_count": 9810,
+          "language": "en",
+          "period": "Interwar Period",
+          "source_type": "Legal Document",
+          "title": "--- Page 1 ---",
+          "author": null,
+          "year": 1930,
+          "keywords": [
+            "emperor",
+            "haile",
+            "selassie",
+            "ethiopia",
+            "imperial",
+            "military",
+            "international",
+            "page",
+            "modern",
+            "power"
+          ],
+          "analysis_timestamp": "2026-01-04T22:17:54.576126"
+        }
+      },
+      {
+        "document_id": "c7541cbc47ce",
+        "dimension": "social_impact",
+        "score": 6.75219446320054,
+        "key_indicators": [
+          "social_mobility",
+          "social_cohesion",
+          "social_conflict",
+          "cultural_development",
+          "technological_impact"
+        ],
+        "summary_excerpt": "-- Page 1 --\nThe Medieval Ethiopian Empire:\nFrom Zagwe\nRenaissance to Solomonic Restoration\nIntroduction: The Christian Kingdom in Isolation\nThe Medieval Period in Ethiopian history, spanning from the",
+        "key_entities": [
+          "-- Page 1 --\nThe Medieval Ethiopian Empire",
+          "Zagwe\nRenaissance to Solomonic Restoration\nIntroduction",
+          "The Christian Kingdom",
+          "Period",
+          "Ethiopian"
+        ],
+        "metadata": {
+          "document_id": "c7541cbc47ce",
+          "filename": "medieval_period.pdf",
+          "file_size": 45800,
+          "file_hash": "3404f7cae7face6c44fd45907a34c60a",
+          "created_date": "2026-01-02T22:57:10.089609",
+          "modified_date": "2025-12-30T09:42:49",
+          "page_count": 5,
+          "word_count": 1532,
+          "character_count": 10333,
+          "language": "en",
+          "period": "Medieval",
+          "source_type": "Legal Document",
+          "title": "--- Page 1 ---",
+          "author": "two major dynasties",
+          "year": 1137,
+          "keywords": [
+            "solomonic",
+            "zagwe",
+            "ethiopian",
+            "empire",
+            "religious",
+            "dynasty",
+            "church",
+            "imperial",
+            "christian",
+            "period"
+          ],
+          "analysis_timestamp": "2026-01-04T22:17:54.582606"
+        }
+      },
+      {
+        "document_id": "01d36482cbe7",
+        "dimension": "social_impact",
+        "score": 5.677210056772101,
+        "key_indicators": [
+          "social_mobility",
+          "social_cohesion",
+          "social_conflict",
+          "cultural_development",
+          "technological_impact"
+        ],
+        "summary_excerpt": "-- Page 1 --\nThe Making of Modern Ethiopia: From Unifica-\ntion to the End of Empire (1855-19740078_DATE__-1974)\nIntroduction: The Dawn of a New Era\nThe history of Modern Ethiopia begins in 1855 with t",
+        "key_entities": [
+          "-- Page 1 --\nThe Making of Modern Ethiopia",
+          "the End of Empire",
+          "1855-19740078_DATE__-1974",
+          "Era",
+          "Modern Ethiopia"
+        ],
+        "metadata": {
+          "document_id": "01d36482cbe7",
+          "filename": "modern_ethiopia_period.pdf",
+          "file_size": 41605,
+          "file_hash": "c30deac18794e51f0b595bbf0128b2c0",
+          "created_date": "2026-01-02T22:57:10.099413",
+          "modified_date": "2025-12-30T09:42:54",
+          "page_count": 5,
+          "word_count": 1272,
+          "character_count": 8428,
+          "language": "en",
+          "period": "19th Century",
+          "source_type": "Legal Document",
+          "title": "--- Page 1 ---",
+          "author": null,
+          "year": 1855,
+          "keywords": [
+            "haile",
+            "selassie",
+            "modern",
+            "emperor",
+            "ethiopia",
+            "reign",
+            "empire",
+            "tewodros",
+            "menelik",
+            "ethiopian"
+          ],
+          "analysis_timestamp": "2026-01-04T22:17:54.588610"
+        }
+      },
+      {
+        "document_id": "644d813d4e62",
+        "dimension": "social_impact",
+        "score": 0.0,
+        "key_indicators": [
+          "social_mobility",
+          "social_cohesion",
+          "social_conflict",
+          "cultural_development",
+          "technological_impact"
+        ],
+        "summary_excerpt": "-- Page 1 --\nThe Contemporary State: The Prosperity\nParty Period (2019-Present)\nIntroduction: A New Era of Reform and Conflict\nThe Prosperity Party (PP) period, beginning with the election of Dr. Abiy",
+        "key_entities": [
+          "-- Page 1 --\nThe Contemporary State:",
+          "The Prosperity\nParty",
+          "Period",
+          "2019-Present",
+          "period"
+        ],
+        "metadata": {
+          "document_id": "644d813d4e62",
+          "filename": "prosperity_party_summary.pdf",
+          "file_size": 322522,
+          "file_hash": "1c504a94313489cf564f914d0708f2cd",
+          "created_date": "2026-01-02T22:57:10.049353",
+          "modified_date": "2025-12-30T09:53:23",
+          "page_count": 5,
+          "word_count": 1205,
+          "character_count": 8569,
+          "language": "en",
+          "period": "21st Century",
+          "source_type": "Legal Document",
+          "title": "--- Page 1 ---",
+          "author": "internal conflicts",
+          "year": 2019,
+          "keywords": [
+            "party",
+            "political",
+            "tigray",
+            "conflict",
+            "government",
+            "state",
+            "prosperity",
+            "peace",
+            "federal",
+            "eprdf"
+          ],
+          "analysis_timestamp": "2026-01-04T22:17:54.593863"
+        }
+      }
+    ]
+  },
+  "methodology": {
+    "nlp_pipeline": {
+      "text_cleaning": "Unicode normalization, entity protection, OCR error correction",
+      "tokenization": "spaCy-based with historical text support",
+      "normalization": "Lowercasing, lemmatization, historical spelling correction",
+      "feature_extraction": "TF-IDF, BOW, semantic embeddings, topic modeling"
+    },
+    "analysis_methods": {
+      "political_ideology": "Lexicon-based scoring with dimension analysis",
+      "socioeconomic_structure": "Indicator-based scoring with system classification",
+      "governance_power": "Power distribution analysis with system classification",
+      "social_impact": "Impact indicator scoring with net impact calculation"
+    },
+    "comparative_methods": {
+      "clustering": "K-means on feature vectors",
+      "similarity": "Cosine similarity on embeddings",
+      "correlation": "Pearson correlation on dimension scores"
+    },
+    "evidence_extraction": {
+      "summaries": "Extractive summarization (TextRank, TF-IDF, LexRank)",
+      "entities": "Multi-method NER (spaCy, gazetteers, rule-based)",
+      "citations": "Text excerpts from summaries and key entities"
+    }
+  },
+  "limitations": {
+    "methodological_limitations": [
+      "Lexicon-based analysis may miss nuanced ideological expressions",
+      "Historical spelling variations may not all be captured",
+      "OCR quality affects text extraction accuracy",
+      "Entity recognition depends on gazetteer completeness"
+    ],
+    "data_limitations": [
+      "Analysis limited to provided documents",
+      "Temporal coverage depends on document selection",
+      "Language primarily English",
+      "Document quality varies"
+    ],
+    "analytical_limitations": [
+      "Scores are relative, not absolute",
+      "Comparisons assume comparable document types",
+      "Temporal evolution limited by document distribution",
+      "Clustering results depend on feature selection"
+    ],
+    "trade_offs": [
+      "Speed vs accuracy in feature extraction",
+      "Preservation vs normalization in text processing",
+      "Feature richness vs computational efficiency",
+      "Generalization vs specificity in analysis"
+    ]
+  }
+}

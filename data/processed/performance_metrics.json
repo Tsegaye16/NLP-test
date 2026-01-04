@@ -1,0 +1,20 @@
+{
+  "document_count": 12,
+  "total_words": 16420,
+  "total_sentences": 621,
+  "average_document_length": 1368.3333333333333,
+  "vocabulary_size": 3053,
+  "feature_dimensions": {
+    "tfidf": 1853,
+    "bow": 1602,
+    "embeddings": 384
+  },
+  "topic_quality": {
+    "coherence_score": 0.367834933323066,
+    "num_topics": 10
+  },
+  "clustering_quality": {
+    "silhouette_score": "0.058824282",
+    "num_clusters": 5
+  }
+}

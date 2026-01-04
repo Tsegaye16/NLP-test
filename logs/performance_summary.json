@@ -1,0 +1,83 @@
+{
+  "total_steps": 88,
+  "unique_steps": 11,
+  "step_breakdown": {
+    "load_document": {
+      "count": 12,
+      "avg_duration": "0.08s",
+      "min_duration": "0.02s",
+      "max_duration": "0.20s",
+      "total_duration": "0.95s"
+    },
+    "text_cleaning": {
+      "count": 12,
+      "avg_duration": "0.04s",
+      "min_duration": "0.00s",
+      "max_duration": "0.21s",
+      "total_duration": "0.47s"
+    },
+    "tokenization": {
+      "count": 12,
+      "avg_duration": "0.37s",
+      "min_duration": "0.09s",
+      "max_duration": "0.95s",
+      "total_duration": "4.49s"
+    },
+    "normalization": {
+      "count": 12,
+      "avg_duration": "0.35s",
+      "min_duration": "0.00s",
+      "max_duration": "4.10s",
+      "total_duration": "4.21s"
+    },
+    "full_text_processing": {
+      "count": 12,
+      "avg_duration": "0.77s",
+      "min_duration": "0.10s",
+      "max_duration": "5.11s",
+      "total_duration": "9.19s"
+    },
+    "feature_extraction": {
+      "count": 1,
+      "avg_duration": "567.33s",
+      "min_duration": "567.33s",
+      "max_duration": "567.33s",
+      "total_duration": "567.33s"
+    },
+    "full_pipeline_execution": {
+      "count": 1,
+      "avg_duration": "577.77s",
+      "min_duration": "577.77s",
+      "max_duration": "577.77s",
+      "total_duration": "577.77s"
+    },
+    "document_summarization": {
+      "count": 12,
+      "avg_duration": "1.02s",
+      "min_duration": "0.33s",
+      "max_duration": "2.33s",
+      "total_duration": "12.24s"
+    },
+    "entity_extraction": {
+      "count": 12,
+      "avg_duration": "1.22s",
+      "min_duration": "0.13s",
+      "max_duration": "9.91s",
+      "total_duration": "14.64s"
+    },
+    "timeline_building": {
+      "count": 1,
+      "avg_duration": "0.08s",
+      "min_duration": "0.08s",
+      "max_duration": "0.08s",
+      "total_duration": "0.08s"
+    },
+    "comparative_analysis": {
+      "count": 1,
+      "avg_duration": "0.09s",
+      "min_duration": "0.09s",
+      "max_duration": "0.09s",
+      "total_duration": "0.09s"
+    }
+  }
+}

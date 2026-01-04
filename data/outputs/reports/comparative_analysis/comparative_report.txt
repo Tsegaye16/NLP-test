@@ -1,0 +1,83 @@
+====================================================================================================
+COMPARATIVE HISTORICAL ANALYSIS REPORT
+====================================================================================================
+Generated: 2026-01-04T22:18:07.464315
+Documents Analyzed: 12
+
+EXECUTIVE SUMMARY
+----------------------------------------------------------------------------------------------------
+Total Documents: 12
+Clusters Identified: 5
+
+Dominant Political Ideology: liberalism (33.3% of documents)
+Dominant Socioeconomic System: feudalism (50.0% of documents)
+
+POLITICAL IDEOLOGY ANALYSIS
+----------------------------------------------------------------------------------------------------
+Ideology Distribution:
+  - nationalism: 3 documents
+  - liberalism: 4 documents
+  - conservatism: 4 documents
+  - monarchism: 1 documents
+
+Key Insights:
+  • Documents exhibit 4 distinct political ideologies, with liberalism being the most prevalent.
+
+SOCIOECONOMIC STRUCTURE ANALYSIS
+----------------------------------------------------------------------------------------------------
+Average Development Index: 0.00
+Average Inequality Index: 1.33
+
+Key Insights:
+  • The dominant economic system across documents is feudalism, appearing in 6 documents.
+
+GOVERNANCE AND POWER DISTRIBUTION ANALYSIS
+----------------------------------------------------------------------------------------------------
+Average Power Distribution:
+  - democratic: 5.56%
+  - authoritarian: 34.53%
+  - military: 36.40%
+  - economic: 23.51%
+
+Key Insights:
+  • The most common governance system is monarchy, found in 10 documents.
+  • On average, military power has the highest distribution (36.40%) across documents.
+
+SOCIAL IMPACT ANALYSIS
+----------------------------------------------------------------------------------------------------
+Average Net Impact: 4.99
+Average Positive Impact: 2.50
+Average Negative Impact: 2.79
+
+Key Insights:
+  • On average, documents describe positive social impacts.
+
+TEMPORAL EVOLUTION
+----------------------------------------------------------------------------------------------------
+Political Ideology: decreasing by 53.3% (1137 to 2019)
+Socioeconomic Structure: increasing by 88.7% (1137 to 2019)
+Governance Power: decreasing by 17.8% (1137 to 2019)
+Social Impact: decreasing by 100.0% (1137 to 2019)
+
+METHODOLOGY
+----------------------------------------------------------------------------------------------------
+This analysis uses an NLP pipeline with:
+  - Text cleaning and normalization
+  - Tokenization and sentence segmentation
+  - Feature extraction (TF-IDF, embeddings, topic modeling)
+  - Lexicon-based dimension analysis
+  - Statistical comparison and clustering
+
+LIMITATIONS
+----------------------------------------------------------------------------------------------------
+Methodological Limitations:
+  • Lexicon-based analysis may miss nuanced ideological expressions
+  • Historical spelling variations may not all be captured
+  • OCR quality affects text extraction accuracy
+  • Entity recognition depends on gazetteer completeness
+
+Analytical Limitations:
+  • Scores are relative, not absolute
+  • Comparisons assume comparable document types
+  • Temporal evolution limited by document distribution
+  • Clustering results depend on feature selection

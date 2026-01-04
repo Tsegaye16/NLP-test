@@ -1,0 +1,17 @@
+{
+  "document_id": "b1f3af4a4305",
+  "summary_text": "-- Page 1 --\nResearch Findings:\nModern Ethiopia (1855-\n1974)\nUnification and Modernization (1855-18890033_DATE__-1889)\n• Emperor Tewodros II (1855-18680029_DATE__-1868):\n- Overview: Ended the Era of Princes, reunified Ethiopia, and initi-\nated modernization.\n Emperor Yohannes IV (1872-18890025_DATE__-1889):\n- Overview: Defended Ethiopia against Egyptian, Mahdist, and Ital-\nian threats.\n- Monuments: Yohannes IV Palace in Mekelle.\n- Government: Decentralized but unified under his suzerainty; em-\nphasized religious Orthodoxy.\n Expansion and Independence (1889-19300021_DATE__-1930)\n• Emperor Menelik II (1889-19130017_DATE__-1913):\n- Overview: Defeated Italy at the Battle of Adwa (1896), expanded\nborders, and founded Addis Ababa.\n- Monuments: Menelik II Palace (Addis Ababa), St. George's Cathe-\ndral, Entoto Maryam Church.\n- Government: Established a modern cabinet, introduced the railway,\ntelephone, and postal system.\n First female monarch of modern Ethiopia; conservative\nbut oversaw early reforms by Ras Teferi (Haile Selassie).\n- Monuments: Continued development of Addis Ababa and religious\nsites.\n- Government: Dual rule with Ras Teferi as Regent.\n",
+  "summary_sentences": [
+    "-- Page 1 --\nResearch Findings:\nModern Ethiopia (1855-\n1974)\nUnification and Modernization (1855-18890033_DATE__-1889)\n• Emperor Tewodros II (1855-18680029_DATE__-1868):\n- Overview: Ended the Era of Princes, reunified Ethiopia, and initi-\nated modernization.\n",
+    "Emperor Yohannes IV (1872-18890025_DATE__-1889):\n- Overview: Defended Ethiopia against Egyptian, Mahdist, and Ital-\nian threats.\n- Monuments: Yohannes IV Palace in Mekelle.\n- Government: Decentralized but unified under his suzerainty; em-\nphasized religious Orthodoxy.\n",
+    "Expansion and Independence (1889-19300021_DATE__-1930)\n• Emperor Menelik II (1889-19130017_DATE__-1913):\n- Overview: Defeated Italy at the Battle of Adwa (1896), expanded\nborders, and founded Addis Ababa.\n- Monuments: Menelik II Palace (Addis Ababa), St. George's Cathe-\ndral, Entoto Maryam Church.\n- Government: Established a modern cabinet, introduced the railway,\ntelephone, and postal system.\n",
+    "First female monarch of modern Ethiopia; conservative\nbut oversaw early reforms by Ras Teferi (Haile Selassie).\n- Monuments: Continued development of Addis Ababa and religious\nsites.\n- Government: Dual rule with Ras Teferi as Regent.\n"
+  ],
+  "method": "textrank",
+  "compression_ratio": 0.2857142857142857,
+  "metadata": {
+    "original_sentence_count": 14,
+    "summary_sentence_count": 4,
+    "compression_ratio_actual": 0.2857142857142857
+  }
+}

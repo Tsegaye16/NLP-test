@@ -1,0 +1,16 @@
+{
+  "document_id": "f88585105666",
+  "summary_text": "• Government: Monarchy with strong links to South Arabia (Sabaeans).\n• Culture: First king involved in South Arabian affairs.\n- Endybis: First to mint coins.\n- Ezana:\nConverted to Christianity (mid-4th century), conquered\nKush, and expanded the empire.\n- Kaleb: Invaded Himyar (Yemen) to protect Christians.\n • Monuments:\n- Stelae (Obelisks): Massive monolithic granite towers (e.g., Great\nStele, Ezana Stele, Rome Stele).\n- Palaces: Ta'akha Maryam, Dungur (Palace of the Queen of Sheba).\n- Tombs: Tomb of the False Door, Tombs of Kaleb and Gebre Meskel.\n- Churches: Church of Our Lady Mary of Zion (original foundation).\n• Government Structure:\n- Negusa Nagast (King of Kings): Centralized imperial authority.\n- Feudal System: Subordinate kings and governors.\n- Coinage: Minted gold, silver, and bronze coins with Greek and Ge'ez\ninscriptions.\n",
+  "summary_sentences": [
+    "• Government: Monarchy with strong links to South Arabia (Sabaeans).\n• Culture:",
+    "First king involved in South Arabian affairs.\n- Endybis: First to mint coins.\n- Ezana:\nConverted to Christianity (mid-4th century), conquered\nKush, and expanded the empire.\n- Kaleb: Invaded Himyar (Yemen) to protect Christians.\n",
+    "• Monuments:\n- Stelae (Obelisks): Massive monolithic granite towers (e.g., Great\nStele, Ezana Stele, Rome Stele).\n- Palaces: Ta'akha Maryam, Dungur (Palace of the Queen of Sheba).\n- Tombs: Tomb of the False Door, Tombs of Kaleb and Gebre Meskel.\n- Churches: Church of Our Lady Mary of Zion (original foundation).\n• Government Structure:\n- Negusa Nagast (King of Kings): Centralized imperial authority.\n- Feudal System: Subordinate kings and governors.\n- Coinage: Minted gold, silver, and bronze coins with Greek and Ge'ez\ninscriptions.\n"
+  ],
+  "method": "textrank",
+  "compression_ratio": 0.2727272727272727,
+  "metadata": {
+    "original_sentence_count": 11,
+    "summary_sentence_count": 3,
+    "compression_ratio_actual": 0.2727272727272727
+  }
+}

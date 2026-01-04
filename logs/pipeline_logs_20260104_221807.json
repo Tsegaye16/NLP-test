@@ -1,0 +1,710 @@
+{
+  "timestamp": "2026-01-04T22:18:07.514278",
+  "performance_data": [
+    {
+      "step": "load_document",
+      "document": "670455a18706",
+      "start_time": "2026-01-04T22:07:43.661841",
+      "end_time": "2026-01-04T22:07:43.865343",
+      "duration_seconds": 0.20350170135498047,
+      "duration_human": "0.20s"
+    },
+    {
+      "step": "load_document",
+      "document": "d3eb1393655c",
+      "start_time": "2026-01-04T22:07:43.865882",
+      "end_time": "2026-01-04T22:07:43.913336",
+      "duration_seconds": 0.047453880310058594,
+      "duration_human": "0.05s"
+    },
+    {
+      "step": "load_document",
+      "document": "031b1c80c392",
+      "start_time": "2026-01-04T22:07:43.913336",
+      "end_time": "2026-01-04T22:07:43.958408",
+      "duration_seconds": 0.045072317123413086,
+      "duration_human": "0.05s"
+    },
+    {
+      "step": "load_document",
+      "document": "d062e3b9d79d",
+      "start_time": "2026-01-04T22:07:43.960407",
+      "end_time": "2026-01-04T22:07:44.051281",
+      "duration_seconds": 0.09087419509887695,
+      "duration_human": "0.09s"
+    },
+    {
+      "step": "load_document",
+      "document": "f88585105666",
+      "start_time": "2026-01-04T22:07:44.052283",
+      "end_time": "2026-01-04T22:07:44.084142",
+      "duration_seconds": 0.0318598747253418,
+      "duration_human": "0.03s"
+    },
+    {
+      "step": "load_document",
+      "document": "1b532b8b25d6",
+      "start_time": "2026-01-04T22:07:44.085154",
+      "end_time": "2026-01-04T22:07:44.251568",
+      "duration_seconds": 0.1664142608642578,
+      "duration_human": "0.17s"
+    },
+    {
+      "step": "load_document",
+      "document": "53d3c1ea4899",
+      "start_time": "2026-01-04T22:07:44.251568",
+      "end_time": "2026-01-04T22:07:44.273292",
+      "duration_seconds": 0.021723270416259766,
+      "duration_human": "0.02s"
+    },
+    {
+      "step": "load_document",
+      "document": "b1f3af4a4305",
+      "start_time": "2026-01-04T22:07:44.273292",
+      "end_time": "2026-01-04T22:07:44.301743",
+      "duration_seconds": 0.02845144271850586,
+      "duration_human": "0.03s"
+    },
+    {
+      "step": "load_document",
+      "document": "175c7fd9abeb",
+      "start_time": "2026-01-04T22:07:44.301743",
+      "end_time": "2026-01-04T22:07:44.355669",
+      "duration_seconds": 0.053925514221191406,
+      "duration_human": "0.05s"
+    },
+    {
+      "step": "load_document",
+      "document": "c7541cbc47ce",
+      "start_time": "2026-01-04T22:07:44.355669",
+      "end_time": "2026-01-04T22:07:44.396692",
+      "duration_seconds": 0.04102301597595215,
+      "duration_human": "0.04s"
+    },
+    {
+      "step": "load_document",
+      "document": "01d36482cbe7",
+      "start_time": "2026-01-04T22:07:44.396692",
+      "end_time": "2026-01-04T22:07:44.433444",
+      "duration_seconds": 0.03675246238708496,
+      "duration_human": "0.04s"
+    },
+    {
+      "step": "load_document",
+      "document": "644d813d4e62",
+      "start_time": "2026-01-04T22:07:44.433444",
+      "end_time": "2026-01-04T22:07:44.616144",
+      "duration_seconds": 0.18270039558410645,
+      "duration_human": "0.18s"
+    },
+    {
+      "step": "text_cleaning",
+      "document": "670455a18706",
+      "start_time": "2026-01-04T22:07:44.626576",
+      "end_time": "2026-01-04T22:07:44.683185",
+      "duration_seconds": 0.056609153747558594,
+      "duration_human": "0.06s"
+    },
+    {
+      "step": "tokenization",
+      "document": "670455a18706",
+      "start_time": "2026-01-04T22:07:44.684198",
+      "end_time": "2026-01-04T22:07:45.633608",
+      "duration_seconds": 0.9494099617004395,
+      "duration_human": "0.95s"
+    },
+    {
+      "step": "normalization",
+      "document": "670455a18706",
+      "start_time": "2026-01-04T22:07:45.633608",
+      "end_time": "2026-01-04T22:07:49.736022",
+      "duration_seconds": 4.102413177490234,
+      "duration_human": "4.10s"
+    },
+    {
+      "step": "full_text_processing",
+      "document": "670455a18706",
+      "start_time": "2026-01-04T22:07:44.625574",
+      "end_time": "2026-01-04T22:07:49.738020",
+      "duration_seconds": 5.112446308135986,
+      "duration_human": "5.11s"
+    },
+    {
+      "step": "text_cleaning",
+      "document": "d3eb1393655c",
+      "start_time": "2026-01-04T22:07:49.739018",
+      "end_time": "2026-01-04T22:07:49.761184",
+      "duration_seconds": 0.022166013717651367,
+      "duration_human": "0.02s"
+    },
+    {
+      "step": "tokenization",
+      "document": "d3eb1393655c",
+      "start_time": "2026-01-04T22:07:49.762190",
+      "end_time": "2026-01-04T22:07:50.267943",
+      "duration_seconds": 0.5057528018951416,
+      "duration_human": "0.51s"
+    },
+    {
+      "step": "normalization",
+      "document": "d3eb1393655c",
+      "start_time": "2026-01-04T22:07:50.268945",
+      "end_time": "2026-01-04T22:07:50.273531",
+      "duration_seconds": 0.004586458206176758,
+      "duration_human": "0.00s"
+    },
+    {
+      "step": "full_text_processing",
+      "document": "d3eb1393655c",
+      "start_time": "2026-01-04T22:07:49.739018",
+      "end_time": "2026-01-04T22:07:50.273531",
+      "duration_seconds": 0.5345125198364258,
+      "duration_human": "0.53s"
+    },
+    {
+      "step": "text_cleaning",
+      "document": "031b1c80c392",
+      "start_time": "2026-01-04T22:07:50.273531",
+      "end_time": "2026-01-04T22:07:50.485534",
+      "duration_seconds": 0.21200275421142578,
+      "duration_human": "0.21s"
+    },
+    {
+      "step": "tokenization",
+      "document": "031b1c80c392",
+      "start_time": "2026-01-04T22:07:50.486532",
+      "end_time": "2026-01-04T22:07:51.217602",
+      "duration_seconds": 0.7310695648193359,
+      "duration_human": "0.73s"
+    },
+    {
+      "step": "normalization",
+      "document": "031b1c80c392",
+      "start_time": "2026-01-04T22:07:51.217602",
+      "end_time": "2026-01-04T22:07:51.231968",
+      "duration_seconds": 0.014365911483764648,
+      "duration_human": "0.01s"
+    },
+    {
+      "step": "full_text_processing",
+      "document": "031b1c80c392",
+      "start_time": "2026-01-04T22:07:50.273531",
+      "end_time": "2026-01-04T22:07:51.233548",
+      "duration_seconds": 0.9600174427032471,
+      "duration_human": "0.96s"
+    },
+    {
+      "step": "text_cleaning",
+      "document": "d062e3b9d79d",
+      "start_time": "2026-01-04T22:07:51.235497",
+      "end_time": "2026-01-04T22:07:51.259665",
+      "duration_seconds": 0.024167537689208984,
+      "duration_human": "0.02s"
+    },
+    {
+      "step": "tokenization",
+      "document": "d062e3b9d79d",
+      "start_time": "2026-01-04T22:07:51.259665",
+      "end_time": "2026-01-04T22:07:51.633247",
+      "duration_seconds": 0.373582124710083,
+      "duration_human": "0.37s"
+    },
+    {
+      "step": "normalization",
+      "document": "d062e3b9d79d",
+      "start_time": "2026-01-04T22:07:51.633247",
+      "end_time": "2026-01-04T22:07:51.643365",
+      "duration_seconds": 0.010118246078491211,
+      "duration_human": "0.01s"
+    },
+    {
+      "step": "full_text_processing",
+      "document": "d062e3b9d79d",
+      "start_time": "2026-01-04T22:07:51.235497",
+      "end_time": "2026-01-04T22:07:51.643365",
+      "duration_seconds": 0.4078679084777832,
+      "duration_human": "0.41s"
+    },
+    {
+      "step": "text_cleaning",
+      "document": "f88585105666",
+      "start_time": "2026-01-04T22:07:51.649516",
+      "end_time": "2026-01-04T22:07:51.652522",
+      "duration_seconds": 0.0030059814453125,
+      "duration_human": "0.00s"
+    },
+    {
+      "step": "tokenization",
+      "document": "f88585105666",
+      "start_time": "2026-01-04T22:07:51.653520",
+      "end_time": "2026-01-04T22:07:51.744422",
+      "duration_seconds": 0.09090280532836914,
+      "duration_human": "0.09s"
+    },
+    {
+      "step": "normalization",
+      "document": "f88585105666",
+      "start_time": "2026-01-04T22:07:51.744422",
+      "end_time": "2026-01-04T22:07:51.746422",
+      "duration_seconds": 0.0019998550415039062,
+      "duration_human": "0.00s"
+    },
+    {
+      "step": "full_text_processing",
+      "document": "f88585105666",
+      "start_time": "2026-01-04T22:07:51.648515",
+      "end_time": "2026-01-04T22:07:51.747426",
+      "duration_seconds": 0.09891057014465332,
+      "duration_human": "0.10s"
+    },
+    {
+      "step": "text_cleaning",
+      "document": "1b532b8b25d6",
+      "start_time": "2026-01-04T22:07:51.766290",
+      "end_time": "2026-01-04T22:07:51.773364",
+      "duration_seconds": 0.007073640823364258,
+      "duration_human": "0.01s"
+    },
+    {
+      "step": "tokenization",
+      "document": "1b532b8b25d6",
+      "start_time": "2026-01-04T22:07:51.778376",
+      "end_time": "2026-01-04T22:07:51.879293",
+      "duration_seconds": 0.10091781616210938,
+      "duration_human": "0.10s"
+    },
+    {
+      "step": "normalization",
+      "document": "1b532b8b25d6",
+      "start_time": "2026-01-04T22:07:51.880293",
+      "end_time": "2026-01-04T22:07:51.883294",
+      "duration_seconds": 0.003000497817993164,
+      "duration_human": "0.00s"
+    },
+    {
+      "step": "full_text_processing",
+      "document": "1b532b8b25d6",
+      "start_time": "2026-01-04T22:07:51.766290",
+      "end_time": "2026-01-04T22:07:51.884299",
+      "duration_seconds": 0.11800885200500488,
+      "duration_human": "0.12s"
+    },
+    {
+      "step": "text_cleaning",
+      "document": "53d3c1ea4899",
+      "start_time": "2026-01-04T22:07:51.885294",
+      "end_time": "2026-01-04T22:07:51.895299",
+      "duration_seconds": 0.010004520416259766,
+      "duration_human": "0.01s"
+    },
+    {
+      "step": "tokenization",
+      "document": "53d3c1ea4899",
+      "start_time": "2026-01-04T22:07:51.895299",
+      "end_time": "2026-01-04T22:07:52.001467",
+      "duration_seconds": 0.10616850852966309,
+      "duration_human": "0.11s"
+    },
+    {
+      "step": "normalization",
+      "document": "53d3c1ea4899",
+      "start_time": "2026-01-04T22:07:52.001467",
+      "end_time": "2026-01-04T22:07:52.008632",
+      "duration_seconds": 0.007164955139160156,
+      "duration_human": "0.01s"
+    },
+    {
+      "step": "full_text_processing",
+      "document": "53d3c1ea4899",
+      "start_time": "2026-01-04T22:07:51.885294",
+      "end_time": "2026-01-04T22:07:52.008632",
+      "duration_seconds": 0.12333798408508301,
+      "duration_human": "0.12s"
+    },
+    {
+      "step": "text_cleaning",
+      "document": "b1f3af4a4305",
+      "start_time": "2026-01-04T22:07:52.008632",
+      "end_time": "2026-01-04T22:07:52.017647",
+      "duration_seconds": 0.009014606475830078,
+      "duration_human": "0.01s"
+    },
+    {
+      "step": "tokenization",
+      "document": "b1f3af4a4305",
+      "start_time": "2026-01-04T22:07:52.017647",
+      "end_time": "2026-01-04T22:07:52.134351",
+      "duration_seconds": 0.11670398712158203,
+      "duration_human": "0.12s"
+    },
+    {
+      "step": "normalization",
+      "document": "b1f3af4a4305",
+      "start_time": "2026-01-04T22:07:52.134351",
+      "end_time": "2026-01-04T22:07:52.134351",
+      "duration_seconds": 0.0,
+      "duration_human": "0.00s"
+    },
+    {
+      "step": "full_text_processing",
+      "document": "b1f3af4a4305",
+      "start_time": "2026-01-04T22:07:52.008632",
+      "end_time": "2026-01-04T22:07:52.134351",
+      "duration_seconds": 0.1257185935974121,
+      "duration_human": "0.13s"
+    },
+    {
+      "step": "text_cleaning",
+      "document": "175c7fd9abeb",
+      "start_time": "2026-01-04T22:07:52.134351",
+      "end_time": "2026-01-04T22:07:52.167721",
+      "duration_seconds": 0.033370018005371094,
+      "duration_human": "0.03s"
+    },
+    {
+      "step": "tokenization",
+      "document": "175c7fd9abeb",
+      "start_time": "2026-01-04T22:07:52.168732",
+      "end_time": "2026-01-04T22:07:52.554143",
+      "duration_seconds": 0.3854105472564697,
+      "duration_human": "0.39s"
+    },
+    {
+      "step": "normalization",
+      "document": "175c7fd9abeb",
+      "start_time": "2026-01-04T22:07:52.554143",
+      "end_time": "2026-01-04T22:07:52.569776",
+      "duration_seconds": 0.01563286781311035,
+      "duration_human": "0.02s"
+    },
+    {
+      "step": "full_text_processing",
+      "document": "175c7fd9abeb",
+      "start_time": "2026-01-04T22:07:52.134351",
+      "end_time": "2026-01-04T22:07:52.569776",
+      "duration_seconds": 0.4354245662689209,
+      "duration_human": "0.44s"
+    },
+    {
+      "step": "text_cleaning",
+      "document": "c7541cbc47ce",
+      "start_time": "2026-01-04T22:07:52.569776",
+      "end_time": "2026-01-04T22:07:52.602935",
+      "duration_seconds": 0.033159494400024414,
+      "duration_human": "0.03s"
+    },
+    {
+      "step": "tokenization",
+      "document": "c7541cbc47ce",
+      "start_time": "2026-01-04T22:07:52.602935",
+      "end_time": "2026-01-04T22:07:53.048636",
+      "duration_seconds": 0.44570088386535645,
+      "duration_human": "0.45s"
+    },
+    {
+      "step": "normalization",
+      "document": "c7541cbc47ce",
+      "start_time": "2026-01-04T22:07:53.048636",
+      "end_time": "2026-01-04T22:07:53.070754",
+      "duration_seconds": 0.02211785316467285,
+      "duration_human": "0.02s"
+    },
+    {
+      "step": "full_text_processing",
+      "document": "c7541cbc47ce",
+      "start_time": "2026-01-04T22:07:52.569776",
+      "end_time": "2026-01-04T22:07:53.071760",
+      "duration_seconds": 0.5019848346710205,
+      "duration_human": "0.50s"
+    },
+    {
+      "step": "text_cleaning",
+      "document": "01d36482cbe7",
+      "start_time": "2026-01-04T22:07:53.098091",
+      "end_time": "2026-01-04T22:07:53.125639",
+      "duration_seconds": 0.02754831314086914,
+      "duration_human": "0.03s"
+    },
+    {
+      "step": "tokenization",
+      "document": "01d36482cbe7",
+      "start_time": "2026-01-04T22:07:53.125639",
+      "end_time": "2026-01-04T22:07:53.494779",
+      "duration_seconds": 0.3691403865814209,
+      "duration_human": "0.37s"
+    },
+    {
+      "step": "normalization",
+      "document": "01d36482cbe7",
+      "start_time": "2026-01-04T22:07:53.494779",
+      "end_time": "2026-01-04T22:07:53.504788",
+      "duration_seconds": 0.010008573532104492,
+      "duration_human": "0.01s"
+    },
+    {
+      "step": "full_text_processing",
+      "document": "01d36482cbe7",
+      "start_time": "2026-01-04T22:07:53.097538",
+      "end_time": "2026-01-04T22:07:53.506794",
+      "duration_seconds": 0.4092559814453125,
+      "duration_human": "0.41s"
+    },
+    {
+      "step": "text_cleaning",
+      "document": "644d813d4e62",
+      "start_time": "2026-01-04T22:07:53.506867",
+      "end_time": "2026-01-04T22:07:53.536265",
+      "duration_seconds": 0.02939772605895996,
+      "duration_human": "0.03s"
+    },
+    {
+      "step": "tokenization",
+      "document": "644d813d4e62",
+      "start_time": "2026-01-04T22:07:53.537264",
+      "end_time": "2026-01-04T22:07:53.850775",
+      "duration_seconds": 0.31351137161254883,
+      "duration_human": "0.31s"
+    },
+    {
+      "step": "normalization",
+      "document": "644d813d4e62",
+      "start_time": "2026-01-04T22:07:53.850775",
+      "end_time": "2026-01-04T22:07:53.866407",
+      "duration_seconds": 0.01563239097595215,
+      "duration_human": "0.02s"
+    },
+    {
+      "step": "full_text_processing",
+      "document": "644d813d4e62",
+      "start_time": "2026-01-04T22:07:53.506867",
+      "end_time": "2026-01-04T22:07:53.866407",
+      "duration_seconds": 0.3595402240753174,
+      "duration_human": "0.36s"
+    },
+    {
+      "step": "feature_extraction",
+      "document": null,
+      "start_time": "2026-01-04T22:07:53.866407",
+      "end_time": "2026-01-04T22:17:21.200735",
+      "duration_seconds": 567.3343276977539,
+      "duration_human": "567.33s"
+    },
+    {
+      "step": "full_pipeline_execution",
+      "document": null,
+      "start_time": "2026-01-04T22:07:43.661841",
+      "end_time": "2026-01-04T22:17:21.428700",
+      "duration_seconds": 577.7668588161469,
+      "duration_human": "577.77s"
+    },
+    {
+      "step": "document_summarization",
+      "document": "670455a18706",
+      "start_time": "2026-01-04T22:17:21.432204",
+      "end_time": "2026-01-04T22:17:23.764525",
+      "duration_seconds": 2.332321882247925,
+      "duration_human": "2.33s"
+    },
+    {
+      "step": "document_summarization",
+      "document": "d3eb1393655c",
+      "start_time": "2026-01-04T22:17:23.765526",
+      "end_time": "2026-01-04T22:17:24.970662",
+      "duration_seconds": 1.2051362991333008,
+      "duration_human": "1.21s"
+    },
+    {
+      "step": "document_summarization",
+      "document": "031b1c80c392",
+      "start_time": "2026-01-04T22:17:24.972678",
+      "end_time": "2026-01-04T22:17:26.483840",
+      "duration_seconds": 1.511162519454956,
+      "duration_human": "1.51s"
+    },
+    {
+      "step": "document_summarization",
+      "document": "d062e3b9d79d",
+      "start_time": "2026-01-04T22:17:26.484840",
+      "end_time": "2026-01-04T22:17:27.529601",
+      "duration_seconds": 1.0447609424591064,
+      "duration_human": "1.04s"
+    },
+    {
+      "step": "document_summarization",
+      "document": "f88585105666",
+      "start_time": "2026-01-04T22:17:27.531790",
+      "end_time": "2026-01-04T22:17:27.967181",
+      "duration_seconds": 0.4353904724121094,
+      "duration_human": "0.44s"
+    },
+    {
+      "step": "document_summarization",
+      "document": "1b532b8b25d6",
+      "start_time": "2026-01-04T22:17:27.973733",
+      "end_time": "2026-01-04T22:17:28.701778",
+      "duration_seconds": 0.7280445098876953,
+      "duration_human": "0.73s"
+    },
+    {
+      "step": "document_summarization",
+      "document": "53d3c1ea4899",
+      "start_time": "2026-01-04T22:17:28.703237",
+      "end_time": "2026-01-04T22:17:29.033331",
+      "duration_seconds": 0.3300938606262207,
+      "duration_human": "0.33s"
+    },
+    {
+      "step": "document_summarization",
+      "document": "b1f3af4a4305",
+      "start_time": "2026-01-04T22:17:29.035337",
+      "end_time": "2026-01-04T22:17:29.437872",
+      "duration_seconds": 0.40253567695617676,
+      "duration_human": "0.40s"
+    },
+    {
+      "step": "document_summarization",
+      "document": "175c7fd9abeb",
+      "start_time": "2026-01-04T22:17:29.439875",
+      "end_time": "2026-01-04T22:17:30.504417",
+      "duration_seconds": 1.064542293548584,
+      "duration_human": "1.06s"
+    },
+    {
+      "step": "document_summarization",
+      "document": "c7541cbc47ce",
+      "start_time": "2026-01-04T22:17:30.506418",
+      "end_time": "2026-01-04T22:17:31.732728",
+      "duration_seconds": 1.2263097763061523,
+      "duration_human": "1.23s"
+    },
+    {
+      "step": "document_summarization",
+      "document": "01d36482cbe7",
+      "start_time": "2026-01-04T22:17:31.737729",
+      "end_time": "2026-01-04T22:17:32.828024",
+      "duration_seconds": 1.0902953147888184,
+      "duration_human": "1.09s"
+    },
+    {
+      "step": "document_summarization",
+      "document": "644d813d4e62",
+      "start_time": "2026-01-04T22:17:32.830549",
+      "end_time": "2026-01-04T22:17:33.697559",
+      "duration_seconds": 0.8670108318328857,
+      "duration_human": "0.87s"
+    },
+    {
+      "step": "entity_extraction",
+      "document": "670455a18706",
+      "start_time": "2026-01-04T22:17:33.789574",
+      "end_time": "2026-01-04T22:17:43.699511",
+      "duration_seconds": 9.909936904907227,
+      "duration_human": "9.91s"
+    },
+    {
+      "step": "entity_extraction",
+      "document": "d3eb1393655c",
+      "start_time": "2026-01-04T22:17:43.700526",
+      "end_time": "2026-01-04T22:17:44.310808",
+      "duration_seconds": 0.6102821826934814,
+      "duration_human": "0.61s"
+    },
+    {
+      "step": "entity_extraction",
+      "document": "031b1c80c392",
+      "start_time": "2026-01-04T22:17:44.311814",
+      "end_time": "2026-01-04T22:17:44.993000",
+      "duration_seconds": 0.6811859607696533,
+      "duration_human": "0.68s"
+    },
+    {
+      "step": "entity_extraction",
+      "document": "d062e3b9d79d",
+      "start_time": "2026-01-04T22:17:44.994002",
+      "end_time": "2026-01-04T22:17:45.502769",
+      "duration_seconds": 0.50876784324646,
+      "duration_human": "0.51s"
+    },
+    {
+      "step": "entity_extraction",
+      "document": "f88585105666",
+      "start_time": "2026-01-04T22:17:45.503771",
+      "end_time": "2026-01-04T22:17:45.778262",
+      "duration_seconds": 0.2744905948638916,
+      "duration_human": "0.27s"
+    },
+    {
+      "step": "entity_extraction",
+      "document": "1b532b8b25d6",
+      "start_time": "2026-01-04T22:17:45.797313",
+      "end_time": "2026-01-04T22:17:46.029920",
+      "duration_seconds": 0.2326068878173828,
+      "duration_human": "0.23s"
+    },
+    {
+      "step": "entity_extraction",
+      "document": "53d3c1ea4899",
+      "start_time": "2026-01-04T22:17:46.030863",
+      "end_time": "2026-01-04T22:17:46.158169",
+      "duration_seconds": 0.1273055076599121,
+      "duration_human": "0.13s"
+    },
+    {
+      "step": "entity_extraction",
+      "document": "b1f3af4a4305",
+      "start_time": "2026-01-04T22:17:46.158169",
+      "end_time": "2026-01-04T22:17:46.295446",
+      "duration_seconds": 0.13727736473083496,
+      "duration_human": "0.14s"
+    },
+    {
+      "step": "entity_extraction",
+      "document": "175c7fd9abeb",
+      "start_time": "2026-01-04T22:17:46.296452",
+      "end_time": "2026-01-04T22:17:46.902976",
+      "duration_seconds": 0.6065237522125244,
+      "duration_human": "0.61s"
+    },
+    {
+      "step": "entity_extraction",
+      "document": "c7541cbc47ce",
+      "start_time": "2026-01-04T22:17:46.904486",
+      "end_time": "2026-01-04T22:17:47.548028",
+      "duration_seconds": 0.6435418128967285,
+      "duration_human": "0.64s"
+    },
+    {
+      "step": "entity_extraction",
+      "document": "01d36482cbe7",
+      "start_time": "2026-01-04T22:17:47.774948",
+      "end_time": "2026-01-04T22:17:48.263421",
+      "duration_seconds": 0.48847317695617676,
+      "duration_human": "0.49s"
+    },
+    {
+      "step": "entity_extraction",
+      "document": "644d813d4e62",
+      "start_time": "2026-01-04T22:17:48.264420",
+      "end_time": "2026-01-04T22:17:48.679501",
+      "duration_seconds": 0.415081262588501,
+      "duration_human": "0.42s"
+    },
+    {
+      "step": "timeline_building",
+      "document": null,
+      "start_time": "2026-01-04T22:17:48.859892",
+      "end_time": "2026-01-04T22:17:48.941644",
+      "duration_seconds": 0.08175158500671387,
+      "duration_human": "0.08s"
+    },
+    {
+      "step": "comparative_analysis",
+      "document": null,
+      "start_time": "2026-01-04T22:17:54.537112",
+      "end_time": "2026-01-04T22:17:54.626464",
+      "duration_seconds": 0.08935213088989258,
+      "duration_human": "0.09s"
+    }
+  ],
+  "step_count": 88
+}

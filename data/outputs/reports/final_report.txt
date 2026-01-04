@@ -1,0 +1,101 @@
+====================================================================================================
+HISTORICAL TEXT ANALYSIS - FINAL REPORT
+====================================================================================================
+Generated: 2026-01-04 22:18:07
+
+1. PIPELINE STATISTICS
+--------------------------------------------------
+Documents Processed: 12
+Total Words: 16,420
+Average Document Length: 1368 words
+Vocabulary Size: 3,053
+
+2. SUMMARIZATION
+--------------------------------------------------
+Documents Summarized: 12
+Average Compression Ratio: 18.9%
+Methods Used: textrank
+
+3. NAMED ENTITY RECOGNITION
+--------------------------------------------------
+Total Entities Extracted: 1,502
+Entity Distribution:
+  - ORG: 337
+  - DATE: 295
+  - PERSON: 232
+  - NORP: 202
+  - GPE: 179
+  - CARDINAL: 62
+  - EVENT: 44
+  - LOC: 42
+  - LAW: 42
+  - ORDINAL: 22
+  - FAC: 20
+  - WORK_OF_ART: 11
+  - PRODUCT: 9
+  - QUANTITY: 3
+  - DOCUMENT: 1
+  - PERCENT: 1
+
+4. TIMELINE
+--------------------------------------------------
+Events in Timeline: 164
+Time Period: 50 - 2023
+Events by Century:
+  - 1th century: 1
+  - 3th century: 2
+  - 4th century: 4
+  - 5th century: 3
+  - 6th century: 1
+  - 7th century: 3
+  - 10th century: 2
+  - 12th century: 1
+  - 13th century: 7
+  - 14th century: 3
+  - 15th century: 6
+  - 16th century: 8
+  - 17th century: 9
+  - 18th century: 3
+  - 19th century: 19
+  - 20th century: 68
+  - 21th century: 24
+
+5. COMPARATIVE ANALYSIS
+--------------------------------------------------
+Clusters Identified: 5
+
+Cluster 2 (5 documents):
+  - 670455a18706... (Score: 2.12)
+  - 031b1c80c392... (Score: 1.68)
+  - 1b532b8b25d6... (Score: 3.78)
+
+Cluster 4 (2 documents):
+  - d3eb1393655c... (Score: 0.75)
+  - 175c7fd9abeb... (Score: 2.25)
+
+Cluster 1 (3 documents):
+  - d062e3b9d79d... (Score: 1.42)
+  - 01d36482cbe7... (Score: 2.71)
+  - 644d813d4e62... (Score: 1.01)
+
+Cluster 0 (1 documents):
+  - f88585105666... (Score: 3.53)
+
+Cluster 3 (1 documents):
+  - b1f3af4a4305... (Score: 5.08)
+
+6. KEY INSIGHTS
+--------------------------------------------------
+Dominant Political Ideology: liberalism (4 documents)
+
+Temporal Analysis (1137 - 2019):
+  - Political Ideology decreased by 53.3%
+  - Socioeconomic Structure increased by 88.7%
+
+7. RECOMMENDATIONS FOR FURTHER ANALYSIS
+--------------------------------------------------
+1. Investigate clusters with similar political ideologies
+2. Analyze entity networks for historical relationships
+3. Compare socioeconomic structures across different periods
+4. Examine governance changes over time
+5. Study impact of major historical events on social structures

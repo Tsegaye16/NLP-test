@@ -1,0 +1,1515 @@
+=== Document: 670455a18706 ===
+Total entities: 195
+==================================================
+
+PERSON (21):
+  - -- Page 1 --
+The Foundations of Ethiopian Civilization: The
+Ancient and Classical
+  - Dʿmt
+  - Dʿmt
+  - Dʿmt
+  - Dʿmt
+  - Almouqah
+  - Dʿmt
+  - Grat Be'al
+  - Gebri
+Yeha
+  - Adulis
+  - Negus
+  - Adulis
+  - Kaleb
+  - Ella Asbeha
+  - King Ezana
+  - Frumentius and Aedesius
+  - Abuna Selama
+  - Ezana Stele
+  - Aksumite
+  - Adulis
+
+DATE (20):
+  - Period
+  - Period
+  - the first millennium
+  - the next two thousand years
+  - Century
+  - century
+  - era
+  - modern-day
+  - era
+  - century
+  - Period
+  - 1937
+  - 2005
+  - period
+  - century
+  - period
+  - century
+  - 1991
+  - 2012
+  - 1972
+
+ORG (40):
+  - Abyssinia
+  - Ancient
+  - CE
+  - Kingdom of Aksum
+  - I. The Kingdom of Dʿmt (c. 10th-5th
+  - Historical Monuments
+  - Aftse Church
+  - The Temple of Yeha
+  - Axum
+  - Imperial Power
+  - Aksum
+  - Key Rulers
+  - Periplus
+  - Ezana
+c. 320s-360 CE
+Converted
+  - Aksum
+  - the Negusa Nagast
+  - Tewahedo
+Church
+  - Church
+  - Conversion
+  - Aksum
+
+GPE (31):
+  - Ethiopia
+  - the Kingdom of Dʿmt
+  - The Kingdom of Dʿmt
+  - Da'amat
+  - South Arabia
+  - Yemen
+  - Ethiopia
+  - The Kingdom of Aksum
+  - the Kingdom of Aksum
+  - Rome
+  - Persia
+  - China
+  - Ethiopia
+  - Eritrea
+  - Sudan
+  - Yemen
+  - the Roman Empire
+  - India
+  - the Kingdom of Kush
+  - Himyarite
+
+LOC (17):
+  - Horn of Africa
+  - Africa
+  - Horn
+  - Ge'ez
+  - the Abuna
+
+  - the Arabian Peninsula
+  - Red Sea
+  - the Red Sea
+  - the Erythraean Sea
+  - the Red Sea
+  - Ge'ez
+  - Red Sea
+  - Mediterranean
+  - the Far East
+  - the Red Sea
+  - Mediterranean
+  - the Northern Horn
+
+ORDINAL (6):
+  - 7th
+  - 10th
+  - first
+  - First
+  - first
+  - first
+
+CARDINAL (10):
+  - two
+  - 270
+  - one
+  - 514
+  - two
+  - 1000
+  - 1300
+  - 276NTITY_0004_DATE
+  - Four
+  - 1270
+
+NORP (38):
+  - Ethiopian
+  - Christian
+  - Ethiopian
+  - Eritrean
+  - Sabaeans
+  - Ethiopian
+  - Sabaeans
+  - Sabaean
+  - African
+  - Yeha
+  - Tigray
+  - South Arabian
+  - Tigray
+  - Dʿmt
+  - Aksumite
+  - Aksumite
+  - Christianity
+  - Christian
+  - Christian
+  - Aksumite
+
+FAC (4):
+  - the Ancient South Arabian
+  - Monument
+Description
+Significance
+The
+  - Dungur Palace
+  - the "Palace of the Queen of Sheba
+
+LAW (4):
+  - Page 2
+  - Page 3
+  - Page 4
+  - Page 5
+
+QUANTITY (3):
+  - 33 meters
+  - 24 meters
+  - 24-meter
+
+EVENT (1):
+  - Ge'ez
+
+==================================================
+
+=== Document: d3eb1393655c ===
+Total entities: 155
+==================================================
+
+PERSON (28):
+  - -- Page 1 --
+The Military Socialist Regime:
+  - Derg
+  - Emperor Haile Selassie
+  - Derg
+  - Derg
+  - Derg
+  - Haile Selassie
+  - Derg
+  - Derg
+  - Derg
+  - Mengistu Haile Mariam
+  - Mengistu Haile
+  - Mariam
+  - Derg
+  - General Teferi Banti
+  - Mengistu
+  - Mengistu
+  - Derg
+  - Derg
+  - Derg
+
+EVENT (8):
+  - Ethiopian Revolution
+  - The End of Empire and the Dawn of Revolution
+  - Solomonic Dynasty
+  - the "White Terror
+  - the Proclamation No. 31 of 1975
+  - protracted civil war
+  - Cold War
+  - Ogaden War
+
+DATE (31):
+  - 1974-
+1991
+  - 1974 to 1991
+  - seventeen-year
+  - period
+  - 1974
+  - 1974
+  - September 12
+  - 3,000-year-old
+  - era
+  - March 1975
+  - December 1974
+  - 1977-19780031_DATE__-1978
+  - period
+  - the late 1970s
+  - period
+  - 1984
+  - 1984-19850021_DATE__-1985
+  - 1977-19780017_DATE__-1978
+  - 1977
+  - March 1978
+
+GPE (24):
+  - Ethiopia
+  - Ethiopia
+  - Ethiopia
+  - Ethiopia
+  - Ethiopia
+  - Addis Ababa
+  - Ethiopia
+  - Somalia
+  - Ethiopia
+  - the United States
+  - the Soviet Union
+  - Cuba
+  - Addis Ababa
+  - Eritrea
+  - Independence
+  - Eritrea
+  - Tigray
+  - Addis Ababa
+  - Zimbabwe
+  - Eritrea
+
+ORG (38):
+  - the Provisional Military Administrative
+Council
+  - PMAC
+  - Wollo
+  - Formation and Consolidation
+  - the Coordinating Committee of the Armed Forces
+  - Territorial Army
+  - The Red Terror
+  - the Red Terror
+  - People's Revolutionary Party
+  - EPRP
+  - Ethiopia Socialist Movement
+  - EPRP
+  - Derg
+  - the Campaign of Terror
+  - the Red Terror
+  - EPRP
+  - Socialist Transformation and Economic Policy
+  - Derg
+  - Peasant
+Associations
+  - Derg
+
+NORP (14):
+  - Soviet
+  - Marxist
+  - Leninist Ethiopian
+  - Marxist
+  - Somali
+  - Soviets
+  - Cuban
+  - Soviet
+  - Somali
+  - Tigray
+  - Oromo
+  - Soviet
+  - Amhara
+  - Ethiopian
+
+LAW (4):
+  - Page 2
+  - Page 3
+  - Page 4
+  - Page 5
+
+DOCUMENT (1):
+  - Declaration of Socialism
+
+WORK_OF_ART (1):
+  - The Red Terror
+
+CARDINAL (3):
+  - thousands
+  - 400,000
+  - Hundreds of thousands
+
+LOC (2):
+  - Ogaden
+  - Ogaden
+
+FAC (1):
+  - Tiglachin Monument
+
+==================================================
+
+=== Document: 031b1c80c392 ===
+Total entities: 177
+==================================================
+
+DATE (40):
+  - Age
+  - Period
+  - period
+  - the 15th to the mid-19th
+  - century
+  - era
+  - Period
+  - 1632-17690050_DATE__-1769
+  - age
+  - century
+  - 15th-17th
+  - The 15th and 16th centuries
+  - period
+  - 1529-15430043_DATE__-1543
+  - 1543
+  - period
+  - Years
+  - 1632
+  - period
+  - Period
+
+GPE (17):
+  - Ethiopia
+  - Gondar
+  - Solomonic Empire
+  - Gondar
+  - Gondar
+  - Gondar
+  - Gondar
+  - Gondar
+  - Iyoas
+  - Gondar
+  - Tigray
+  - Wollo
+  - Gondar
+  - Ethiopia
+  - Ethiopia
+  - Gondar Region
+  - Ethiopia
+
+NORP (35):
+  - Gondarine
+  - Ethiopian
+  - Christian
+  - Christian
+  - Muslim
+  - Ethiopian
+  - Ottoman
+  - Christian
+  - Christian
+  - Portuguese
+  - Ethiopian
+  - Portuguese
+  - Portuguese
+  - Jesuit
+  - r.
+  - Catholic
+  - Orthodox
+  - Ethiopian
+  - Orthodox
+  - Ethiopian
+
+ORG (26):
+  - the Solomonic Empire
+  - the Zemene Mesafint
+  - The Architect of Centralization
+  - Solomonic
+  - Church
+  - State
+  - the Ethiopian Orthodox Tewahedo Church
+  - The Jesuit Interlude and Religious Conflict
+  - the Ethiopian Orthodox Church
+  - Imperial Court
+  - Orthodox Church
+  - Royal Enclosure
+  - UNESCO World Heritage
+  - Iyasu
+  - Empress
+  - The Gondarine Cultural Renaissance
+  - The Zemene Mesafint
+  - The Ethiopian Orthodox Church
+  - Ohio University Press
+  - Church
+
+PERSON (37):
+  - Emperor Zara Yaqob
+  - Adal
+  - Emperor Zara Yaqob
+  - Emperor Zara Yaqob
+  - Zara Yaqob's
+  - the Virgin Mary
+  - Zara Yaqob's
+  - Imam Ahmad ibn Ibrahim al-Ghazi
+  - Ahmad
+Gragn
+  - Gragn
+  - Cristóvão da Gama
+  - Gragn
+  - Susenyos
+  - Emperor Susenyos
+  - Susenyos
+  - Susenyos
+  - Emperor Fasilides
+  - Fasil Ghebbi
+  - Fasil Ghebbi
+  - Fasil Ghebbi
+
+EVENT (4):
+  - Ethiopian War
+  - but the war
+  - Civil War
+  - the Gondarine
+
+CARDINAL (6):
+  - 1434
+  - 1541
+  - 1622
+  - 1624-16320032_DATE__-1632
+  - four
+  - 1270-15270002_DATE__-1527
+
+FAC (3):
+  - Ge'ez
+  - Timkat (Epiphany
+  - the Zemene Mesafint
+
+LAW (4):
+  - Page 2
+  - Page 3
+  - Page 4
+  - Page 5
+
+WORK_OF_ART (1):
+  - The Crisis of Survival: The Adal-Ethiopian War
+
+ORDINAL (1):
+  - 16th
+
+PRODUCT (2):
+  - Castle
+  - Tewodros II
+
+LOC (1):
+  - the Zemene Mesafint
+
+==================================================
+
+=== Document: d062e3b9d79d ===
+Total entities: 154
+==================================================
+
+PERSON (9):
+  - -- Page 1 --
+The Federal Democratic Republic: The
+EPRDF
+  - Derg
+  - Derg
+  - Derg
+  - Derg
+  - Derg
+  - Abiy Ahmed
+  - Bahru Zewde
+  - J.
+
+DATE (27):
+  - Era
+  - 1991-20180036_DATE__-2018
+  - era
+  - May
+1991
+  - period
+  - nearly three decades
+  - era
+  - 1991-19950029_DATE__-1995
+  - 1993
+  - decades
+  - era
+  - over a decade
+  - 1998-20000021_DATE__-2000
+  - May 1998
+  - June 2000
+  - nearly two
+decades
+  - 2005
+  - 2018
+  - 2015
+  - 2018
+
+ORG (55):
+  - The Ethiopian People's Revolutionary Democratic Front
+  - the Tigray People's Liberation Front
+  - TPLF
+  - EPRDF
+  - a Federal Democratic Republic
+  - Federal State
+  - EPRDF
+  - the Transitional Government
+  - TGE
+  - TGE
+  - TGE
+  - EPRDF
+  - the House of People's Representatives
+  - the House of Federation
+  - The Developmental State Model and Economic
+Growth
+  - EPRDF
+  - the Developmental State
+  - the Grand Ethiopian Renaissance Dam - GERD
+  - EPRDF
+  - EPRDF
+
+GPE (13):
+  - Ethiopia
+  - Ethiopia
+  - Eritrea
+  - Eritrea
+  - Ethiopia
+  - Ethiopia
+  - Ethiopia
+  - Eritrea
+  - Ethiopia
+  - Ababa
+  - Ethiopia
+  - Ethiopia
+  - Ethiopia
+
+EVENT (10):
+  - stated goal was to address the root causes of
+the civil war
+  - Ethiopian War
+  - devastating border war
+  - Causes and Course of the Conflict
+The war
+  - scale conventional war
+  - The war
+  - No War
+  - No War
+  - devastating war
+  - Ethiopian
+War
+
+LAW (10):
+  - The Transitional Charter
+  - Page 2
+  - The 1995 Constitution and Ethnic Federalism
+  - the 1995 Constitution
+  - Article 39 of the Constitution
+  - Constitution
+  - Page 3
+  - the Algiers Agreement
+  - Page 4
+  - Page 5
+
+NORP (22):
+  - Eritrean
+  - Eritrean
+  - Ethiopian
+  - East
+
+  - Asian
+  - Eritrean
+  - Ethiopian
+  - Eritrean
+  - Democratic
+  - Centralism
+  - Amhara
+  - Southern Ethiopian
+  - Oromo
+  - Amhara
+  - Amhara
+  - Oromo
+  - Oromo
+  - Oromo
+  - Amhara
+  - Ethiopian
+
+CARDINAL (6):
+  - nine
+  - two
+  - two
+  - hundreds of thousands
+  - tens of thousands
+  - four
+
+PERCENT (1):
+  - over 99%
+
+LOC (1):
+  - Oromia
+
+==================================================
+
+=== Document: f88585105666 ===
+Total entities: 44
+==================================================
+
+PERSON (13):
+  - -- Page 1 --
+Research Findings:
+  - Almouqah
+  - Gedara
+  - Kush
+  - Great
+Stele
+  - Ezana Stele
+  - Rome Stele
+  - Ta'akha Maryam
+  - Gebre Meskel
+  - Lady Mary
+  - Adulis
+  - Beher
+  - Mahrem
+
+DATE (2):
+  - Period
+  - century
+
+NORP (8):
+  - Dʿmt
+  - Sabaeans
+  - South Arabian
+  - South Arabian
+  - Christianity
+  - Christians
+  - Greek
+  - Christianity
+
+GPE (8):
+  - Aksum
+  - Ethiopia
+  - Yeha
+  - South Arabia
+  - Rome
+  - Persia
+  - China
+  - Yemen
+
+CARDINAL (3):
+  - One
+  - one
+  - four
+
+ORG (3):
+  - Kingdom of Aksum
+  - Periplus
+  - Dungur
+
+LOC (3):
+  - the Erythraean Sea
+  - Negusa Nagast
+  - Red Sea
+
+ORDINAL (2):
+  - First
+  - First
+
+FAC (1):
+  - Ge'ez
+
+PRODUCT (1):
+  - Astar
+
+==================================================
+
+=== Document: 1b532b8b25d6 ===
+Total entities: 36
+==================================================
+
+PERSON (8):
+  - -- Page 1 --
+Research Findings:
+  - Susenyos
+  - Fasil Ghebbi
+  - Empress Mentewab
+  - Fasil Ghebbi
+  - Zemene Mesafint
+  - Rases
+  - Gojjam
+
+DATE (9):
+  - Period
+  - Period
+  - 1434-14680012_DATE__-1468
+  - 1607-16320009_DATE__-1632
+  - Period
+  - 1632-17690005_DATE__-1769
+  - period
+  - 1769-18550001_DATE__-1855
+  - period
+
+EVENT (2):
+  - Early Modern
+  - leading
+to civil war
+
+NORP (7):
+  - Orthodox Christianity
+  - Jesuit
+  - Iyasu
+  - Gondarine
+  - Ethiopian
+  - Indian
+  - European
+
+GPE (4):
+  - Gondar
+  - Gondar
+  - Gondar
+  - Tigray
+
+ORG (4):
+  - Royal Enclosure
+  - Iyasu
+  - Timkat (Epiphany
+  - Wollo
+
+PRODUCT (1):
+  - Castle
+
+LAW (1):
+  - Page 2
+
+==================================================
+
+=== Document: 53d3c1ea4899 ===
+Total entities: 32
+==================================================
+
+PERSON (11):
+  - -- Page 1 --
+Research Findings: Medieval
+  - King Lalibela
+  - King Gebre Meskel Lalibela
+  - Biete Medhane Alem
+  - Biete Ghiorgis
+  - Agaw
+  - Yekuno Amlak
+  - Debre Libanos
+  - Debre Hayk Istifanos
+  - Ifat
+  - Adal
+
+DATE (2):
+  - Period
+  - This dynasty
+
+ORG (5):
+  - Zagwe
+  - Roha (Lalibela
+  - Zagwe
+  - Yemrehana Krestos Church
+  - Zagwe
+
+GPE (3):
+  - Solomonic Dynasties
+  - Zagwe
+  - King
+Solomon
+
+CARDINAL (3):
+  - 1137TITY_0006_DATE__0005_DATE__-1270
+  - 11
+  - 1270-19740002_DATE__-1974
+
+NORP (4):
+  - Aksumite
+  - Christian
+  - Ethiopian Orthodox
+  - Muslim
+
+LOC (2):
+  - Ge'ez
+  - the Queen of Sheba
+
+WORK_OF_ART (1):
+  - Katama
+
+LAW (1):
+  - Page 2
+
+==================================================
+
+=== Document: b1f3af4a4305 ===
+Total entities: 55
+==================================================
+
+PERSON (12):
+  - -- Page 1 --
+Research Findings:
+  - Emperor Tewodros II
+  - Emperor Yohannes IV
+  - Mahdist
+  - Emperor Menelik II
+  - St. George's Cathe-
+  - Empress Zewditu
+  - Ras Teferi
+  - Haile Selassie
+  - Ras Teferi
+  - Emperor Haile Selassie
+  - Derg
+
+GPE (11):
+  - Ethiopia
+  - Ethiopia
+  - Ethiopia
+  - Mekelle
+  - Independence
+  - Italy
+  - Addis Ababa
+  - Addis Ababa
+  - Ethiopia
+  - Addis Ababa
+  - Ethiopia
+
+DATE (15):
+  - 1855-
+1974
+  - 1855-18890033_DATE__-1889
+  - 1855-18680029_DATE__-1868
+  - 1872-18890025_DATE__-1889
+  - 1889-19300021_DATE__-1930
+  - 1889-19130017_DATE__-1913
+  - 1896
+  - 1916-19300012_DATE__-1930
+  - 1930-19740008_DATE__-1974
+  - 20th-
+  - century
+  - 1935-19410004_DATE__-1941
+  - 1931
+  - 1955
+  - 1974
+
+ORG (8):
+  - Unification and Modernization
+  - Entoto Maryam Church
+  - OAU
+  - Trinity Cathedral
+  - National Museum of Ethiopia
+  - OAU
+  - the League of Na-
+tions
+  - UN
+
+NORP (2):
+  - Egyptian
+  - Italian
+
+FAC (3):
+  - the Battle of Adwa
+  - Jubilee Palace
+  - Africa Hall
+
+ORDINAL (2):
+  - First
+  - first
+
+LOC (1):
+  - Regent
+
+LAW (1):
+  - Page 2
+
+==================================================
+
+=== Document: 175c7fd9abeb ===
+Total entities: 162
+==================================================
+
+PERSON (29):
+  - -- Page 1 --
+The Imperial Zenith and Collapse: The
+
+  - Emperor Haile Selassie
+  - Lij Tafari Makonnen
+  - Coronation
+  - Haile Selassie's
+  - Harar
+  - Empress Zewditu
+  - Ras Tafari Makonnen
+  - Empress Zewditu
+  - Emperor Haile Selassie I
+  - Haile Selassie's
+  - Benito Mussolini
+  - Haile Selassie
+  - Haile Selassie
+  - Haile Selassie
+  - Haile Selassie
+  - Haile Selassie's
+  - Dissent
+  - Mengistu Neway
+  - Germame Neway
+
+DATE (47):
+  - 1930-
+1974
+  - century
+  - 1974
+  - 3,000-year-old
+  - 1892-19300062_DATE__-1930
+  - 1916
+  - 1916-19300056_DATE__-1930
+  - 1923
+  - 1930
+  - 1931
+  - 1935-19410047_DATE__-1941
+  - 1935
+  - 1936
+  - today
+  - tomorrow
+  - the years
+  - 1941
+  - five years
+  - 1941-
+1960
+  - period
+
+CARDINAL (3):
+  - nearly half
+  - One
+  - an estimated 200,000 to 400,000
+
+ORG (32):
+  - the Solomonic
+Dynasty
+  - I. Early Life, Regency
+  - Regent Plenipotentiary
+  - Regency
+  - Empress
+  - the League of Nations
+  - Solomonic
+  - League of Nations
+  - the League of Nations
+  - the League of Nations
+  - Bath, England
+  - Liberation
+  - Post-War Reconstruction and Modernization
+  - Institutional Development
+  - Imperial
+  - Imperial
+Highway
+Authority
+  - the Organization of African Unity
+  - The 1960 Coup Attempt
+  - the Imperial Bodyguard
+  - Growing Student
+
+NORP (12):
+  - European
+  - Pan-African
+  - Fascist
+  - Italian
+  - Ethiopian
+  - British
+  - Ethiopian
+  - gult
+  - Ethiopian
+  - African
+  - Ethiopian
+  - Ethiopian
+
+GPE (20):
+  - Ethiopia
+  - Ethiopia
+  - Ethiopia
+  - Ethiopia
+  - Italy
+  - Ethiopia
+  - Geneva
+  - Addis Ababa
+  - Addis Ababa
+  - Ethiopia
+  - Eritrea
+  - Ethiopia
+  - Wollo
+  - Tigray
+  - Ethiopia
+  - Geneva
+  - Switzerland
+  - Ethiopia
+  - Revolutionary
+  - Ethiopia
+
+FAC (1):
+  - Sidamo
+
+WORK_OF_ART (2):
+  - Menelik II
+  - The Crisis of Sovereignty: The Italian Invasion
+
+LAW (5):
+  - Page 2
+  - the 1931 Constitution
+  - Page 3
+  - Page 4
+  - Page 5
+
+ORDINAL (5):
+  - first
+  - first
+  - first
+  - 14th
+  - 80th
+
+LOC (3):
+  - Africa
+  - Africa Hall
+  - Africa
+
+EVENT (3):
+  - The Eritrean Conflict
+  - The Final Years and the Revolution
+  - Solomonic Dynasty
+
+==================================================
+
+=== Document: c7541cbc47ce ===
+Total entities: 183
+==================================================
+
+PERSON (29):
+  - -- Page 1 --
+The Medieval Ethiopian Empire
+  - Agaw
+  - Agaw
+  - King Lalibela
+  - King Lalibela
+  - Biete
+  - Maryam
+  - Mary
+  - Biete Medhane Alem
+  - Biete Ghiorgis
+  - Biete
+  - Yekuno Amlak
+  - Shewa
+  - King Solomon
+  - Solomon
+  - Gult
+  - gult
+  - Gult
+  - Emperor Amda Seyon
+  - Amda Seyon
+
+ORG (58):
+  - Zagwe
+Renaissance to Solomonic Restoration
+Introduction
+  - Zagwe
+  - I. The Zagwe Dynasty
+  - The Zagwe Dynasty
+  - Lasta
+  - Cushitic
+  - Zagwe
+  - the Ethiopian Orthodox Tewahedo Church
+  - Zagwe
+  - Roha
+  - Lalibela
+  - Solomonic
+  - the Ethiopianization of the countryside
+  - the Architectural Renaissance
+  - Zagwe
+  - UNESCO World Heritage
+  - The Rock-Hewn Churches
+  - Church Group
+  - House
+  - House
+
+GPE (13):
+  - The Christian Kingdom
+  - the Aksumite Empire
+  - Ethiopia
+  - New Jerusalem
+  - Ethiopia
+  - St. George
+  - Emmanuel
+  - Ethiopia
+  - Ethiopian-
+  - Ethiopia
+  - Ethiopia
+  - Ethiopia
+  - Zagwe
+
+DATE (23):
+  - Period
+  - the 12th to the 16th
+centuries
+  - period
+  - century
+  - era
+  - era
+  - period
+  - The Solomonic Dynasty
+  - 1270-19740026_DATE__-1974
+  - The Zagwe Dynasty
+  - over 700 years
+  - period
+  - 1314-13440019_DATE__-1344
+  - age
+  - period
+  - Period
+  - age
+  - period
+  - centuries
+  - 1529-15430011_DATE__-1543
+
+NORP (29):
+  - Ethiopian
+  - Christian
+  - Christian
+  - Aksumite
+  - Christian
+  - Christian
+  - Ethiopian
+  - Christianity
+  - Greek
+  - Christian
+  - Aksumite
+  - Ethiopian
+  - Orthodox Christianity
+  - Ethiopian
+  - Judeo-Christian
+  - Muslim
+  - r.
+  - Ethiopian
+  - Muslim
+  - Christian
+
+CARDINAL (15):
+  - two
+  - 1137TITY_0045_DATE__0044_DATE__-1270
+  - 1270-19740041_DATE__-1974
+  - 1137TITY_0035_DATE__0034_DATE__-1270
+  - 1185TITY_0030_DATE__-
+  - eleven
+  - three
+  - 34
+  - 1270
+  - one
+  - 1434
+  - Solomonic
+  - 1270-15270007_DATE__-1527
+  - 1000
+  - 1300
+
+EVENT (3):
+  - the Solomonic Dynasty
+  - the Solomonic Dynasty
+  - Adal War
+
+LOC (4):
+  - the Horn of Africa
+  - the Holy Land
+  - the Horn of Africa
+  - the Northern Horn
+
+LAW (4):
+  - Page 2
+  - Page 3
+  - Page 4
+  - Page 5
+
+FAC (2):
+  - Biete Amanuel
+  - Ge'ez
+
+WORK_OF_ART (2):
+  - The Kebra Nagast
+  - Bible
+
+PRODUCT (1):
+  - Ge'ez Literature
+
+==================================================
+
+=== Document: 01d36482cbe7 ===
+Total entities: 178
+==================================================
+
+PERSON (26):
+  - -- Page 1 --
+The Making of Modern Ethiopia
+  - Emperor Tewodros II
+  - Kassa Hailu
+  - Emperor Yohannes IV
+  - Ras
+  - Emperor Menelik II
+  - Ras Teferi Makonnen
+  - Emperor Haile Selassie I.
+  - Empress Zewditu
+  - Empress Zewditu
+  - Menelik
+  - Ras Teferi Makonnen
+  - Haile Selassie
+  - Zewditu
+  - Emperor Haile Selassie
+  - Haile Selassie
+  - Haile Selassie
+  - Haile Selassie's
+  - the Haile Selassie
+  - Haile Selassie
+
+ORG (30):
+  - the End of Empire
+  - I. The
+  - Tewodros
+  - Tewodros
+  - Tewodros
+  - Yohannes IV's
+  - Metemma
+  - National Independence
+Menelik's
+  - Modern Cabinet
+  - Council of Ministers
+  - Territorial
+Expansion
+  - St. George's Cathedral
+  - the Entoto Maryam Church
+  - Menelik
+  - Regent
+  - Orthodox
+Church
+  - the League of Nations
+  - the League of Nations
+  - Addis Ababa University
+  - the Organization of African
+Unity
+
+DATE (49):
+  - 1855-19740078_DATE__-1974
+  - Era
+  - 1855
+  - period
+  - over a
+  - century
+  - era
+  - 1974
+  - 1855-19130070_DATE__-1913
+  - period
+  - 1855-18680063_DATE__-1868
+  - over a
+  - century
+  - 1868
+  - 1872-18890057_DATE__-1889
+  - 1875
+  - 1876
+  - 1889
+  - the 1880s
+  - 1889-19130046_DATE__-1913
+
+LOC (6):
+  - Modern Ethiopia
+  - the Zemene Mesafint
+  - Africa
+  - the Black diaspora
+  - Africa
+  - Africa
+
+GPE (21):
+  - Ethiopia
+  - Ethiopia
+  - Maqdala
+  - Maqdala
+  - Tigray
+  - Egypt
+  - Sudan
+  - Mekelle
+  - Modern Ethiopia
+  - Ethiopia
+  - Addis
+Ababa
+  - Djibouti
+  - Addis Ababa
+  - Ethiopia
+  - Addis Ababa
+  - the Ethiopian Empire
+  - Ethiopia
+  - Addis Ababa
+  - Geneva
+  - Switzerland
+
+NORP (21):
+  - European
+  - Ethiopian
+  - r.
+  - British
+  - r.
+  - Mahdist
+  - Egyptian
+  - Sudanese
+  - Shewa
+  - African
+  - European
+  - Italian
+  - Ethiopian
+  - r.
+  - Ethiopian
+  - African
+  - Italian
+  - gult
+  - Pan-African
+  - Ethiopian
+
+CARDINAL (4):
+  - three
+  - 1896TITY_0042_DATE
+  - 1916-
+  - thousands
+
+PRODUCT (4):
+  - Yohannes IV
+  - Tewodros II
+  - Menelik II
+  - Teferi
+
+ORDINAL (5):
+  - first
+  - first
+  - first
+  - first
+  - Second
+
+FAC (5):
+  - the Zemene Mesafint
+  - the Battle of Gundet
+  - Africa Hall
+
+  - Jubilee Palace
+
+  - Silver Jubilee
+
+LAW (4):
+  - Page 2
+  - Page 3
+  - Page 4
+  - Page 5
+
+EVENT (3):
+  - Battle of Gura
+  - The Italian Occupation
+  - Ethiopian War
+
+==================================================
+
+=== Document: 644d813d4e62 ===
+Total entities: 131
+==================================================
+
+PERSON (9):
+  - -- Page 1 --
+The Contemporary State:
+  - Abiy Ahmed
+  - Abiy Ahmed's
+  - President Isaias Afwerki
+  - Medemer
+  - Goal
+  - Kilils
+  - General Election
+  - Abiy Ahmed
+
+ORG (38):
+  - The Prosperity
+Party
+  - EPRDF
+  - EPRDF
+  - TPLF
+  - Abiy
+  - Judicial
+  - the Prosperity Party
+  - Abiy
+  - EPRDF
+  - OPDO
+  - ANDM
+  - SEPDM
+  - Prosperity Party
+  - EPRDF Model
+  - Unified
+  - Synergy/Unity
+  - Liberal
+Political Economy
+  - TPLF
+  - EPRDF
+  - EPRDF
+
+DATE (30):
+  - Period
+  - 2019-Present
+  - period
+  - 2018
+  - 2019
+  - era
+  - period
+  - April 2018
+  - 2018-20190031_DATE__-2019
+  - The first year
+  - July 2018
+  - 2019
+  - 2019
+  - November 2019
+  - 2020-20220022_DATE__-2022
+  - November 2020
+  - September 2020
+  - two-year
+  - November 2022
+  - era
+
+NORP (10):
+  - Ethiopian
+  - Oromo
+  - Amhara
+  - Eritrean
+  - Tigray
+  - Tigray
+  - Ethiopian
+  - Amhara
+  - Ethiopian
+  - Ethiopian
+
+GPE (14):
+  - Ethiopia
+  - Eritrea
+  - Ethiopia
+  - Tigray
+  - Tigray
+  - Tigray
+  - Eritrea
+  - Eritrea
+  - Ethiopia
+  - ethiopia
+  - Ethiopia
+  - Tigray
+  - Ethiopia
+  - Newly Unified
+
+WORK_OF_ART (4):
+  - Medemer
+  - Nobel Peace Prize
+  - The Nobel Prize
+  - The Nobel Peace Prize
+
+CARDINAL (9):
+  - thousands
+  - three
+  - four
+  - five
+  - four
+  - 2022
+  - one
+  - 2022
+  - 2022
+
+EVENT (10):
+  - the "
+  - No War
+  - Causes of the Conflict
+The war
+  - weapon of war
+  - The war
+  - devastating civil war
+  - Tigray War
+  - and massive war
+  - weapon of war
+  - Tigray War
+
+LAW (4):
+  - Page 2
+  - Page 3
+  - Page 4
+  - Page 5
+
+LOC (2):
+  - Oromia
+  - Tigray
+
+ORDINAL (1):
+  - first
+
+==================================================
+

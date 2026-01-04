@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "generated": "2026-01-04T22:18:07.505808",
+    "documents_processed": 12,
+    "entities_extracted": 1502,
+    "events_in_timeline": 164,
+    "clusters_identified": 5
+  },
+  "key_findings": {
+    "dominant_ideology": "liberalism",
+    "time_period": [
+      50,
+      2023
+    ],
+    "entity_distribution": {
+      "PERSON": 232,
+      "DATE": 295,
+      "ORG": 337,
+      "GPE": 179,
+      "LOC": 42,
+      "ORDINAL": 22,
+      "CARDINAL": 62,
+      "NORP": 202,
+      "FAC": 20,
+      "LAW": 42,
+      "QUANTITY": 3,
+      "EVENT": 44,
+      "DOCUMENT": 1,
+      "WORK_OF_ART": 11,
+      "PRODUCT": 9,
+      "PERCENT": 1
+    }
+  }
+}

@@ -1,0 +1,730 @@
+event_id,date,year,decade,century,description,sources,entity_count,entities,confidence,precision
+670455a18706_13,1st Century,50,50,1,"mite kings, or Negus, progressively
+expanded their domain, solidifying their control over the northern highlands
+and the Red Sea littoral.
+-- Page 3 --
+Ruler
+Reign (Approx.)
+Key Achievements
+Zoskales...",670455a18706,10,CE; Century; century; era; era,0.9,century
+670455a18706_12,3rd century,250,250,3,"e Kingdom of Aksum (c. 1st-7th Century CE)
+Emerging from the decline of Dʿmt, the Kingdom of Aksum rose to become one
+of the great powers of the ancient world, rivaling Rome, Persia, and China by
+the...",670455a18706,10,Ethiopia; Ancient; 7th; CE; Kingdom of Aksum,0.9,century
+f88585105666_75,3rd century,250,250,3,"ulture: Foundations of agriculture, writing (South Arabian script), and
+metallurgy.
+Kingdom of Aksum (c. 1st-7th century CE)
+• Overview: A major trading empire and one of the four great powers of
+the...",f88585105666,10,Aksum; One; South Arabia; South Arabian; Kingdom of Aksum,0.9,century
+670455a18706_17,310 CE,310,310,4,"n (Approx.)
+Key Achievements
+Zoskales
+1st Century CE
+Mentioned in the Periplus of the Erythraean Sea as the
+first known king;
+controlled the port of Adulis.
+Endybis
+__ENTITY_0028_ROMAN_NUMERAL_c. 270-...",670455a18706,10,CE; Christian; Century; century; era,1.0,year
+670455a18706_14,4th century,350,350,4,"MERAL_c. 270-310 CE
+First Aksumite king to
+mint his own coinage
+(gold, silver, and
+bronze), a symbol of
+sovereignty and
+economic power.
+Ezana
+c. 320s-360 CE
+Converted the kingdom
+to Christianity
+(mid-...",670455a18706,10,CE; Christian; Century; century; era,0.9,century
+f88585105666_76,4th century,350,350,4,"rs:
+- Zoskales: Mentioned in the Periplus of the Erythraean Sea.
+- Gedara (GDRT): First king involved in South Arabian affairs.
+- Endybis: First to mint coins.
+- Ezana:
+Converted to Christianity (mid-...",f88585105666,10,One; South Arabia; South Arabian; one; century,0.9,century
+670455a18706_18,360 CE,360,360,4,"the port of Adulis.
+Endybis
+__ENTITY_0028_ROMAN_NUMERAL_c. 270-310 CE
+First Aksumite king to
+mint his own coinage
+(gold, silver, and
+bronze), a symbol of
+sovereignty and
+economic power.
+Ezana
+c. 320s-...",670455a18706,10,CE; Christian; Century; century; era,1.0,year
+670455a18706_9,5th Century,450,450,5,"itical structures that would define the Ethiopian state for the next two thousand years, laying the groundwork for its
+unique identity as a Christian empire in Africa.
+I. The Kingdom of Dʿmt (c. 10th-...",670455a18706,10,Ethiopia; CE; two; the Kingdom of Dʿmt; Ethiopian,0.9,century
+670455a18706_10,5th century,450,450,5,"Century BCE)
+The Kingdom of Dʿmt (Da'amat) represents the earliest known complex, or-
+ganized society in the northern Ethiopian and Eritrean highlands. Flourishing
+from approximately the 10th to the...",670455a18706,10,Ethiopia; CE; the Kingdom of Dʿmt; Ethiopian; Century,0.9,century
+f88585105666_73,5th century,450,450,5,"-- Page 1 --
+Research Findings: Ancient & Classical Period
+(Dʿmt and Aksum)
+Kingdom of Dʿmt (c. 10th-5th century BCE)
+• Overview: One of the earliest known civilizations in Ethiopia, centered
+in Yeha....",f88585105666,10,"-- Page 1 --
+Research Findings:; Period; Dʿmt; Aksum; One",0.9,century
+670455a18706_19,542 CE,542,540,6,"erted the kingdom
+to Christianity
+(mid-4th century),
+making Aksum one of
+the first Christian states
+in the world. Conquered
+the Kingdom of Kush.
+Kaleb (Ella Asbeha)
+__ENTITY_0021_ROMAN_NUMERAL_c. 514-...",670455a18706,10,CE; Christian; Century; century; era,1.0,year
+670455a18706_11,7th Century,650,650,7,"nd fitted masonry, stands as a testament
+to the kingdom's organizational capacity and its strong links with the advanced
+building techniques of the Arabian Peninsula.
+II. The Kingdom of Aksum (c. 1st-...",670455a18706,10,Ancient; 7th; CE; Kingdom of Aksum; Century,0.9,century
+670455a18706_15,7th century,650,650,7,"d
+with the markets of India and the Far East. The state's wealth was based on
+this trade, supplemented by internal resources like gold and iron.
+The Decline of Aksum
+The decline of Aksum began in the...",670455a18706,10,7th; CE; Century; century; century,0.9,century
+f88585105666_74,7th century,650,650,7,"r palace building.
+• Government: Monarchy with strong links to South Arabia (Sabaeans).
+• Culture: Foundations of agriculture, writing (South Arabian script), and
+metallurgy.
+Kingdom of Aksum (c. 1st-...",f88585105666,10,Aksum; One; South Arabia; Sabaeans; South Arabian,0.9,century
+670455a18706_4,1000,1000,1000,10,"nro-Hay, S. C. (1991). Aksum: An African Civilisation of Late Antiquity.
+Edinburgh University Press.
+[2] Phillipson, D. W. (2012).
+Foundations of
+an African Civilisation:
+Aksum and the Northern Horn,...",670455a18706,10,Africa; Horn; era; era; African,1.0,year
+c7541cbc47ce_136,1000,1000,1000,10,"7. Clarendon Press. [3] Marcus, H. G. (2002). A History of Ethiopia.
+University of California Press.
+[4] Phillipson, D. W. (2012).
+Foundations
+of an African Civilisation: Aksum and the Northern Horn,...",c7541cbc47ce,10,Zagwe; Ethiopia; Zagwe; Zagwe; Solomonic,1.0,year
+670455a18706_16,12th century,1150,1150,12,"local resources, led to a gradual southward shift of the political center. The city
+of Axum declined, and the kingdom entered a period of obscurity, eventually
+giving way to the Zagwe dynasty in the...",670455a18706,10,Period; Ethiopia; Period; CE; Ethiopian,0.9,century
+c7541cbc47ce_125,1225,1225,1220,13,"e Christian cultural sphere.
+King Lalibela and the Architectural Renaissance
+The most celebrated ruler of the Zagwe era was King Lalibela (reigned __ENTITY_0032_ROMAN_NUMERAL_c. 1185TITY_0030_DATE__-...",c7541cbc47ce,10,Ethiopian; Christian; Zagwe; era; Ethiopia,1.0,year
+670455a18706_7,1270,1270,1270,13,"ydell & Brewer. [3] Mani. (__ENTITY_0006_ROMAN_NUMERAL_c. 276NTITY_0004_DATE__). The Four Great Kingdoms.
+Cited in various historical texts. [4] Taddesse Tamrat. (1972). Church and State in Ethiopia,...",670455a18706,10,Ethiopia; Kingdom of Aksum; era; era; Ethiopia,1.0,year
+031b1c80c392_52,1270,1270,1270,13,"ulers sought to restore.
+References
+[1] Bahru Zewde.
+(2002).
+A History of Modern Ethiopia,
+1855-19910006_DATE__-1991.
+Ohio University Press.
+[2] Taddesse Tamrat.
+(1972).
+Church and State
+in
+Ethiopia,...",031b1c80c392,10,Age; Ethiopia; Ethiopian; Gondar; age,1.0,year
+53d3c1ea4899_84,1270,1270,1270,13,"-- Page 1 --
+Research Findings: Medieval Period (Zagwe and Solomonic Dynasties)
+Zagwe Dynasty (__ENTITY_0008_ROMAN_NUMERAL_c. 1137TITY_0006_DATE__0005_DATE__-1270)
+• Overview: An Agaw monarchy that ru...",53d3c1ea4899,10,"-- Page 1 --
+Research Findings: Medieval; Period; Zagwe; Solomonic Dynasties; 1137TITY_0006_DATE__0005_DATE__-1270",1.0,year
+c7541cbc47ce_123,1270,1270,1270,13,"vilization shifted southward into the rugged, mountainous
+heartland.
+This period is defined by two major dynasties: the Zagwe Dy-
+nasty (__ENTITY_0047_ROMAN_NUMERAL_c. 1137TITY_0045_DATE__0044_DATE__-...",c7541cbc47ce,10,Period; period; two; Zagwe; 1137TITY_0045_DATE__0044_DATE__-1270,1.0,year
+670455a18706_5,1300,1300,1300,13,"An African Civilisation of Late Antiquity.
+Edinburgh University Press.
+[2] Phillipson, D. W. (2012).
+Foundations of
+an African Civilisation:
+Aksum and the Northern Horn, 1000 BCY_0008_DATE__ BC - AD...",670455a18706,10,Africa; Horn; era; era; African,1.0,year
+c7541cbc47ce_137,1300,1300,1300,13,"s, H. G. (2002). A History of Ethiopia.
+University of California Press.
+[4] Phillipson, D. W. (2012).
+Foundations
+of an African Civilisation: Aksum and the Northern Horn, 1000 BCY_0001_DATE__ BC - AD...",c7541cbc47ce,10,Zagwe; Ethiopia; Zagwe; Zagwe; Solomonic,1.0,year
+c7541cbc47ce_126,1314,1314,1310,14,"e early Solomonic period was marked by vigorous expansion and the consoli-
+dation of power against external threats, particularly the Muslim sultanates to
+the east and south.
+Emperor Amda Seyon I (r....",c7541cbc47ce,10,Period; Ethiopian; period; Ethiopia; Solomonic,1.0,year
+c7541cbc47ce_127,1344,1344,1340,14,"ly Solomonic period was marked by vigorous expansion and the consoli-
+dation of power against external threats, particularly the Muslim sultanates to
+the east and south.
+Emperor Amda Seyon I (r.
+1314-...",c7541cbc47ce,10,Period; Ethiopian; period; Ethiopia; Solomonic,1.0,year
+c7541cbc47ce_139,14th century,1350,1350,14,"narchies
+in world history.
+The Restoration of Legitimacy: The Kebra Nagast
+The foundation of the restored dynasty was cemented by the publication of the Kebra Nagast (Glory of the Kings) in the early...",c7541cbc47ce,5,Ethiopian; century; Ethiopia; Solomonic; House,0.9,century
+031b1c80c392_37,1434,1434,1430,15,"perors'
+efforts to centralize power and defend the Christian highlands against external
+pressures, primarily from the Muslim Sultanate of Adal.
+Emperor Zara Yaqob: The Architect of Centralization (r....",031b1c80c392,10,Ethiopia; Ethiopian; Emperor Zara Yaqob; Christian; Christian,1.0,year
+1b532b8b25d6_77,1434,1434,1430,15,"-- Page 1 --
+Research Findings: Early Modern & Gondarine
+Period
+Early Modern Period (15th-17th Century)
+• Key Rulers:
+- Zara Yaqob (1434-14680012_DATE__-1468): Centralized authority, reformed the
+chur...",1b532b8b25d6,10,"-- Page 1 --
+Research Findings:; Period; Early Modern; Period; 1434-14680012_DATE__-1468",1.0,year
+c7541cbc47ce_128,1434,1434,1430,15,"ian hegemony over the Horn of Africa [3]. He established strategic gar-
+risons to maintain control over the newly conquered regions, effectively creating
+a multi-ethnic empire.
+Emperor Zara Yaqob (r....",c7541cbc47ce,10,the Horn of Africa; 34; Church; Church; Church,1.0,year
+031b1c80c392_38,1468,1468,1460,15,"s'
+efforts to centralize power and defend the Christian highlands against external
+pressures, primarily from the Muslim Sultanate of Adal.
+Emperor Zara Yaqob: The Architect of Centralization (r. 1434-...",031b1c80c392,10,Ethiopia; Ethiopian; Emperor Zara Yaqob; Christian; Christian,1.0,year
+1b532b8b25d6_78,1468,1468,1460,15,"-- Page 1 --
+Research Findings: Early Modern & Gondarine
+Period
+Early Modern Period (15th-17th Century)
+• Key Rulers:
+- Zara Yaqob (1434-14680012_DATE__-1468): Centralized authority, reformed the
+chur...",1b532b8b25d6,10,"-- Page 1 --
+Research Findings:; Period; Early Modern; Period; 1434-14680012_DATE__-1468",1.0,year
+c7541cbc47ce_129,1468,1468,1460,15,"egemony over the Horn of Africa [3]. He established strategic gar-
+risons to maintain control over the newly conquered regions, effectively creating
+a multi-ethnic empire.
+Emperor Zara Yaqob (r. 1434-...",c7541cbc47ce,10,the Horn of Africa; 34; Church; Church; Church,1.0,year
+670455a18706_8,1527,1527,1520,16,"& Brewer. [3] Mani. (__ENTITY_0006_ROMAN_NUMERAL_c. 276NTITY_0004_DATE__). The Four Great Kingdoms.
+Cited in various historical texts. [4] Taddesse Tamrat. (1972). Church and State in Ethiopia, 1270-...",670455a18706,10,Ethiopia; Kingdom of Aksum; era; era; Ethiopia,1.0,year
+031b1c80c392_53,1527,1527,1520,16,"sought to restore.
+References
+[1] Bahru Zewde.
+(2002).
+A History of Modern Ethiopia,
+1855-19910006_DATE__-1991.
+Ohio University Press.
+[2] Taddesse Tamrat.
+(1972).
+Church and State
+in
+Ethiopia,
+1270-...",031b1c80c392,10,Age; Ethiopia; Ethiopian; Gondar; age,1.0,year
+c7541cbc47ce_133,1527,1527,1520,16,"dern era
+of increased foreign contact.
+References
+[1] Britannica.
+Ethiopia:
+The Zagwe and Solomonic dynasties.
+Retrieved
+from
+dynasties [2] Taddesse Tamrat.
+(1972).
+Church and State in Ethiopia,
+1270-...",c7541cbc47ce,10,Zagwe; era; Ethiopia; Zagwe; Zagwe,1.0,year
+031b1c80c392_39,1529,1529,1520,16,""" -- Page 2 -- The Crisis of Survival: The Adal-Ethiopian War (1529-15430043_DATE__-1543) The greatest existential threat to the Solomonic Empire came in the 16th cen- tury with the invasion led by Imam Ahmad ibn Ibrahim al-Ghazi (Ahmad Gragn) of the Adal Sultanate",031b1c80c392,10,Age; Ethiopia; Ethiopian; the Solomonic Empire; era,1.0,year
+c7541cbc47ce_130,1529,1529,1520,16,"The most significant conflict was the Ethiopian- Adal War (1529-15430011_DATE__-1543), led by the formidable Imam Ahmad ibn Ibrahim al- Ghazi (Ahmad Gragn)",c7541cbc47ce,10,Ethiopian; Christian; Ethiopia; Christian; Christian,1.0,year
+031b1c80c392_41,1541,1541,1540,16,"ying countless
+churches and monasteries.
+The Christian kingdom was only saved by the intervention of a small but well-
+armed Portuguese expeditionary force, led by Cristóvão da Gama, which arrived
+in...",031b1c80c392,10,Ethiopia; Period; period; Ethiopian; Christian,1.0,year
+031b1c80c392_40,1543,1543,1540,16,""" -- Page 2 -- The Crisis of Survival: The Adal-Ethiopian War (1529-15430043_DATE__-1543) The greatest existential threat to the Solomonic Empire came in the 16th cen- tury with the invasion led by Imam Ahmad ibn Ibrahim al-Ghazi (Ahmad Gragn) of the Adal Sultanate",031b1c80c392,10,Age; Ethiopia; Ethiopian; the Solomonic Empire; era,1.0,year
+c7541cbc47ce_131,1543,1543,1540,16,"The most significant conflict was the Ethiopian- Adal War (1529-15430011_DATE__-1543), led by the formidable Imam Ahmad ibn Ibrahim al- Ghazi (Ahmad Gragn)",c7541cbc47ce,10,Ethiopian; Christian; Ethiopia; Christian; Christian,1.0,year
+031b1c80c392_42,1607,1607,1600,17,"esence introduced a new challenge: the influence of the Jesuit
+missionaries, who sought to convert the Ethiopian Orthodox Church to Catholi-
+cism. This culminated in the reign of Emperor Susenyos (r....",031b1c80c392,10,Ethiopia; Ethiopian; Ethiopian; Church; State,1.0,year
+1b532b8b25d6_79,1607,1607,1600,17,"- Susenyos (1607-16320009_DATE__-1632): Briefly converted to Catholicism, leading to civil war and the eventual restoration of Orthodoxy",1b532b8b25d6,10,Period; Early Modern; Period; 1434-14680012_DATE__-1468; Susenyos,1.0,year
+031b1c80c392_43,1622,1622,1620,17,"Event Date Outcome Susenyos' Conversion 1622 Emperor Susenyos publicly converts to Catholicism, leading to widespread civil unrest and rebellion",031b1c80c392,10,State; r.; Susenyos; 1622; Emperor Susenyos,1.0,year
+031b1c80c392_44,1624,1624,1620,17,Civil War 1624-16320032_DATE__-1632 Years of bloody conflict between the Catholic-aligned imperial forces and the Orthodox nobility and peasantry,031b1c80c392,10,State; Susenyos; 1622; Emperor Susenyos; Civil War,1.0,year
+031b1c80c392_35,1632,1632,1630,17,"of the Christian
+kingdom due to the Adal-Ethiopian War, a brief but intense religious conflict
+over Catholicism, and the eventual establishment of a fixed capital at Gondar.
+This ""Gondarine Period"" (...",031b1c80c392,10,Age; Ethiopia; Gondarine; Period; period,1.0,year
+1b532b8b25d6_80,1632,1632,1630,17,"- Susenyos (1607-16320009_DATE__-1632): Briefly converted to Catholicism, leading to civil war and the eventual restoration of Orthodoxy",1b532b8b25d6,10,Period; Early Modern; Period; 1434-14680012_DATE__-1468; Susenyos,1.0,year
+031b1c80c392_46,1636,1636,1630,17,"mperor Fasilides (r.
+1632-16670024_DATE__-1667), who sought to restore stability and unity after the religious wars.
+His most significant act was the establishment of a permanent capital at
+Gondar in...",031b1c80c392,10,Gondar; r.; 1632; r.; 1632-16670024_DATE__-1667,1.0,year
+1b532b8b25d6_83,17th Century,1650,1650,17,"-- Page 1 --
+Research Findings: Early Modern & Gondarine
+Period
+Early Modern Period (15th-17th Century)
+• Key Rulers:
+- Zara Yaqob (1434-14680012_DATE__-1468): Centralized authority, reformed the
+chur...",1b532b8b25d6,10,"-- Page 1 --
+Research Findings:; Period; Early Modern; Period; 1434-14680012_DATE__-1468",0.9,century
+031b1c80c392_45,1667,1667,1660,17,"1632-16670024_DATE__-1667), who sought to restore stability and unity after the religious wars",031b1c80c392,10,Age; Gondarine; Period; period; Gondar,1.0,year
+031b1c80c392_48,1755,1755,1750,18,The Decline and the Era of Princes (Zemene Mesafint) (1769-18550018_DATE__-1855) The Gondarine stability began to erode following the death of Emperor Iyasu II in 1755,031b1c80c392,10,Gondarine; Period; period; era; Gondar,1.0,year
+031b1c80c392_36,1769,1769,1760,18,"he Christian
+kingdom due to the Adal-Ethiopian War, a brief but intense religious conflict
+over Catholicism, and the eventual establishment of a fixed capital at Gondar.
+This ""Gondarine Period"" (1632-...",031b1c80c392,10,Age; Ethiopia; Gondarine; Period; period,1.0,year
+1b532b8b25d6_81,1769,1769,1760,18,"lization: Efforts to strengthen the state against
+internal and external threats.
+- Religious Conflict: Struggle between Orthodox Christianity and Jesuit-influenced Catholicism.
+Gondarine Period (1632-...",1b532b8b25d6,10,Period; Period; Orthodox Christianity; Jesuit; Period,1.0,year
+031b1c80c392_55,19th century,1850,1850,19,"-- Page 1 --
+The
+Age
+of Transformation:
+Early
+Modern
+Ethiopia and the Gondarine Period
+Introduction: Challenges to the Solomonic State
+The period from the 15th to the mid-19th century in Ethiopian his...",031b1c80c392,10,Age; Ethiopia; Gondarine; Period; period,0.9,century
+d3eb1393655c_33,1855,1855,1850,19,"tionary Ethiopia.
+Cambridge University Press. [2] De Waal, A. (1991). Evil Days: Thirty Years of War and Famine in Ethiopia. Human Rights Watch. [3] Bahru Zewde. (2002). A History of Modern
+Ethiopia,...",d3eb1393655c,10,Derg; Ethiopia; Derg; Ethiopia; Derg,1.0,year
+031b1c80c392_47,1855,1855,1850,19,The Decline and the Era of Princes (Zemene Mesafint) (1769-18550018_DATE__-1855) The Gondarine stability began to erode following the death of Emperor Iyasu II in 1755,031b1c80c392,10,Gondarine; Period; period; era; Gondar,1.0,year
+d062e3b9d79d_70,1855,1855,1850,19,"sity Press. [2] Clapham, C. (2017). The Ethiopian
+Developmental State. In The Oxford Handbook of the Ethiopian Economy. Oxford
+University Press. [3] Bahru Zewde. (2002). A History of Modern Ethiopia,...",d062e3b9d79d,10,Ethiopia; Ethiopia; Eritrea; Eritrea; Ethiopia,1.0,year
+1b532b8b25d6_82,1855,1855,1850,19,"te rituals and a structured bureaucracy.
+• Culture: ""Gondarine Style"" in art and architecture, blending Ethiopian,
+Indian, and European influences.
+-- Page 2 --
+Era of Princes (Zemene Mesafint) (1769-...",1b532b8b25d6,10,Period; Period; Period; period; Gondar,1.0,year
+b1f3af4a4305_86,1855,1855,1850,19,"-- Page 1 --
+Research Findings:
+Modern Ethiopia (1855-
+1974)
+Unification and Modernization (1855-18890033_DATE__-1889)
+• Emperor Tewodros II (1855-18680029_DATE__-1868):
+- Overview: Ended the Era of P...",b1f3af4a4305,10,"-- Page 1 --
+Research Findings:; Ethiopia; 1855-
+1974; Unification and Modernization; 1855-18890033_DATE__-1889",1.0,year
+175c7fd9abeb_119,1855,1855,1850,19,"002). A History of Ethiopia. University of California Press. [2] Haile
+Selassie I. (1936). Appeal to the League of Nations. Geneva, Switzerland. [3] Bahru
+Zewde. (2002). A History of Modern Ethiopia,...",175c7fd9abeb,10,Ethiopia; Ethiopia; the League of Nations; Ethiopia; Ethiopia,1.0,year
+01d36482cbe7_141,1855,1855,1850,19,"-- Page 1 -- The Making of Modern Ethiopia: From Unifica- tion to the End of Empire (1855-19740078_DATE__-1974) Introduction: The Dawn of a New Era The history of Modern Ethiopia begins in 1855 with the coronation of Emperor Tewodros II, marking the end of the Zemene Mesafint (Era of Prin",01d36482cbe7,10,"-- Page 1 --
+The Making of Modern Ethiopia; the End of Empire; 1855-19740078_DATE__-1974; Era; Modern Ethiopia",1.0,year
+b1f3af4a4305_89,1868,1868,1860,19,"-- Page 1 --
+Research Findings:
+Modern Ethiopia (1855-
+1974)
+Unification and Modernization (1855-18890033_DATE__-1889)
+• Emperor Tewodros II (1855-18680029_DATE__-1868):
+- Overview: Ended the Era of P...",b1f3af4a4305,10,"-- Page 1 --
+Research Findings:; Ethiopia; 1855-
+1974; Unification and Modernization; 1855-18890033_DATE__-1889",1.0,year
+01d36482cbe7_144,1868,1868,1860,19,"1855-18680063_DATE__-1868): The Visionary Unifier Tewodros II, born Kassa Hailu, rose from a regional warlord to become the first emperor in over a century to effectively centralize power",01d36482cbe7,10,Modern Ethiopia; 1855; period; over a; century,1.0,year
+b1f3af4a4305_90,1872,1872,1870,19,"ed modernization.
+- Monuments: Maqdala fortress (his stronghold).
+- Government:
+Centralized administration, created a professional
+army, and attempted to reform the tax system.
+• Emperor Yohannes IV (...",b1f3af4a4305,10,Ethiopia; Ethiopia; Emperor Yohannes IV; 1872-18890025_DATE__-1889; Ethiopia,1.0,year
+01d36482cbe7_145,1872,1872,1870,19,"os's reign ended tragically with his defeat by a British expeditionary
+force in 1868, after which he committed suicide at his fortress in Maqdala
+rather than be taken captive.
+Emperor Yohannes IV (r....",01d36482cbe7,10,Yohannes IV; r.; Tewodros; Maqdala; Tewodros,1.0,year
+01d36482cbe7_147,1875,1875,1870,19,"Military and Diplomatic Successes Yohannes IV's forces achieved decisive victories against the invading Egyptian army at the Battle of Gundet (1875) and the Battle of Gura (1876), securing the northern borders",01d36482cbe7,10,Yohannes IV; Egypt; Mahdist; Sudan; Yohannes IV's,1.0,year
+01d36482cbe7_164,1880s,1885,1880,19,"dying in battle at Metemma in 1889. His reign
+is a testament to the fierce national unity that emerged in the face of foreign
+aggression.
+• Monuments: The Yohannes IV Palace in Mekelle, built in the...",01d36482cbe7,10,Modern Ethiopia; Ethiopia; Yohannes IV; r.; Ethiopia,1.0,decade
+01d36482cbe7_149,1886,1886,1880,19,"ved Ethiopia's sovereignty and inspired anti-colonial
+movements across Africa and the Black diaspora [2].
+Government and Capital
+Menelik II founded the new capital city of Addis
+Ababa (New Flower) in...",01d36482cbe7,10,Ethiopia; first; Ethiopia; Menelik II; Ethiopia,1.0,year
+b1f3af4a4305_88,1889,1889,1880,19,"-- Page 1 --
+Research Findings:
+Modern Ethiopia (1855-
+1974)
+Unification and Modernization (1855-18890033_DATE__-1889)
+• Emperor Tewodros II (1855-18680029_DATE__-1868):
+- Overview: Ended the Era of P...",b1f3af4a4305,10,"-- Page 1 --
+Research Findings:; Ethiopia; 1855-
+1974; Unification and Modernization; 1855-18890033_DATE__-1889",1.0,year
+01d36482cbe7_146,1889,1889,1880,19,"reign ended tragically with his defeat by a British expeditionary
+force in 1868, after which he committed suicide at his fortress in Maqdala
+rather than be taken captive.
+Emperor Yohannes IV (r. 1872-...",01d36482cbe7,10,Yohannes IV; r.; Tewodros; Maqdala; Tewodros,1.0,year
+175c7fd9abeb_102,1892,1892,1890,19,"Early Life, Regency, and Coronation (1892-19300062_DATE__-1930) Haile Selassie's rise to power began under the shadow of his great-uncle, Emperor Menelik II",175c7fd9abeb,10,"1974; 3,000-year-old; I. Early Life, Regency; Coronation; 1892-19300062_DATE__-1930",1.0,year
+b1f3af4a4305_93,1896,1896,1890,19,"Expansion and Independence (1889-19300021_DATE__-1930) • Emperor Menelik II (1889-19130017_DATE__-1913): - Overview: Defeated Italy at the Battle of Adwa (1896), expanded borders, and founded Addis Ababa",b1f3af4a4305,10,Independence; 1889-19300021_DATE__-1930; Emperor Menelik II; 1889-19130017_DATE__-1913; Italy,1.0,year
+01d36482cbe7_150,1907,1907,1900,20,"Administrative Innovation Description Impact Modern Cabinet Established the first Council of Ministers, a formal cabinet of officials, in 1907",01d36482cbe7,10,first; Ras; 1886; Modern Cabinet; first,1.0,year
+b1f3af4a4305_92,1913,1913,1910,20,"Expansion and Independence (1889-19300021_DATE__-1930) • Emperor Menelik II (1889-19130017_DATE__-1913): - Overview: Defeated Italy at the Battle of Adwa (1896), expanded borders, and founded Addis Ababa",b1f3af4a4305,10,Mekelle; Independence; 1889-19300021_DATE__-1930; Emperor Menelik II; 1889-19130017_DATE__-1913,1.0,year
+01d36482cbe7_143,1913,1913,1910,20,"nological reforms. The era cul-
+minates with the long reign of Emperor Haile Selassie I and the eventual
+collapse of the ancient Solomonic monarchy in 1974.
+I. The Era of Unification and Reform (1855-...",01d36482cbe7,10,Era; Modern Ethiopia; 1855; period; Ethiopia,1.0,year
+b1f3af4a4305_94,1916,1916,1910,20,": Menelik II Palace (Addis Ababa), St. George's Cathe-
+dral, Entoto Maryam Church.
+- Government: Established a modern cabinet, introduced the railway,
+telephone, and postal system.
+• Empress Zewditu (...",b1f3af4a4305,10,Ethiopia; Ethiopia; Ethiopia; Addis Ababa; Addis Ababa,1.0,year
+175c7fd9abeb_103,1916,1916,1910,20,"e, Emperor
+Menelik II. As a young man, he was appointed Governor of Sidamo and later Harar,
+demonstrating administrative acumen and a progressive outlook. His political career
+took a decisive turn in...",175c7fd9abeb,10,Sidamo; Harar; 1916; Regent Plenipotentiary; Empress Zewditu,1.0,year
+01d36482cbe7_151,1916,1916,1910,20,"The Transition and the Reign of Haile Selassie I (1916- 1974) The period following Menelik's death was marked by a power struggle that eventually led to the ascendancy of Ras Teferi Makonnen, who would become Emperor Haile Selassie I",01d36482cbe7,10,period; 1974; I. The; period; r.,1.0,year
+175c7fd9abeb_104,1923,1923,1920,20,"he Empress's conservative faction and his own modernizing agenda.
+His early reforms focused on opening Ethiopia to the outside world, culminating in the
+nation's admission to the League of Nations in...",175c7fd9abeb,10,Ethiopia; Empress; Ethiopia; the League of Nations; 1923,1.0,year
+b1f3af4a4305_91,1930,1930,1930,20,"Expansion and Independence (1889-19300021_DATE__-1930) • Emperor Menelik II (1889-19130017_DATE__-1913): - Overview: Defeated Italy at the Battle of Adwa (1896), expanded borders, and founded Addis Ababa",b1f3af4a4305,10,Mekelle; Independence; 1889-19300021_DATE__-1930; Emperor Menelik II; 1889-19130017_DATE__-1913,1.0,year
+175c7fd9abeb_100,1930,1930,1930,20,"-- Page 1 --
+The Imperial Zenith and Collapse: The
+Era of Emperor Haile Selassie I (1930-
+1974)
+Introduction: The Last Solomonic Emperor
+The reign of Emperor Haile Selassie I, born Lij Tafari Makonnen...",175c7fd9abeb,10,"-- Page 1 --
+The Imperial Zenith and Collapse: The
+; Emperor Haile Selassie; 1930-
+1974; Lij Tafari Makonnen; nearly half",1.0,year
+01d36482cbe7_152,1930,1930,1930,20,")
+The period following Menelik's death was marked by a power struggle that
+eventually led to the ascendancy of Ras Teferi Makonnen, who would become
+Emperor Haile Selassie I.
+Empress Zewditu (r. 1916-...",01d36482cbe7,10,period; Ethiopia; period; Ethiopian; r.,1.0,year
+b1f3af4a4305_97,1931,1931,1930,20,- Government: ∗Constitutions: 1931 and 1955 Constitutions (first written laws),b1f3af4a4305,10,Ethiopia; Ethiopia; Ethiopia; First; Ethiopia,1.0,year
+175c7fd9abeb_105,1931,1931,1930,20,"The 1931 Constitution One of his first acts as Emperor was the promulgation of the 1931 Constitution, Ethiopia's first written constitution",175c7fd9abeb,10,Emperor Haile Selassie; Ethiopia; Empress Zewditu; Empress; Ethiopia,1.0,year
+01d36482cbe7_156,1931,1931,1930,20,"• Constitutional Monarchy: He promulgated the 1931 and 1955 Con- stitutions, which, while maintaining the Emperor's ultimate authority, introduced a bicameral parliament and a framework for a modern legal system",01d36482cbe7,10,Era; era; Haile Selassie; Haile Selassie; Haile Selassie,1.0,year
+b1f3af4a4305_95,1935,1935,1930,20,"s Teferi as Regent.
+The Era of Haile Selassie I (1930-19740008_DATE__-1974)
+• Emperor Haile Selassie I:
+- Overview: Central figure in 20th-century Ethiopia; led resistance
+against Italian occupation (...",b1f3af4a4305,10,Ethiopia; Ethiopia; Ethiopia; Ethiopia; Haile Selassie,1.0,year
+175c7fd9abeb_106,1935,1935,1930,20,"n to the
+international community, but in practice, it codified the Emperor's divine right to rule,
+ensuring that all power flowed from the throne.
+II. The Crisis of Sovereignty: The Italian Invasion
+(...",175c7fd9abeb,10,Ethiopia; Haile Selassie's; Ethiopia; Ethiopia; One,1.0,year
+01d36482cbe7_153,1935,1935,1930,20,The Italian Occupation (1935-19410022_DATE__-1941) The most challenging period of his reign was the Second Italo-Ethiopian War,01d36482cbe7,6,period; century; Ethiopia; Ethiopian; r.,1.0,year
+175c7fd9abeb_108,1936,1936,1930,20,"cist
+Italy under Benito Mussolini in 1935. Despite Ethiopia's status as a League of Nations
+member, the international community failed to intervene effectively.
+The Appeal to the League of Nations
+In...",175c7fd9abeb,10,Ethiopia; Ethiopia; the League of Nations; Ethiopia; Ethiopia,1.0,year
+01d36482cbe7_155,1936,1936,1930,20,"His impassioned plea to the League of Nations in 1936, where he warned the world of the dangers of appeasement, made him a global icon [3]",01d36482cbe7,10,Ethiopia; Ethiopian; r.; Ethiopia; r.,1.0,year
+670455a18706_0,1937,1937,1930,20,"now a
+UNESCO World
+Heritage site.
+Features carved false
+doors and windows,
+mimicking the
+architecture of Aksumite palaces and
+tombs.
+The Rome Stele
+A 24-meter stele taken
+to Rome by Italian
+forces in...",670455a18706,10,Ethiopia; CE; Ethiopian; Ethiopian; Ethiopian,1.0,year
+b1f3af4a4305_96,1941,1941,1940,20,"eri as Regent.
+The Era of Haile Selassie I (1930-19740008_DATE__-1974)
+• Emperor Haile Selassie I:
+- Overview: Central figure in 20th-century Ethiopia; led resistance
+against Italian occupation (1935-...",b1f3af4a4305,10,Ethiopia; Ethiopia; Ethiopia; Ethiopia; Haile Selassie,1.0,year
+175c7fd9abeb_107,1941,1941,1940,20,"the
+international community, but in practice, it codified the Emperor's divine right to rule,
+ensuring that all power flowed from the throne.
+II. The Crisis of Sovereignty: The Italian Invasion
+(1935-...",175c7fd9abeb,10,Ethiopia; Haile Selassie's; Ethiopia; Ethiopia; One,1.0,year
+01d36482cbe7_160,1942,1942,1940,20,"he diplo-
+matic capital of Africa.
+Institution
+Date Founded
+Significance
+Africa Hall
+1961
+Headquarters of the United Nations
+Economic Commission
+for Africa (UNECA)
+and the OAU.
+Holy Trinity
+Cathedral...",01d36482cbe7,10,"Africa; 1955; OAU; Africa; Institution
+Date Founded",1.0,year
+175c7fd9abeb_112,1945,1945,1940,20,"to train the new civil service and military elite.
+Imperial
+Bodyguard
+Post-1941
+A highly trained, loyal military unit designed to
+protect the Emperor and project centralized
+power.
+Ethiopian
+Airlines...",175c7fd9abeb,10,Ethiopia; Ethiopia; Ethiopia; One; Ethiopia,1.0,year
+175c7fd9abeb_111,1950,1950,1950,20,"n poverty.
+Institutional Development
+The Emperor focused on creating institutions necessary for a modern state:
+-- Page 4 --
+Institution
+Date
+Founded/Reformed
+Significance
+Haile Selassie I
+University...",175c7fd9abeb,10,Haile Selassie; 1941; Haile Selassie; Haile Selassie; Institutional Development,1.0,year
+c7541cbc47ce_138,20th century,1950,1950,20,"architectural and religious renaissance, and
+the Solomonic Dynasty (1270-19740041_DATE__-1974), which restored the ancient lineage and
+established a powerful, enduring empire that would last into the...",c7541cbc47ce,10,Christian; Zagwe; the Solomonic Dynasty; 1270-19740041_DATE__-1974; century,0.9,century
+175c7fd9abeb_113,1951,1951,1950,20,"ct centralized
+power.
+Ethiopian
+Airlines
+1945
+A symbol of national pride and a vital economic
+link to the global economy, becoming one of Africa's most successful carriers.
+Imperial
+Highway
+Authority...",175c7fd9abeb,10,Ethiopia; Pan-African; Ethiopia; Ethiopia; One,1.0,year
+b1f3af4a4305_98,1955,1955,1950,20,- Government: ∗Constitutions: 1931 and 1955 Constitutions (first written laws),b1f3af4a4305,10,Ethiopia; Ethiopia; Ethiopia; First; Ethiopia,1.0,year
+175c7fd9abeb_110,1955,1955,1950,20,The 1955 Revised Constitution The 1955 Revised Constitution was a significant step toward a modern legal framework,175c7fd9abeb,10,"Haile Selassie; 1941; Haile Selassie; 1941-
+1960; period",1.0,year
+01d36482cbe7_157,1955,1955,1950,20,"• Constitutional Monarchy: He promulgated the 1931 and 1955 Con- stitutions, which, while maintaining the Emperor's ultimate authority, introduced a bicameral parliament and a framework for a modern legal system",01d36482cbe7,10,Era; era; Haile Selassie; Haile Selassie; Haile Selassie,1.0,year
+175c7fd9abeb_109,1960,1960,1960,20,"Post-War Reconstruction and Modernization (1941- 1960) The post-war period saw Haile Selassie accelerate his modernization program, aiming to consolidate his power and build a centralized, bureaucratic state",175c7fd9abeb,10,"Haile Selassie; 1941; Haile Selassie; Post-War Reconstruction and Modernization; 1941-
+1960",1.0,year
+175c7fd9abeb_99,December 1960,1960,1960,20,"unting internal dissent rooted in political stagnation, economic inequality,
+and the suppression of political freedoms.
+The 1960 Coup Attempt
+The first major crack in the imperial edifice occurred in...",175c7fd9abeb,10,first; first; Imperial; Dissent; The 1960 Coup Attempt,1.0,month
+01d36482cbe7_159,1961,1961,1960,20,"nt.
+He hosted the founding of the Organization of African
+Unity (OAU) in Addis Ababa in 1963, and the city became the diplo-
+matic capital of Africa.
+Institution
+Date Founded
+Significance
+Africa Hall...",01d36482cbe7,10,African; Africa; Addis Ababa; Addis Ababa; African,1.0,year
+175c7fd9abeb_115,1962,1962,1960,20,"""Land to the Tiller,"" became a
+potent symbol of the regime's failure to address the core economic issue of the
+country.
+The Eritrean Conflict
+The annexation of Eritrea as Ethiopia's 14th province in...",175c7fd9abeb,10,Ethiopia; Ethiopia; Ethiopia; Ethiopia; Ethiopia,1.0,year
+175c7fd9abeb_114,1963,1963,1960,20,"regions of the empire.
+The Birth of Pan-Africanism
+Haile Selassie was a pivotal figure in the global decolonization movement. He
+championed African unity and used Addis Ababa as a diplomatic hub. In...",175c7fd9abeb,10,Ethiopia; Pan-African; Ethiopia; Ethiopia; One,1.0,year
+01d36482cbe7_158,1963,1963,1960,20,"ty (now Addis Ababa University).
+• International Role: Haile Selassie was a key figure in the Pan-African
+movement.
+He hosted the founding of the Organization of African
+Unity (OAU) in Addis Ababa in...",01d36482cbe7,10,African; Africa; Addis Ababa; Addis Ababa; Haile Selassie,1.0,year
+175c7fd9abeb_122,1960s,1965,1960,20,"ssatisfaction
+among the educated elite and the military. It signaled that the Emperor's absolute
+authority was no longer unquestionable [3].
+Growing Student and Intellectual Opposition
+Throughout the...",175c7fd9abeb,10,Haile Selassie; Haile Selassie; Haile Selassie; Haile Selassie; Growing Student,1.0,decade
+670455a18706_6,1972,1972,1970,20,"1000 BCY_0008_DATE__ BC - AD
+1300. Boydell & Brewer. [3] Mani. (__ENTITY_0006_ROMAN_NUMERAL_c. 276NTITY_0004_DATE__). The Four Great Kingdoms.
+Cited in various historical texts. [4] Taddesse Tamrat. (...",670455a18706,10,Ethiopia; Kingdom of Aksum; era; era; Ethiopia,1.0,year
+031b1c80c392_51,1972,1972,1970,20,"of the unified empire that the new rulers sought to restore.
+References
+[1] Bahru Zewde.
+(2002).
+A History of Modern Ethiopia,
+1855-19910006_DATE__-1991.
+Ohio University Press.
+[2] Taddesse Tamrat.
+(...",031b1c80c392,10,Age; Ethiopia; Ethiopian; age; Ethiopian,1.0,year
+175c7fd9abeb_117,1972,1972,1970,20,"The Wollo Famine (1973) A devastating famine struck the northern provinces of Wollo and Tigray between 1972 and 1974, resulting in the deaths of an estimated 200,000 to 400,000 people [4]",175c7fd9abeb,9,1974; Imperial; The Wollo Famine; 1973; Wollo,1.0,year
+c7541cbc47ce_132,1972,1972,1970,20,"in the region and ushering in the Early Modern era
+of increased foreign contact.
+References
+[1] Britannica.
+Ethiopia:
+The Zagwe and Solomonic dynasties.
+Retrieved
+from
+dynasties [2] Taddesse Tamrat.
+(...",c7541cbc47ce,10,Zagwe; era; Ethiopia; Zagwe; Zagwe,1.0,year
+175c7fd9abeb_116,1973,1973,1970,20,The Final Years and the Revolution (1973-19740019_DATE__-1974) The final years of Haile Selassie's reign were defined by a catastrophic confluence of events that exposed the regime's incompetence and moral bankruptcy,175c7fd9abeb,10,1974; Haile Selassie's; Haile Selassie's; Haile Selassie; Liberation,1.0,year
+d3eb1393655c_23,1974,1974,1970,20,"-- Page 1 -- The Military Socialist Regime: The Derg and the Ethiopian Revolution (1974- 1991) Introduction: The End of Empire and the Dawn of Revolution The Derg (Amharic for ""committee"" or ""council"") was the military junta that ruled Ethiopia from 1974 to 1991",d3eb1393655c,10,"-- Page 1 --
+The Military Socialist Regime:; Ethiopian Revolution; 1974-
+1991; The End of Empire and the Dawn of Revolution; Derg",1.0,year
+53d3c1ea4899_85,1974,1974,1970,20,"Despite not being ""Solomonic,"" they em-
+phasized their Christian devotion to maintain rule.
+• Culture: Strong emphasis on Ethiopian Orthodox Christianity and Ge'ez
+literature.
+Solomonic Dynasty (1270-...",53d3c1ea4899,8,Christian; Ethiopian Orthodox; Ge'ez; 1270-19740002_DATE__-1974; Yekuno Amlak,1.0,year
+b1f3af4a4305_87,1974,1974,1970,20,"-- Page 1 --
+Research Findings:
+Modern Ethiopia (1855-
+1974)
+Unification and Modernization (1855-18890033_DATE__-1889)
+• Emperor Tewodros II (1855-18680029_DATE__-1868):
+- Overview: Ended the Era of P...",b1f3af4a4305,10,"-- Page 1 --
+Research Findings:; Ethiopia; 1855-
+1974; Unification and Modernization; 1855-18890033_DATE__-1889",1.0,year
+175c7fd9abeb_101,1974,1974,1970,20,"-- Page 1 --
+The Imperial Zenith and Collapse: The
+Era of Emperor Haile Selassie I (1930-
+1974)
+Introduction: The Last Solomonic Emperor
+The reign of Emperor Haile Selassie I, born Lij Tafari Makonnen...",175c7fd9abeb,10,"-- Page 1 --
+The Imperial Zenith and Collapse: The
+; Emperor Haile Selassie; 1930-
+1974; Lij Tafari Makonnen; nearly half",1.0,year
+c7541cbc47ce_124,1974,1974,1970,20,"two major dynasties: the Zagwe Dy-
+nasty (__ENTITY_0047_ROMAN_NUMERAL_c. 1137TITY_0045_DATE__0044_DATE__-1270), known for its architectural and religious renaissance, and
+the Solomonic Dynasty (1270-...",c7541cbc47ce,10,two; Zagwe; 1137TITY_0045_DATE__0044_DATE__-1270; the Solomonic Dynasty; 1270-19740041_DATE__-1974,1.0,year
+01d36482cbe7_142,1974,1974,1970,20,"-- Page 1 -- The Making of Modern Ethiopia: From Unifica- tion to the End of Empire (1855-19740078_DATE__-1974) Introduction: The Dawn of a New Era The history of Modern Ethiopia begins in 1855 with the coronation of Emperor Tewodros II, marking the end of the Zemene Mesafint (Era of Princes)",01d36482cbe7,10,"-- Page 1 --
+The Making of Modern Ethiopia; the End of Empire; 1855-19740078_DATE__-1974; Era; Modern Ethiopia",1.0,year
+d3eb1393655c_21,December 1974,1974,1970,20,"Declaration of Socialism (December 1974) Aligned Ethiopia with Marxist-Leninist ideology, setting the stage for radical economic and social change",d3eb1393655c,10,Derg; Ethiopia; Derg; Ethiopia; Derg,1.0,month
+d3eb1393655c_20,March 1975,1975,1970,20,"imperial elite.
+Key Revolutionary Actions
+(1974)
+Significance
+Deposition of Haile Selassie I
+(September 12)
+Ended the 3,000-year-old Solomonic Dynasty and the
+imperial era.
+Abolition of the Monarchy
+(...",d3eb1393655c,8,"Ethiopia; 1974; Haile Selassie; September 12; 3,000-year-old",1.0,month
+d3eb1393655c_34,1970s,1975,1970,20,"-- Page 3 -- ""The Red Terror was a period of intense political and inter-communal violence in revolutionary Ethiopia during the late 1970s",d3eb1393655c,10,Ethiopia; Ethiopia; period; Ethiopia; Ethiopia,1.0,decade
+d3eb1393655c_26,1977,1977,1970,20,"former imperial officials
+and consolidating power under a centralized military authority.
+II. The Red Terror and Political Repression
+The most infamous chapter of the Derg's rule was the Red Terror (...",d3eb1393655c,3,Derg; The Red Terror; 1977-19780031_DATE__-1978,1.0,year
+d3eb1393655c_22,March 1978,1978,1970,20,"the Soviet Union after the Soviets and Cuba offered massive military aid.
+The intervention of Cuban troops and Soviet military advisors proved decisive,
+pushing the Somali forces out of the Ogaden by...",d3eb1393655c,10,Derg; Ethiopia; Derg; Ethiopia; Soviet,1.0,month
+d3eb1393655c_28,1984,1984,1980,20,"-- Page 4 -- The 1984-19850025_DATE__-1985 Famine The Derg's economic policies, combined with severe drought and the ongoing civil wars, culminated in the catastrophic 1984-19850021_DATE__-1985 famine",d3eb1393655c,1,Derg,1.0,year
+d3eb1393655c_31,1988,1988,1980,20,"od remains a dark chapter in Ethiopian history, a cautionary tale of how
+a revolution intended to liberate the masses can devolve into a brutal, totalitarian
+dictatorship.
+References
+[1] Clapham, C. (...",d3eb1393655c,10,Ethiopia; Ethiopia; era; Ethiopia; Ethiopia,1.0,year
+175c7fd9abeb_121,1988,1988,1980,20,"2). A History of Modern Ethiopia, 1855-19910005_DATE__-1991. Ohio University Press. [4] De
+Waal, A. (1991). Evil Days: Thirty Years of War and Famine in Ethiopia. Human Rights
+Watch. [5] Clapham, C. (...",175c7fd9abeb,10,Ethiopia; Ethiopia; Ethiopia; Ethiopia; Ethiopia,1.0,year
+d3eb1393655c_30,1989,1989,1980,20,"Regime
+The end of the Cold War led to the cessation of Soviet military and financial support.
+Facing overwhelming military pressure from the EPRDF and the EPLF, the Derg's army
+began to disintegrate....",d3eb1393655c,10,Derg; Derg; Soviet; Derg; Derg,1.0,year
+031b1c80c392_54,1990,1990,1990,20,"History of Modern Ethiopia,
+1855-19910006_DATE__-1991.
+Ohio University Press.
+[2] Taddesse Tamrat.
+(1972).
+Church and State
+in
+Ethiopia,
+1270-15270002_DATE__-1527.
+Clarendon Press.
+[3] Pankhurst,
+R. (...",031b1c80c392,10,Age; Ethiopia; Gondarine; Ethiopian; Gondar,1.0,year
+d062e3b9d79d_56,"May
+1991",1991,1990,20,"The Federal Democratic Republic: The EPRDF Era (1991-20180036_DATE__-2018) Introduction: From Civil War to Ethnic Federalism The Ethiopian People's Revolutionary Democratic Front (EPRDF) era began in May 1991 when the coalition of rebel forces, led by the Tigray People's Liberation Front (TPLF), successfully overthrew the military dictatorship of the Derg",d062e3b9d79d,12,"Era; 1991-20180036_DATE__-2018; The Ethiopian People's Revolutionary Democratic Front; May
+1991; the Tigray People's Liberation Front",1.0,month
+670455a18706_2,1991,1991,1990,20,"ury. The legacy of Aksum,
+however, endured, with its Christian faith and Solomonic tradition being pre-
+served and carried forward by the succeeding Ethiopian states.
+References
+[1] Munro-Hay, S. C. (...",670455a18706,10,Ethiopia; CE; Ethiopian; Christian; Africa,1.0,year
+d3eb1393655c_24,1991,1991,1990,20,"-- Page 1 -- The Military Socialist Regime: The Derg and the Ethiopian Revolution (1974- 1991) Introduction: The End of Empire and the Dawn of Revolution The Derg (Amharic for ""committee"" or ""council"") was the military junta that ruled Ethiopia from 1974 to 1991",d3eb1393655c,10,"-- Page 1 --
+The Military Socialist Regime:; Ethiopian Revolution; 1974-
+1991; The End of Empire and the Dawn of Revolution; Derg",1.0,year
+031b1c80c392_50,1991,1991,1990,20,"an state. The legacy of Gondar, however, remained
+a powerful symbol of the unified empire that the new rulers sought to restore.
+References
+[1] Bahru Zewde.
+(2002).
+A History of Modern Ethiopia,
+1855-...",031b1c80c392,10,Ethiopia; Gondar; Church; State; r.,1.0,year
+175c7fd9abeb_120,1991,1991,1990,20,"A History of Ethiopia. University of California Press. [2] Haile
+Selassie I. (1936). Appeal to the League of Nations. Geneva, Switzerland. [3] Bahru
+Zewde. (2002). A History of Modern Ethiopia, 1855-...",175c7fd9abeb,10,Ethiopia; Ethiopia; the League of Nations; Ethiopia; Ethiopia,1.0,year
+01d36482cbe7_162,1991,1991,1990,20,"ient imperial tradition, though the legacy of the modernizing emperors remains
+foundational to the Ethiopian state.
+-- Page 5 --
+References
+[1] Bahru Zewde. (2002). A History of Modern Ethiopia, 1855-...",01d36482cbe7,10,Modern Ethiopia; 1855; Ethiopia; Ethiopian; r.,1.0,year
+d062e3b9d79d_62,1993,1993,1990,20,"itrea, and establish a new constitutional order.
+The Transitional Charter and Eritrean Independence
+The TGE immediately recognized the right of Eritrea to self-determination. A
+referendum was held in...",d062e3b9d79d,10,Ethiopia; Ethiopia; TGE; TGE; Eritrea,1.0,year
+d062e3b9d79d_61,1995,1995,1990,20,"The Transition and the Birth of the Federal State (1991-19950029_DATE__-1995) Following the collapse of the Derg, the EPRDF established the Transitional Government of Ethiopia (TGE)",d062e3b9d79d,10,Era; era; Derg; Ethiopia; EPRDF,1.0,year
+d062e3b9d79d_57,May 1998,1998,1990,20,Causes and Course of the Conflict The war began in May 1998 over a seemingly minor border dispute concerning the small town of Badme,d062e3b9d79d,10,Ethiopia; EPRDF; EPRDF; Ethiopia; Eritrea,1.0,month
+d062e3b9d79d_63,1998,1998,1990,20,"The Eritrean-Ethiopian War (1998-20000021_DATE__-2000) Despite their shared history as allies against the Derg, relations between the EPRDF-led Ethiopian government and the EPLF-led Eritrean government deteriorated rapidly, culminat",d062e3b9d79d,5,Derg; Ethiopia; EPRDF; Eritrea; Eritrean,1.0,year
+d062e3b9d79d_58,June 2000,2000,2000,20,The Algiers Agreement: The war officially ended in June 2000 with the signing of the Algiers Agreement,d062e3b9d79d,10,scale conventional war; hundreds of thousands; tens of thousands; The Algiers Agreement:; The war,1.0,month
+d3eb1393655c_32,2002,2002,2000,21,"ansformation and Continuity in Revolutionary Ethiopia.
+Cambridge University Press. [2] De Waal, A. (1991). Evil Days: Thirty Years of War and Famine in Ethiopia. Human Rights Watch. [3] Bahru Zewde. (...",d3eb1393655c,10,Derg; Ethiopia; Derg; Ethiopia; Derg,1.0,year
+031b1c80c392_49,2002,2002,2000,21,", emerged to
+reunify the fractured Ethiopian state. The legacy of Gondar, however, remained
+a powerful symbol of the unified empire that the new rulers sought to restore.
+References
+[1] Bahru Zewde.
+(...",031b1c80c392,10,Ethiopia; Ethiopian; Gondar; Ethiopian; Church,1.0,year
+d062e3b9d79d_69,2002,2002,2000,21,"ative
+Perspective. Addis Ababa University Press. [2] Clapham, C. (2017). The Ethiopian
+Developmental State. In The Oxford Handbook of the Ethiopian Economy. Oxford
+University Press. [3] Bahru Zewde. (...",d062e3b9d79d,4,Ethiopia; Eritrea; Ethiopian; Eritrean,1.0,year
+175c7fd9abeb_118,2002,2002,2000,21,"to a constitutional ruler,
+coupled with his inability to address the land question, sealed the fate of his regime
+and ushered in a new, violent era of Ethiopian history.
+References
+[1] Marcus, H. G. (...",175c7fd9abeb,10,Ethiopia; Ethiopia; the League of Nations; Ethiopia; Ethiopia,1.0,year
+c7541cbc47ce_134,2002,2002,2000,21,"annica.
+Ethiopia:
+The Zagwe and Solomonic dynasties.
+Retrieved
+from
+dynasties [2] Taddesse Tamrat.
+(1972).
+Church and State in Ethiopia,
+1270-15270007_DATE__-1527. Clarendon Press. [3] Marcus, H. G. (...",c7541cbc47ce,10,Zagwe; Ethiopia; Zagwe; Zagwe; Solomonic,1.0,year
+01d36482cbe7_161,2002,2002,2000,21,"d the final, dramatic break with the an-
+cient imperial tradition, though the legacy of the modernizing emperors remains
+foundational to the Ethiopian state.
+-- Page 5 --
+References
+[1] Bahru Zewde. (...",01d36482cbe7,10,Modern Ethiopia; 1855; Ethiopia; Ethiopian; r.,1.0,year
+670455a18706_1,2005,2005,2000,21,"ritage site.
+Features carved false
+doors and windows,
+mimicking the
+architecture of Aksumite palaces and
+tombs.
+The Rome Stele
+A 24-meter stele taken
+to Rome by Italian
+forces in 1937 and
+returned in...",670455a18706,10,Ethiopia; CE; Ethiopian; Ethiopian; Ethiopian,1.0,year
+d062e3b9d79d_65,2005,2005,2000,21,"Suppression of Dissent: The government used security laws and tight control over media and civil society to suppress political opposition, particularly after the controversial 2005 general election, which saw significant post-election violence and arrests",d062e3b9d79d,10,Era; era; EPRDF; era; EPRDF,1.0,year
+d062e3b9d79d_67,2006,2006,2000,21,"nnovation, yet also a time of
+political repression, devastating war, and the eventual collapse of the very coalition that
+had promised a new democratic future for Ethiopia.
+References
+[1] Assefa, G. (...",d062e3b9d79d,10,Era; era; Ethiopia; era; Ethiopia,1.0,year
+01d36482cbe7_163,2011,2011,2010,21,"g emperors remains
+foundational to the Ethiopian state.
+-- Page 5 --
+References
+[1] Bahru Zewde. (2002). A History of Modern Ethiopia, 1855-19910006_DATE__-1991. Ohio
+University Press. [2] Jonas, R. (...",01d36482cbe7,10,Modern Ethiopia; 1855; Ethiopia; Ethiopian; r.,1.0,year
+670455a18706_3,2012,2012,2010,21,"ed and carried forward by the succeeding Ethiopian states.
+References
+[1] Munro-Hay, S. C. (1991). Aksum: An African Civilisation of Late Antiquity.
+Edinburgh University Press.
+[2] Phillipson, D. W. (...",670455a18706,10,Ethiopia; CE; Ethiopian; Africa; Ethiopian,1.0,year
+c7541cbc47ce_135,2012,2012,2010,21,"desse Tamrat.
+(1972).
+Church and State in Ethiopia,
+1270-15270007_DATE__-1527. Clarendon Press. [3] Marcus, H. G. (2002). A History of Ethiopia.
+University of California Press.
+[4] Phillipson, D. W. (...",c7541cbc47ce,10,Zagwe; Ethiopia; Zagwe; Zagwe; Solomonic,1.0,year
+d062e3b9d79d_66,2015,2015,2010,21,"to suppress political opposition, particularly after the
+controversial 2005 general election, which saw significant post-election violence
+and arrests.
+V. The Crisis of the EPRDF and the Transition (...",d062e3b9d79d,2,Era; EPRDF,1.0,year
+d062e3b9d79d_68,2017,2017,2010,21,"promised a new democratic future for Ethiopia.
+References
+[1] Assefa, G. (2006). Ethnic Federalism: The Ethiopian Experience in Comparative
+Perspective. Addis Ababa University Press. [2] Clapham, C. (...",d062e3b9d79d,10,Era; era; Ethiopia; era; Ethiopia,1.0,year
+644d813d4e62_165,April 2018,2018,2010,21,The Transition and the Birth of the Prosperity Party Abiy Ahmed's rise to power in April 2018 was a direct consequence of the widespread Oromo and Amhara protests against the EPRDF's TPLF-dominated leadership,644d813d4e62,10,Abiy Ahmed; 2018; EPRDF; Ethiopia; Abiy Ahmed's,1.0,month
+d062e3b9d79d_60,2018,2018,2010,21,"-- Page 1 -- The Federal Democratic Republic: The EPRDF Era (1991-20180036_DATE__-2018) Introduction: From Civil War to Ethnic Federalism The Ethiopian People's Revolutionary Democratic Front (EPRDF) era began in May 1991 when the coalition of rebel forces, led by the T",d062e3b9d79d,10,"-- Page 1 --
+The Federal Democratic Republic: The
+EPRDF; Era; 1991-20180036_DATE__-2018; The Ethiopian People's Revolutionary Democratic Front; era",1.0,year
+644d813d4e62_173,2018,2018,2010,21,"y State: The Prosperity
+Party Period (2019-Present)
+Introduction: A New Era of Reform and Conflict
+The Prosperity Party (PP) period, beginning with the election of Dr. Abiy Ahmed as
+Prime Minister in...",644d813d4e62,10,"The Prosperity
+Party; Period; 2019-Present; Abiy Ahmed; 2018",1.0,year
+644d813d4e62_166,July 2018,2018,2010,21,"Peace with Eritrea: Abiy ended the ""No War, No Peace"" stalemate with Eritrea, signing a peace agreement with President Isaias Afwerki in July 2018",644d813d4e62,10,"2018; 2019; Abiy; the ""; No War",1.0,month
+644d813d4e62_167,November 2019,2019,2010,21,"2 --
+Judicial and Security Reform: Efforts were made to reform the security
+apparatus and the judiciary to ensure greater independence and accountability.
+Formation of the Prosperity Party (2019)
+In...",644d813d4e62,10,2019; EPRDF; EPRDF; Abiy; 2019,1.0,month
+644d813d4e62_169,September 2020,2020,2020,21,"Constitutional Dispute: Tigray held regional elections in September 2020, which the federal government deemed illegal and unconstitutional, as the national elections had been postponed due to the COVID-19 pandemic",644d813d4e62,10,era; TPLF; TPLF; TPLF; Tigray,1.0,month
+644d813d4e62_168,November 2020,2020,2020,21,The Tigray War (2020-20220022_DATE__-2022) The political friction between the federal government (PP) and the TPLF-led regional government of Tigray escalated into a full-scale armed conflict in November 2020,644d813d4e62,8,era; Ethiopia; TPLF; 2020-20220022_DATE__-2022; Tigray,1.0,month
+644d813d4e62_171,June 2021,2021,2020,21,The 2021 General Election The first general election under the Prosperity Party was held in June 2021,644d813d4e62,9,Abiy Ahmed; era; Amhara; Abiy; the Prosperity Party,1.0,month
+644d813d4e62_170,November 2022,2022,2020,21,The Pretoria Peace Agreement (2022) The war officially ended in November 2022 with the signing of the Pretoria Peace Agreement between the federal government and the TPLF,644d813d4e62,10,era; TPLF; TPLF; TPLF; TPLF,1.0,month
+644d813d4e62_177,2023,2023,2020,21,"continuous and challenging process.
+References
+[1] The Nobel Prize. (2019). The Nobel Peace Prize 2019. Retrieved from
+[2] Human Rights Watch.
+(2022). Ethiopia: Events of 2022. Retrieved from
+report/...",644d813d4e62,10,2019; Ethiopia; 2019; Nobel Peace Prize; 2019,1.0,year

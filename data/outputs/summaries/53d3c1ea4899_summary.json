@@ -1,0 +1,17 @@
+{
+  "document_id": "53d3c1ea4899",
+  "summary_text": "-- Page 1 --\nResearch Findings: Medieval Period (Zagwe and Solomonic Dynasties)\nZagwe Dynasty (__ENTITY_0008_ROMAN_NUMERAL_c. 1137TITY_0006_DATE__0005_DATE__-1270)\n• Overview: An Agaw monarchy that ruled from Roha (Lalibela). They\nare credited with a religious and architectural renaissance.\n• Key Rulers:\n- King Lalibela: The most famous Zagwe ruler, credited with build-\ning the rock-hewn churches.\n- King Gebre Meskel Lalibela: Often associated with the peak of Zagwe power.\n - Yemrehana Krestos Church: A built-up church in a cave, predat-\ning the rock-hewn ones.\n• Government Structure:\n- Agaw Monarchy: Transitioned power from the Aksumite elite to\nthe Agaw people.\n • Key Rulers:\n- Yekuno Amlak: Overthrew the Zagwe dynasty.\n",
+  "summary_sentences": [
+    "-- Page 1 --\nResearch Findings: Medieval Period (Zagwe and Solomonic Dynasties)\nZagwe Dynasty (__ENTITY_0008_ROMAN_NUMERAL_c. 1137TITY_0006_DATE__0005_DATE__-1270)\n• Overview: An Agaw monarchy that ruled from Roha (Lalibela).",
+    "They\nare credited with a religious and architectural renaissance.\n• Key Rulers:\n- King Lalibela: The most famous Zagwe ruler, credited with build-\ning the rock-hewn churches.\n- King Gebre Meskel Lalibela: Often associated with the peak of Zagwe power.\n",
+    "- Yemrehana Krestos Church: A built-up church in a cave, predat-\ning the rock-hewn ones.\n• Government Structure:\n- Agaw Monarchy: Transitioned power from the Aksumite elite to\nthe Agaw people.\n",
+    "• Key Rulers:\n- Yekuno Amlak: Overthrew the Zagwe dynasty.\n"
+  ],
+  "method": "textrank",
+  "compression_ratio": 0.25,
+  "metadata": {
+    "original_sentence_count": 16,
+    "summary_sentence_count": 4,
+    "compression_ratio_actual": 0.25
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "pipeline_summary": {
+    "timestamp": "2026-01-04T22:17:21.423699",
+    "status": "completed",
+    "documents_processed": 12
+  },
+  "document_statistics": {
+    "total_documents": 12,
+    "total_words": 16420,
+    "average_words_per_document": 1368.3333333333333,
+    "average_sentences_per_document": 51.75,
+    "period_distribution": {
+      "null": 2,
+      "Cold War": 1,
+      "Early Modern": 1,
+      "Late 20th Century": 1,
+      "Medieval": 3,
+      "19th Century": 2,
+      "Interwar Period": 1,
+      "21st Century": 1
+    },
+    "source_type_distribution": {
+      "Treaty": 1,
+      "Speech": 3,
+      "Legal Document": 6,
+      "Historical Text": 2
+    }
+  },
+  "feature_statistics": {
+    "feature_types": [
+      "basic_stats",
+      "tfidf",
+      "bow",
+      "embeddings",
+      "topics",
+      "temporal",
+      "readability",
+      "sentiment"
+    ],
+    "tfidf_features": 1853,
+    "embedding_dimensions": 384,
+    "num_topics": 10
+  }
+}

@@ -1,0 +1,579 @@
+{
+  "total_documents": 12,
+  "total_entities": 1502,
+  "entity_distribution": {
+    "PERSON": 232,
+    "DATE": 295,
+    "ORG": 337,
+    "GPE": 179,
+    "LOC": 42,
+    "ORDINAL": 22,
+    "CARDINAL": 62,
+    "NORP": 202,
+    "FAC": 20,
+    "LAW": 42,
+    "QUANTITY": 3,
+    "EVENT": 44,
+    "DOCUMENT": 1,
+    "WORK_OF_ART": 11,
+    "PRODUCT": 9,
+    "PERCENT": 1
+  },
+  "documents_by_period": {
+    "Unknown": 12
+  },
+  "top_entities_by_label": {
+    "PERSON": [
+      [
+        "Derg",
+        25
+      ],
+      [
+        "Haile Selassie",
+        13
+      ],
+      [
+        "Fasil Ghebbi",
+        6
+      ],
+      [
+        "Haile Selassie's",
+        6
+      ],
+      [
+        "D\u02bfmt",
+        5
+      ],
+      [
+        "Emperor Haile Selassie",
+        5
+      ],
+      [
+        "Empress Zewditu",
+        5
+      ],
+      [
+        "Adulis",
+        4
+      ],
+      [
+        "Emperor Zara Yaqob",
+        4
+      ],
+      [
+        "Susenyos",
+        4
+      ]
+    ],
+    "DATE": [
+      [
+        "period",
+        32
+      ],
+      [
+        "Period",
+        17
+      ],
+      [
+        "century",
+        14
+      ],
+      [
+        "era",
+        13
+      ],
+      [
+        "1974",
+        8
+      ],
+      [
+        "2002",
+        8
+      ],
+      [
+        "2019",
+        6
+      ],
+      [
+        "1991",
+        5
+      ],
+      [
+        "1955",
+        5
+      ],
+      [
+        "3,000-year-old",
+        4
+      ]
+    ],
+    "ORG": [
+      [
+        "EPRDF",
+        29
+      ],
+      [
+        "Zagwe",
+        12
+      ],
+      [
+        "TPLF",
+        12
+      ],
+      [
+        "Church",
+        9
+      ],
+      [
+        "the League of Nations",
+        7
+      ],
+      [
+        "Aksum",
+        6
+      ],
+      [
+        "Derg",
+        5
+      ],
+      [
+        "Solomonic",
+        5
+      ],
+      [
+        "House",
+        5
+      ],
+      [
+        "State",
+        4
+      ]
+    ],
+    "GPE": [
+      [
+        "Ethiopia",
+        62
+      ],
+      [
+        "Eritrea",
+        11
+      ],
+      [
+        "Addis Ababa",
+        11
+      ],
+      [
+        "Gondar",
+        11
+      ],
+      [
+        "Tigray",
+        9
+      ],
+      [
+        "Yemen",
+        4
+      ],
+      [
+        "Rome",
+        3
+      ],
+      [
+        "Aksum",
+        3
+      ],
+      [
+        "Geneva",
+        3
+      ],
+      [
+        "South Arabia",
+        2
+      ]
+    ],
+    "LOC": [
+      [
+        "Africa",
+        6
+      ],
+      [
+        "Ge'ez",
+        3
+      ],
+      [
+        "Red Sea",
+        3
+      ],
+      [
+        "the Red Sea",
+        3
+      ],
+      [
+        "the Erythraean Sea",
+        2
+      ],
+      [
+        "Mediterranean",
+        2
+      ],
+      [
+        "the Northern Horn",
+        2
+      ],
+      [
+        "Ogaden",
+        2
+      ],
+      [
+        "the Zemene Mesafint",
+        2
+      ],
+      [
+        "Oromia",
+        2
+      ]
+    ],
+    "ORDINAL": [
+      [
+        "first",
+        12
+      ],
+      [
+        "First",
+        4
+      ],
+      [
+        "7th",
+        1
+      ],
+      [
+        "10th",
+        1
+      ],
+      [
+        "16th",
+        1
+      ],
+      [
+        "14th",
+        1
+      ],
+      [
+        "80th",
+        1
+      ],
+      [
+        "Second",
+        1
+      ]
+    ],
+    "CARDINAL": [
+      [
+        "two",
+        5
+      ],
+      [
+        "four",
+        5
+      ],
+      [
+        "one",
+        4
+      ],
+      [
+        "thousands",
+        3
+      ],
+      [
+        "three",
+        3
+      ],
+      [
+        "2022",
+        3
+      ],
+      [
+        "1000",
+        2
+      ],
+      [
+        "1300",
+        2
+      ],
+      [
+        "1270",
+        2
+      ],
+      [
+        "1434",
+        2
+      ]
+    ],
+    "NORP": [
+      [
+        "Ethiopian",
+        43
+      ],
+      [
+        "Christian",
+        16
+      ],
+      [
+        "Aksumite",
+        12
+      ],
+      [
+        "Eritrean",
+        7
+      ],
+      [
+        "Oromo",
+        7
+      ],
+      [
+        "Amhara",
+        7
+      ],
+      [
+        "r.",
+        6
+      ],
+      [
+        "Tigray",
+        5
+      ],
+      [
+        "Christianity",
+        5
+      ],
+      [
+        "Italian",
+        5
+      ]
+    ],
+    "FAC": [
+      [
+        "Ge'ez",
+        3
+      ],
+      [
+        "the Zemene Mesafint",
+        2
+      ],
+      [
+        "the Ancient South Arabian",
+        1
+      ],
+      [
+        "Monument\nDescription\nSignificance\nThe",
+        1
+      ],
+      [
+        "Dungur Palace",
+        1
+      ],
+      [
+        "the \"Palace of the Queen of Sheba",
+        1
+      ],
+      [
+        "Tiglachin Monument",
+        1
+      ],
+      [
+        "Timkat (Epiphany",
+        1
+      ],
+      [
+        "the Battle of Adwa",
+        1
+      ],
+      [
+        "Jubilee Palace",
+        1
+      ]
+    ],
+    "LAW": [
+      [
+        "Page 2",
+        11
+      ],
+      [
+        "Page 3",
+        8
+      ],
+      [
+        "Page 4",
+        8
+      ],
+      [
+        "Page 5",
+        8
+      ],
+      [
+        "The Transitional Charter",
+        1
+      ],
+      [
+        "The 1995 Constitution and Ethnic Federalism",
+        1
+      ],
+      [
+        "the 1995 Constitution",
+        1
+      ],
+      [
+        "Article 39 of the Constitution",
+        1
+      ],
+      [
+        "Constitution",
+        1
+      ],
+      [
+        "the Algiers Agreement",
+        1
+      ]
+    ],
+    "QUANTITY": [
+      [
+        "33 meters",
+        1
+      ],
+      [
+        "24 meters",
+        1
+      ],
+      [
+        "24-meter",
+        1
+      ]
+    ],
+    "EVENT": [
+      [
+        "Ethiopian War",
+        3
+      ],
+      [
+        "No War",
+        3
+      ],
+      [
+        "Solomonic Dynasty",
+        2
+      ],
+      [
+        "The war",
+        2
+      ],
+      [
+        "the Solomonic Dynasty",
+        2
+      ],
+      [
+        "weapon of war",
+        2
+      ],
+      [
+        "Tigray War",
+        2
+      ],
+      [
+        "Ge'ez",
+        1
+      ],
+      [
+        "Ethiopian Revolution",
+        1
+      ],
+      [
+        "The End of Empire and the Dawn of Revolution",
+        1
+      ]
+    ],
+    "DOCUMENT": [
+      [
+        "Declaration of Socialism",
+        1
+      ]
+    ],
+    "WORK_OF_ART": [
+      [
+        "The Red Terror",
+        1
+      ],
+      [
+        "The Crisis of Survival: The Adal-Ethiopian War",
+        1
+      ],
+      [
+        "Katama",
+        1
+      ],
+      [
+        "Menelik II",
+        1
+      ],
+      [
+        "The Crisis of Sovereignty: The Italian Invasion",
+        1
+      ],
+      [
+        "The Kebra Nagast",
+        1
+      ],
+      [
+        "Bible",
+        1
+      ],
+      [
+        "Medemer",
+        1
+      ],
+      [
+        "Nobel Peace Prize",
+        1
+      ],
+      [
+        "The Nobel Prize",
+        1
+      ]
+    ],
+    "PRODUCT": [
+      [
+        "Castle",
+        2
+      ],
+      [
+        "Tewodros II",
+        2
+      ],
+      [
+        "Astar",
+        1
+      ],
+      [
+        "Ge'ez Literature",
+        1
+      ],
+      [
+        "Yohannes IV",
+        1
+      ],
+      [
+        "Menelik II",
+        1
+      ],
+      [
+        "Teferi",
+        1
+      ]
+    ],
+    "PERCENT": [
+      [
+        "over 99%",
+        1
+      ]
+    ]
+  }
+}
