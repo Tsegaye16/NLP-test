@@ -442,7 +442,7 @@ The NLP pipeline is the foundation of the entire system. Each step is explicitly
 
 ### Method: Extractive Summarization
 
-The system uses **extractive summarization** methods that select important sentences from the original text, **strictly avoiding end-to-end LLM summarization**.
+The system uses **extractive summarization** methods that select important sentences from the original text.
 
 ### Available Methods
 
@@ -481,15 +481,7 @@ The system uses **extractive summarization** methods that select important sente
 1. **Historical Accuracy:** Preserves original wording, crucial for historical documents
 2. **Traceability:** Every summary sentence can be traced to source text
 3. **No Hallucination:** Cannot introduce facts not in source
-4. **Cost-Effective:** No API calls or LLM inference costs
-5. **Interpretability:** Clear selection criteria (sentence scores)
-
-**Why Not LLM Summarization:**
-
-- Requirement explicitly prohibits end-to-end LLM summarization
-- Risk of hallucination with historical facts
-- Loss of traceability to source text
-- Higher computational cost
+4. **Interpretability:** Clear selection criteria (sentence scores)
 
 ### Implementation Details
 
